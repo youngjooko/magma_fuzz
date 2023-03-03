@@ -91,7 +91,8 @@ __attribute__((weak)) void __asan_unpoison_memory_region(
 __attribute__((weak)) void *__asan_region_is_poisoned(void *beg, size_t size);
 
 // Notify AFL about persistent mode.
-static volatile char AFL_PERSISTENT[] = "##SIG_AFL_PERSISTENT##";
+// DISABLED to avoid afl-showmap misbehavior
+static volatile char AFL_PERSISTENT[] = "##SIG_AFL_NOT_PERSISTENT##";
 int                  __afl_persistent_loop(unsigned int);
 
 // Notify AFL about deferred forkserver.
@@ -395,6 +396,42 @@ int LLVMFuzzerRunDriver(int *argcp, char ***argvp,
 
 }
 
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
+__attribute__((weak))
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
+{
+  // assert(0 && "LLVMFuzzerTestOneInput should not be implemented in afl_driver");
+  return 0;
+}
 __attribute__((weak))
 int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size)
 {

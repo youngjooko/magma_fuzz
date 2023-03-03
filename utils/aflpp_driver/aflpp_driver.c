@@ -35,7 +35,6 @@ $AFL_HOME/afl-fuzz -i IN -o OUT ./a.out
 #include <assert.h>
 #include <errno.h>
 #include <stdarg.h>
-#include <stdbool.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -46,9 +45,6 @@ $AFL_HOME/afl-fuzz -i IN -o OUT ./a.out
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <sys/mman.h>
-#ifndef __HAIKU__
-  #include <sys/syscall.h>
-#endif
 
 #include "config.h"
 #include "types.h"
@@ -58,37 +54,13 @@ $AFL_HOME/afl-fuzz -i IN -o OUT ./a.out
   #include "hash.h"
 #endif
 
-int                   __afl_sharedmem_fuzzing = 1;
-extern unsigned int  *__afl_fuzz_len;
+int                   __afl_sharedmem_fuzzing = 0;
+extern unsigned int * __afl_fuzz_len;
 extern unsigned char *__afl_fuzz_ptr;
 
 // libFuzzer interface is thin, so we don't include any libFuzzer headers.
-__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data,
-                                                 size_t         Size);
+__attribute__((weak)) int LLVMFuzzerTestOneInput(const uint8_t *Data, size_t Size);
 __attribute__((weak)) int LLVMFuzzerInitialize(int *argc, char ***argv);
-int                       LLVMFuzzerRunDriver(int *argc, char ***argv,
-                                              int (*callback)(const uint8_t *data, size_t size));
-
-// Default nop ASan hooks for manual poisoning when not linking the ASan
-// runtime
-// https://github.com/google/sanitizers/wiki/AddressSanitizerManualPoisoning
-__attribute__((weak)) void __asan_poison_memory_region(
-    void const volatile *addr, size_t size) {
-
-  (void)addr;
-  (void)size;
-
-}
-
-__attribute__((weak)) void __asan_unpoison_memory_region(
-    void const volatile *addr, size_t size) {
-
-  (void)addr;
-  (void)size;
-
-}
-
-__attribute__((weak)) void *__asan_region_is_poisoned(void *beg, size_t size);
 
 // Notify AFL about persistent mode.
 // DISABLED to avoid afl-showmap misbehavior
@@ -200,14 +172,9 @@ size_t LLVMFuzzerMutate(uint8_t *Data, size_t Size, size_t MaxSize) {
 }
 
 // Execute any files provided as parameters.
-static int ExecuteFilesOnyByOne(int argc, char **argv,
-                                int (*callback)(const uint8_t *data,
-                                                size_t         size)) {
+static int ExecuteFilesOnyByOne(int argc, char **argv) {
 
   unsigned char *buf = (unsigned char *)malloc(MAX_FILE);
-
-  __asan_poison_memory_region(buf, MAX_FILE);
-  ssize_t prev_length = 0;
 
   for (int i = 1; i < argc; i++) {
 
@@ -217,28 +184,12 @@ static int ExecuteFilesOnyByOne(int argc, char **argv,
 
     if (fd == -1) { continue; }
 
-#ifndef __HAIKU__
-    ssize_t length = syscall(SYS_read, fd, buf, MAX_FILE);
-#else
-    ssize_t length = _kern_read(fd, buf, MAX_FILE);
-#endif  // HAIKU
+    ssize_t length = read(fd, buf, MAX_FILE);
 
     if (length > 0) {
 
-      if (length < prev_length) {
-
-        __asan_poison_memory_region(buf + length, prev_length - length);
-
-      } else {
-
-        __asan_unpoison_memory_region(buf + prev_length, length - prev_length);
-
-      }
-
-      prev_length = length;
-
       printf("Reading %zu bytes from %s\n", length, argv[i]);
-      callback(buf, length);
+      LLVMFuzzerTestOneInput(buf, length);
       printf("Execution successful.\n");
 
     }
@@ -258,29 +209,19 @@ __attribute__((weak)) int main(int argc, char **argv) {
     printf(
         "============================== INFO ================================\n"
         "This binary is built for afl++.\n"
-        "To run the target function on individual input(s) execute:\n"
+        "To use with afl-cmin or afl-cmin.bash pass '-' as single command line "
+        "option\n"
+        "To run the target function on individual input(s) execute this:\n"
         "  %s INPUT_FILE1 [INPUT_FILE2 ... ]\n"
-        "To fuzz with afl-fuzz execute:\n"
+        "To fuzz with afl-fuzz execute this:\n"
         "  afl-fuzz [afl-flags] -- %s [-N]\n"
         "afl-fuzz will run N iterations before re-spawning the process "
         "(default: "
         "INT_MAX)\n"
         "For stdin input processing, pass '-' as single command line option.\n"
         "For file input processing, pass '@@' as single command line option.\n"
-        "To use with afl-cmin or afl-cmin.bash pass '-' as single command line "
-        "option\n"
         "===================================================================\n",
         argv[0], argv[0]);
-
-  return LLVMFuzzerRunDriver(&argc, &argv, LLVMFuzzerTestOneInput);
-
-}
-
-int LLVMFuzzerRunDriver(int *argcp, char ***argvp,
-                        int (*callback)(const uint8_t *data, size_t size)) {
-
-  int    argc = *argcp;
-  char **argv = *argvp;
 
   if (getenv("AFL_GDB")) {
 
@@ -291,12 +232,6 @@ int LLVMFuzzerRunDriver(int *argcp, char ***argvp,
     sleep(1);
 
   }
-
-  bool in_afl = !(!getenv(SHM_FUZZ_ENV_VAR) || !getenv(SHM_ENV_VAR) ||
-                  fcntl(FORKSRV_FD, F_GETFD) == -1 ||
-                  fcntl(FORKSRV_FD + 1, F_GETFD) == -1);
-
-  if (!in_afl) { __afl_sharedmem_fuzzing = 0; }
 
   output_file = stderr;
   maybe_duplicate_stderr();
@@ -318,28 +253,27 @@ int LLVMFuzzerRunDriver(int *argcp, char ***argvp,
 
   int N = INT_MAX;
 
-  if (!in_afl && argc == 2 && !strcmp(argv[1], "-")) {
+  if (argc == 2 && !strcmp(argv[1], "-")) {
 
+    __afl_sharedmem_fuzzing = 0;
     __afl_manual_init();
-    return ExecuteFilesOnyByOne(argc, argv, callback);
+    return ExecuteFilesOnyByOne(argc, argv);
 
-  } else if (argc == 2 && argv[1][0] == '-' && argv[1][1]) {
+  } else if (argc == 2 && argv[1][0] == '-') {
 
     N = atoi(argv[1] + 1);
 
-  } else if (argc == 2 && argv[1][0] != '-' && (N = atoi(argv[1])) > 0) {
+  } else if (argc == 2 && (N = atoi(argv[1])) > 0) {
 
     printf("WARNING: using the deprecated call style `%s %d`\n", argv[0], N);
 
-  } else if (!in_afl && argc > 1 && argv[1][0] != '-') {
+  } else if (argc > 1) {
+
+    __afl_sharedmem_fuzzing = 0;
 
     if (argc == 2) { __afl_manual_init(); }
 
-    return ExecuteFilesOnyByOne(argc, argv, callback);
-
-  } else {
-
-    N = INT_MAX;
+    return ExecuteFilesOnyByOne(argc, argv);
 
   }
 
@@ -349,50 +283,31 @@ int LLVMFuzzerRunDriver(int *argcp, char ***argvp,
 
   // Call LLVMFuzzerTestOneInput here so that coverage caused by initialization
   // on the first execution of LLVMFuzzerTestOneInput is ignored.
-  callback(dummy_input, 4);
+  LLVMFuzzerTestOneInput(dummy_input, 1);
 
-  __asan_poison_memory_region(__afl_fuzz_ptr, MAX_FILE);
-  size_t prev_length = 0;
+  int num_runs = 0;
+  while (__afl_persistent_loop(N)) {
 
-  // for speed only insert asan functions if the target is linked with asan
-  if (__asan_region_is_poisoned) {
+#ifdef _DEBUG
+    fprintf(stderr, "CLIENT crc: %016llx len: %u\n",
+            hash64(__afl_fuzz_ptr, *__afl_fuzz_len, 0xa5b35705),
+            *__afl_fuzz_len);
+    fprintf(stderr, "RECV:");
+    for (int i = 0; i < *__afl_fuzz_len; i++)
+      fprintf(stderr, "%02x", __afl_fuzz_ptr[i]);
+    fprintf(stderr, "\n");
+#endif
 
-    while (__afl_persistent_loop(N)) {
+    if (*__afl_fuzz_len) {
 
-      size_t length = *__afl_fuzz_len;
-
-      if (likely(length)) {
-
-        if (length < prev_length) {
-
-          __asan_poison_memory_region(__afl_fuzz_ptr + length,
-                                      prev_length - length);
-
-        } else if (length > prev_length) {
-
-          __asan_unpoison_memory_region(__afl_fuzz_ptr + prev_length,
-                                        length - prev_length);
-
-        }
-
-        prev_length = length;
-        (void)callback(__afl_fuzz_ptr, length);
-
-      }
-
-    }
-
-  } else {
-
-    while (__afl_persistent_loop(N)) {
-
-      callback(__afl_fuzz_ptr, *__afl_fuzz_len);
+      num_runs++;
+      LLVMFuzzerTestOneInput(__afl_fuzz_ptr, *__afl_fuzz_len);
 
     }
 
   }
 
-  return 0;
+  printf("%s: successfully executed %d input(s)\n", argv[0], num_runs);
 
 }
 
