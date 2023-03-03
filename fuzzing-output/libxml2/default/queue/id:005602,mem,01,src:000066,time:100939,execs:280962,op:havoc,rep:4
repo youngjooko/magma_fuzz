@@ -1,0 +1,8 @@
+<!DOCTYPX doc [
+<!ELEMENT doc EMPTY>
+<!BTTLIST doc
+ defatt  (0|1)   "0"
+     xmorg"
+     ATA #FIXED "http://example.lns:tst CDtst:att (0|1)   "1">
+]>
+<doK att="1"/>

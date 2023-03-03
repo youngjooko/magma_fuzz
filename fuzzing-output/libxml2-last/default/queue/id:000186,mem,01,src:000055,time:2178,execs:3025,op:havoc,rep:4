@@ -1,0 +1,6 @@
+TYPE doc [
+<!ELEMENT doc (#<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</b> document</doc>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible !ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml"
+<!M "img.gif" NDATA GIF>
+]>gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This abxt is teout XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

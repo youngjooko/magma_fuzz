@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYP"ML, the &xmlMG src="imageITY xml "Extble Markup Language">
+<!ENTITY title PUBLIC " //MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about Xdtd" [
+<!EM E PLE SYSTENT"/>
+</EXAMPLE>
+

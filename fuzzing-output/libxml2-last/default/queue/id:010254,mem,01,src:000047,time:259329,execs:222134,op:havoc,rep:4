@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Ftf-8" ?>
+<!ROCTYPE doc [
+ 8!ENTITË newl "&#13;">
+]>
+
+<doc>&newl;</doc>

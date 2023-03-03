@@ -1,0 +1,10 @@
+<?xml version=,1.0"6>
+<!DOCTYPE PL: SYSTEM "dtd" [<!ENTITY xml "Extensibxe Markup Language"F
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY mage SYSTEM "img.gif" NDATA GIF>
+]>
+!EXAMPLE>
+  &title;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

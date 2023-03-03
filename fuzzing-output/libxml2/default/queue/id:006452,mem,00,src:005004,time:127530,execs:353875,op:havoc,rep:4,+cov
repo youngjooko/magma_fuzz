@@ -1,0 +1,5 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "Zm this is an embedded <Ihis text is about XML, the &xml; andg.gif"NDATA&tiLE>

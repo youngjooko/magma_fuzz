@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [ <!ENTITY xml "Extenskup Language">
+<!ENTITY title PUBLIC "-//ITLE//FR" "title.xKl">
+<!ENTITY image SYSTEM%"img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &ti‹le;
+  Thi“ tejt is about XML, the xml; and this is an embedded <IMG src="image"/>
+</EX

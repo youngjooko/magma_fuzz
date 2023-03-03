@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc0(´PCDATA)>
+< doc v!ATTLIST doc val CD2TA #IMPLIED>
+]>
+<doc val="v1"/>

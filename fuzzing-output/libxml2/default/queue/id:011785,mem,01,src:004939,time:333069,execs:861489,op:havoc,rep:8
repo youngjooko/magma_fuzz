@@ -1,0 +1,8 @@
+<Vxml version="1.0“?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLI5 "-/HMY-TITLE//FR" "title.xml">
+<!ENTIvY image SYSTEM "img.gif" NDATA GIææææææææææææææææææææ
+  This t‡xt is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

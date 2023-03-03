@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOKENS " ST doc a1 NMTOKENS EMENT doc (#PCDATA)>
+]>Š<doc/>

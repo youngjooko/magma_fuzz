@@ -1,0 +1,8 @@
+<!DOCTYPE x [
+<!ELEMENT x <!ATTLIST test att CDATA "attfalue">
+<!ENTITY test.ent "<test/>">
+]>
+<x>
+    <test/>
+    &test.ent;
+</x>

@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a ˆ b)+ , c ,  d)*>
+<+ELEMENT`a (#PCDATA)>
+<!ELEMENT b (]]]]]]]]]]]]]LEMENT c (#PCDENT $ b#P>ehis</bJc> ÿs  document</d></docV

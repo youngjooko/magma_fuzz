@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PL- SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FRÝ "titlÿÿÿ€l">
+<!ENTITY imagR SYSTEM "imj.gif" NDATA	gIF>
+]>
+<EXAMPLE>
+  &title;
+  ;his text is about XML, the gR SYSTEM "imj.gif" NDATA	GI&his is an >
+</EXAMPLE>
+

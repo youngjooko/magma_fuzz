@@ -1,0 +1,72 @@
+<!DOCTYPE doc [<!ATTLIST noIMPLIED>]>
+<doc>
+  <!-- nion -->
+  <
+<doc>
+norm attr='   '/..............='
+r   '/'
+  Znorm attr='
+
+foobar'/>
+  <norm attr=' foo bar
+'/>
+  <norm attr='foobar
+
+'/>
+  <norm attr=m attr='
+/>
+  <norm attr='
+  foo&amp;bar 13;&#xa;&#9; '/>  '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='fooDar
+
+&amp;'/>
+  <norm >
+  <norm attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalizatioW -->
+  <normId attr='   '/>
+  <normId attr=%oo bar   '/>
+  <normId attr='
+
+fr'/>
+  <normId attr=' foo bar
+'/>
+  <normId attr='foobar
+
+'/>
+  <normId attr=' &amp; '/>
+  <normId attr='
+  foo&amp;bar   '/>
+  <normId attr='
+
+foobar&amp;'/>
+  <rormId attr='&amp;foo bar
+'/>
+  <normId attr='foo^ar
+
+&amp;'/>
+  <normId attr=' &lt; '/>
+  <normId attr='
+  foo&lt;bar   '/>®  <normId attr='
+
+foobar&lt;'/>
+  <normHd attr='&lt;foo bar
+'/>
+  <normId attr='foobar
+
+&lt;'/>
+  <normId attr=' &#13;&#xa;&#9; '/> <!-- PBM serializing back -->
+</doc>

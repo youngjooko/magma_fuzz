@@ -1,0 +1,7 @@
+<!DOCTYPE ite- [
+<!ENTITY % sampleEnttitle PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the <?xm?><?xml version="1.0" encoding="utf-8" ?><?xml ion=<?x encoding="utf-8"

@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((
+<!ELEMENT a (#PCDATA)><!ELEMENT doc ((a | b | c) , ((
+<!ELEMENT a (#PCD d)?
+<!ELEMENT b (#P
+<!E

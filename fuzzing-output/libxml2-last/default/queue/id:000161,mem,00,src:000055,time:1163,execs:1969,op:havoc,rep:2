@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | aument</do!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>vklid</b> document</doc>

@@ -1,0 +1,11 @@
+<?xml "Extel version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "ExtensiblE EXAMPLE SYSTEe Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR "title.g.gif" NDATA GIF>
+]>
+<EXA GIF>
+]>
+<EXAMPLE>
+  &tibout XML, the &xml; aneddmage"/>
+</EXAMPLE>
+

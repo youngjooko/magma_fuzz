@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a NMTOKENS " 1c (#PCDATA)>
+]>
+<doc/>

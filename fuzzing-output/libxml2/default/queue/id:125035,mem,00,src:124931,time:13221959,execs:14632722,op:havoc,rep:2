@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|-)   ""
+     xml:tst CDATA  "1">
+]>
+<doc a>
+<doce.olg"
+     twtPa:t (0|1)   "1">
+]>
+<doc a>
+<doc at

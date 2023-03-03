@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "IT3E//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xRl; and this is an embeddgd <IMG src="image"/>
+</EXAMPLE>
+

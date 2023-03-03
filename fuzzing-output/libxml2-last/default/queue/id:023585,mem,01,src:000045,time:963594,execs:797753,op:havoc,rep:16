@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTC "-/EM "dPcE>
+  &title;
+  This tetd"[
+<!ENTITY xml "Extensible Markup Langutge">
+<2EKTITY title PUBLIC "-//MY-ÿÿTLE/.FR" "title.xml">
+;!ENTITY image SYS EM "is.gif" NDATA GIF>
+]>
+<EXAMPcE>
+  &title;
+  Thij text is about XML																	, the &xml;<IMG src="image"/>
+</EXAMPLE>
+

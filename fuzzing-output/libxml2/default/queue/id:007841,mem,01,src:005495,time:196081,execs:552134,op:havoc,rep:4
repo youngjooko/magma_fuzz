@@ -1,0 +1,6 @@
+<!DOCTYPY doc [
+<!ELEMENT doc EMPTY>
+<!ATTLISTsdoc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATA #FIXED "htorg"
+     tpt:att (0O1)oc att="1"/>

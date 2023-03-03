@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble Markupuage">
+<!ENTITY titlQ PUBLIC "Y-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "?/)R.xml">>
+]>
+<EXAMPLE>
+  &title;
+  Thim t‡xme; and this is an embeddeR <IMG src="iwage"/>
+</E

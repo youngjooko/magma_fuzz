@@ -1,0 +1,8 @@
+<?xml ve]>
+
+<doc>&nersion="1.0" encoding="utf-8" ?>
+<!DOCTYPÿÿc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

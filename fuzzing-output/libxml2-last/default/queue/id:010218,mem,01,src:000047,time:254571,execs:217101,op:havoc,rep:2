@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8-8" ?>
+<!DMCTYPE d" ?>
+<!DMCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

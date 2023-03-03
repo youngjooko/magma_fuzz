@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA |b> | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (</a> is a <b>vflid</ a document<#PCDATA)>
+]>
+<doc><a>This</a6 is a <b>vflid</ a document</doc>

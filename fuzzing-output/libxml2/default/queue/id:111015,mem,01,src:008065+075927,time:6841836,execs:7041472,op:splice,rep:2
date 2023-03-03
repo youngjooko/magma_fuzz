@@ -1,0 +1,77 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATA #FIXED "http:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <?xml version="1.0"?>
+<EXAMPLE>
+    Thisexclamation sign &#xA1;
+    This is a <!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+r   '/>
+  <norm attr='
+
+foobar'/>
+  <norm attr=' foo bar
+'/>
+  <norm attr='foobar
+
+'/>
+  <norm attr=' &amp; '/>
+  <norm attr='
+  foo&amp;bar   '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalization -->
+  <normId attr='   '/>
+  <normId attr='oo bar   '/>
+  <normId attr='
+
+fr'/>
+  <normId attr=' foo bar
+'/>
+  <normId attr='foobar
+
+'/>
+  <normId attr=' &amp; '/>
+  <normId attr='
+  foo&amp;bar   '/>
+  <normId attr='
+
+foobar&amp;'/>
+  <normId attr='&amp;foo bar
+'/>
+  <normId attr='foobar
+
+<?xml version="1.0"﻿<?<?xml von="1.0"?>
+<dia:diagram xmlns:dia="http://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="bd">
+  <dia:color val="#ff"/>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Ba" visible="true">
+    <dia:object type="ine" version="0" id="O0">
+  <dia:attribute name="obj">
+        <dia:point val="1"/>
+      </dia:attribut

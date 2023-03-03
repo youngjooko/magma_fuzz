@@ -1,0 +1,12 @@
+<?xml vÿsion="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLEuage">
+<!ENTITY title PUBLIC//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is abouÿÿXML, the &xmdded <IMG src="image"/>
+</EXAMPLE>
+

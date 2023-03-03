@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|-)   ""
+      ml:jst CDATA #FIXED "htÿ€:/Dexample.olg"
+     tstPa:t (0|1)   "1">
+]>
+<doc a>
+<doc at

@@ -1,0 +1,14 @@
+<?xRl version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "title.xml">
+<!ENTITY image SYSTEM "img.gA GIF>
+]>
+<EXAMPLE>
+  &titleif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xmlMG simage"/>
+</EXAMPLE>
+

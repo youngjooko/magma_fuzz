@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.******************ge " "title.xml">>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt is about XML, the &xme; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

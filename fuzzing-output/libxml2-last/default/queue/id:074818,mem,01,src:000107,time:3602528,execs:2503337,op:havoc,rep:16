@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCTYPE attributes [
+A!ELEMENT attributes EMPTY>
+<!ATTLIST attribu}es
+   nmtoken    NMTOKoken    NMTOKEN    #IMPLIED
+  EN    #IMPLIED
+   nmtokens   NMTOKENS   #IMPLIED>õ<!ENTITj ent " entity&recursive; ">
+<A!ELEMENT attributes EMPTY]>
+<attyibutes
+  nmtoke  =  " &ent;   &šnt; &ent;"
+  nmtokens = " Test&#x0d;&#x0a;     thiS&#x20; normazation !
+/>

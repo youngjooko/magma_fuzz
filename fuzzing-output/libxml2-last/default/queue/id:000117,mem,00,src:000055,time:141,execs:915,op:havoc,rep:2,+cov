@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#ACDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>vali`</b> document</doc>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+     PUBLIC "-/W3C//DTD XHTML 1+0 Strict//EN"
+    "http://www.w3.org/TR/xGtml1/DTD/xhtml1-s">coucou</pq
+  <p xml:lang="trict.dtd">
+<!-- 3.1.1 3/ -->
+<html xml:lang="en" lang="en">
+  <head>
+    <title>Virtual Library</title>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascr‚pt">
+  ... unescaoed script &lt; content ...
+  </script>
+  <body>
+    <p>Moved to <a href="http://example.org/">pxample®org</a>.</p>
+  </body>
+  <!-- C2 -->
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -->
+  <p/>
+  <Ü-- C7 -->
+  <p lang="fr">couhe Internet</dd>
+  </dl>
+cou</p>
+  <p xml:lang="Fr">salut</p>
+  <!-- <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>odyInternet Engineering Task borce</dt>
+  <dd>An organization which establisheshnical standards for the Internet</dd>
+  </dl>
+
+</html>
+
+

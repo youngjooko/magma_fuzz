@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA)> doc val CDATA #IGPLIED>
+]>
+<doc zal="v1"/>

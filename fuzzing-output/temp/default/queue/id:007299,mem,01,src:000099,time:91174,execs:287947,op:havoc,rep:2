@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ATTLIST doc aMMMMMMMMMMMMMMMMMMMMMMMMMMMMM1 NMTOKENS " 1   2       ">
+<!ELENENT doc (#PCDATA)>
+]>
+<doc/>

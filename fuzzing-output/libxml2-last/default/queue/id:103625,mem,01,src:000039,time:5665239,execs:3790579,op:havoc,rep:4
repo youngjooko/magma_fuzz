@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ENTITY test1 "tesITY test2 "test 2">
+]>
+<doc>
+   <Content>Reten&#23ntent>&lt;&gt;</Content>
+  <Content>&test1;&test2;</Content>
+</doc>

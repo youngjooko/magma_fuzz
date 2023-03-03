@@ -1,0 +1,6 @@
+<?x encoding="utf-8"bbbbb ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&…ewl;</doc>

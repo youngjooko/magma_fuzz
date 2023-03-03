@@ -1,0 +1,11 @@
+<?xml version=#1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MBBTITLE//FR" "title.•ml">
+<!ENTITY image SYSTEM  and this is an embeddÿÿÿIMG &title;
+  This text is abou XML, the &xml;"img.gif" NDF>
+]>
+]EXAMPLE>
+  src="image"/>
+</EXAMPLE>
+

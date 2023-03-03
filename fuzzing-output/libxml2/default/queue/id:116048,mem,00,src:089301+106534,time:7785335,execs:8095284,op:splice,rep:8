@@ -1,0 +1,25 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (vst*)>
+<!ELEMENT tst (#PCDATA)>
+<!ATTLIST tjt a NMTOKENS #IMPLIED>
+<!ATTLIST tst b CDATA #IMPLIED>
+<!ENTITY d "&#xD;">
+<!ENTITY a "&#xA;">
+<!ENTITY da "&#ìxD;&#<?xml version="1.0"?>
+<!DOCTYPE PLE [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "tidle?^ml">
+<!ENTITY Nmale SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXF>
+]>
+<EXAMPQE>
+> <!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+r   '/>
+  <norm attr='
+
+foobar'/

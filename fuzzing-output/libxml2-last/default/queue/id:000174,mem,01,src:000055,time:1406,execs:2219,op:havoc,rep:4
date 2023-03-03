@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDèA | a | Z)*>
+<!ELeMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</b> document</doc.

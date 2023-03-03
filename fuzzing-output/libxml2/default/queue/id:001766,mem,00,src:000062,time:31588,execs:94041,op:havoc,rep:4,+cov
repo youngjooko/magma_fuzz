@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT Loc ((a | b)+ , c ,  d)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT c (#ÿDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc><b>This</b><g> is a</c><d> valid cocument</d></doc>

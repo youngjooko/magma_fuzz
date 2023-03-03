@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.obody>
+  <!-- C2 -->
+  <istrict.dtd">
+<!-- rict//EN"
+  
+<html xml:lang="en" lang="en">
+  <head>
+    <title>Virtual Librtitle>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript"6
+  ... unescaped script &lt; content ...
+  </cript=ü  <body>
+    <p>Moved to <a href="http://example.org/">example.org</a>.</p>
+  </rg/TR/xhtml1/DTD/xhtml1-mg src="foo.g¸f" alt="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->
+  <p lang="fr">coucou</p>
+  <p xm C8 -->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>Internet Engineering Task Force</dt>
+  <dd>An organization which establishes technical standards for the Internet</dd>
+  </dl>
+
+</html>
+
+

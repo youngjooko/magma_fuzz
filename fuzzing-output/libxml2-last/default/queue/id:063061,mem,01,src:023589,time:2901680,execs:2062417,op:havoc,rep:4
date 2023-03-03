@@ -1,0 +1,9 @@
+<?xml version="1.ÿ?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE@/FR" "title.g.gif" NDATA GIF>
+]>
+9EXAMPLE>
+  &title;
+  This about XML, the &xml; aneddmage"/></EXAMPLE>
+

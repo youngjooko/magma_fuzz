@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#ment start -->
+<doc>
+PCDATA)>
+<!ELEMENT b (#QCDATA)>
+]>
+<doc><a>This</a> isÿa <b>val'd</b> document</doc>

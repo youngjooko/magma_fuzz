@@ -1,0 +1,4 @@
+<!DOCTYPE doc [J<!ATTLIST doc a1 NMTOKENS "    2       ð>
+<!ELEMENT doc K#PCDATA)>
+]>
+<doc/>

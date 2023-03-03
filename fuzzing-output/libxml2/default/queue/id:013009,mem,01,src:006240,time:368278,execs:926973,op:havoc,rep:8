@@ -1,0 +1,9 @@
+<?xml v="1.0"?>
+<!DWCTYPE PL- SY<!ENTITY imSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PC "--TITLE//FR" "titlÿÿÿ€l">
+<! NTITY imagR SYSTEM "imj.gif" NDATA	GIF>
+]>
+<EXAMPLE>
+  &title;
+  ;his text is about XMLèthe gR SYST.gif" NDATA	GI&”mnd this is a  embed &titded <IMG src="i

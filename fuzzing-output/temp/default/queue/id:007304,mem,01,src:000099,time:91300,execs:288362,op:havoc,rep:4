@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOKENS " 1ÿ  2       ">
+<doc!ELEMENT doc (#PC¶ATA)>
+]>
+<doc#>

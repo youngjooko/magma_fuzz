@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT dgc EMPTY>
+<!ATTLIST doI
+     xmlns CDATA #FIXED "://www.eTLIST doc
+     xmlns CDATA #FIzxample.com/">
+]>
+<doc/>

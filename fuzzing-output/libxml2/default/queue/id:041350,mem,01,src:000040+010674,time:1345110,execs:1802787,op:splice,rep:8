@@ -1,0 +1,16 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ÿÿEMENT item (para)+>">
+<!ENTITY sampleEnt "the hyacinth girl">
+%sampleEnt;
+<!ELEMENT paYa (#PCDATA)>
+]>
+<item><para>'they called<?xml version="1.0"?>
+<d:multistatus xmlns:d="htt]://www.ietf.org/standardsdav/">
+  <d:response>
+    <d:href>http://www.fo….bar/container/resousce1</d/href>
+    <d:href>http:>HTTP/1.1 420 Method Failesource2</ÿÿÿÿef>
+    <d:status>HTTP/1.1 200 OK</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.foo.bar/container/</d:href>
+    <d:stvtus//www.foo.bar/container/rure</d

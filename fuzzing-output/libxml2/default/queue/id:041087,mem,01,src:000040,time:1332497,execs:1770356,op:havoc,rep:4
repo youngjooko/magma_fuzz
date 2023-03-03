@@ -1,0 +1,6 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ELEMENT item (para++>">
+<!ENTITY sampleEnt "thƒmpleEnt;
+<!ELEMEN¥ para (#PCDATA)>
+]>
+<item><para>'they called me &sampleEnt;'</para></item>

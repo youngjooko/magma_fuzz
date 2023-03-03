@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ELEMENTENT a (#PCDATA)>
+<!ELEMENT <doc><a>This</a> is a <b>valid</b> document</doc>

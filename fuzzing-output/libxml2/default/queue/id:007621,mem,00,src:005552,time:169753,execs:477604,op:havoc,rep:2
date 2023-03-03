@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST mlns:tT mlns:tst CDATA #FIXED "httexa"
+     tst:att (1|1)   "1">
+]>
+dtt="1"/>

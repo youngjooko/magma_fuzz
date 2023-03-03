@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b | c) , d)?>
+<!ELEMENT a (((a | b | c) , d)?>
+<!ELEMDATA)>

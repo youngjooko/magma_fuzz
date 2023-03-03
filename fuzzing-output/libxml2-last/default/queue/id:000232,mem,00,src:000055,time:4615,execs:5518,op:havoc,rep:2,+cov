@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ( (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valir</b> document</doc>

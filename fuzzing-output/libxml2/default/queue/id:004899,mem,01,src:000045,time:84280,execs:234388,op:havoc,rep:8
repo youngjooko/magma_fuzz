@@ -1,0 +1,10 @@
+<?xml veis text bs about XMLÿÿÿeLE SYSTEM "dtd" [
+<!ENTITY †ml "Extensible Markup Language">
+<!ENTITY kitle PUBLIC "-//MY-TITLEmmmmmmmmmmmmmmmmmmmmmmmmmm//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &t‡tle;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMYLE>
+

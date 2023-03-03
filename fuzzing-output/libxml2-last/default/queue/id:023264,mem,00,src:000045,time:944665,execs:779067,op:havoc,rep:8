@@ -1,0 +1,15 @@
+<ÀxmlNDATA GIF>
+]>
+<EXITLE//FR" "gitle.xml">
+<!ENTIT version="1.0"?>
+<!DOCTYMPLE>
+  &title;
+ PE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE./FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML,5the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

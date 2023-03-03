@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCTYPE attributes [
+<!ELEMENT attributes EMPTY>
+<!ATTLIST attributes
+   nmtoken    NMTOKEN   "
+  NMTOKENS  " entity&eive; "rsive "reference">
+]>
+<attributes€  nmELEatNT attribPLIEkens = #x0d;&#x0a®     this&#x20; normalizMEi

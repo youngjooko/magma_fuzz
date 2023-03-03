@@ -1,0 +1,16 @@
+<?xml BLIC "-//MY-TITLE//FR" "title.version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible IF>
+]>
+<EXAMPLE>
+  &title;
+ MarŽup Language">
+<!ENTITY titlePUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY imageimg.ginguage">
+<!ENTITY titleSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  A GIF>This text is about XML,nd this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

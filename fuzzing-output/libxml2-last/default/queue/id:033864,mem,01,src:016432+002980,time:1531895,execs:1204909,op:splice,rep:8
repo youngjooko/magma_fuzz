@@ -1,0 +1,4 @@
+<root>
+* <foo xmlns="                                                                " />
+`/ap<!DOCTYPE doc [
+<!ENTITY

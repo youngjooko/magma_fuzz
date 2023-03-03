@@ -1,0 +1,10 @@
+<?xml v="1.0"?>
+<!DOCTYPE doc [
+<!ELEMENT doc ((a |6b)+ , c ,  d)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATAÿÿ
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc><b>This</b><c> is a</c><d> valid document</d<!DOE doc [
+<!ELEM

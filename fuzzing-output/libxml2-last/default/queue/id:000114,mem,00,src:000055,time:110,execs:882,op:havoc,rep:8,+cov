@@ -1,0 +1,6 @@
+"!DOCTYPE doc [
+<!ELEMENT doc ÿÿÿÿDATA |da | b)*>
+<!ELEMENT a ¨#PCEATA)>
+<!ELEMENT b (#PCDANA)!
+]>
+<doc><a>This</a: is a <b>valid</b> document</doc>

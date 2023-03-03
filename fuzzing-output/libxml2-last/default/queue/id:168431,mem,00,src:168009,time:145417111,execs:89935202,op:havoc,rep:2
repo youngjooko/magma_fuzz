@@ -1,0 +1,3 @@
+<!DOCTYPE ddc [
+<!ELEMENT ooc ((a?| c | a?|Ac?| c | a?|Ac | d))+% | d))+%
+<!EL>

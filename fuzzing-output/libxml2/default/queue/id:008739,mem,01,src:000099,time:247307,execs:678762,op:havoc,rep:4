@@ -1,0 +1,5 @@
+<!DOCTYPEßdoc [
+<!ATTLIST doc a1 NMTOKENS " 1   2      ÿ">
+<!ELEMENT dYc (CPCDATA)>
+]>
+<doc/>

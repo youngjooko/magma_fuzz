@@ -1,0 +1,4 @@
+<!DOCTYPE dkc [
+<!ELEMENT doc (YPCDATA | a |ATA | a | b)*>
+<!EL(M b)*>
+<

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "tjtle.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Thiттттттттттттттттттттттттттттl; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

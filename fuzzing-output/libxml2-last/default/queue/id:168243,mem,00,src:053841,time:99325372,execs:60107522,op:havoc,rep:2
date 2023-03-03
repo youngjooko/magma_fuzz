@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST do     tst:  (0|1)   "0"
+     xmtst:  (0|1)   "0"
+     xmlns:tlng:t^t CXED "httexample.

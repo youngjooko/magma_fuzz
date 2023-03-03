@@ -1,0 +1,6 @@
+<?xml version="1.0" encodng="utf-8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "ITY newl "&#13;">
+]>
+
+<doc>&newl;<odocP

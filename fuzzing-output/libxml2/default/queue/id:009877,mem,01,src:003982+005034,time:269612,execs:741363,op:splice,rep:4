@@ -1,0 +1,6 @@
+ÿþ<?xml version="1.0"?>
+<!DOCTYPE Pml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img;gif"  XML, the &xml; and this is an embedded #IMG  Markup Language">
+<!ENTITY titsrc="image"/>
+</EXAMPLE>

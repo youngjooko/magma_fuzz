@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<a.This</a> is a ðb>valid<Ob> document</doc>

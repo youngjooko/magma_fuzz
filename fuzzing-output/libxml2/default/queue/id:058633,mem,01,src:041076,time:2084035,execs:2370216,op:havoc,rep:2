@@ -1,0 +1,9 @@
+<?xmlY xml "Ex Markup Language version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "tidle?xml">
+<!ENTITY image SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+תתתתתתתתתתתתתl version="1»

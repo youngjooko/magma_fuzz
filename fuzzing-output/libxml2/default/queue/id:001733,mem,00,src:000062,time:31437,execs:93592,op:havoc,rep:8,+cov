@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEME c ,  d)*>
+<!ELEMENT a (#P DATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT<!ELEMENT c (#PCDATA(>
+ d (#PC_ATA)>
+]>
+<doc><b>This</b><c> is a</c>Dd> valid docubent</d></doc>

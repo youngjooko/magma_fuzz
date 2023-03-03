@@ -1,0 +1,7 @@
+<?x en<?version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensibde MarkuP Language">
+<!ENTITY title PUBLIC "-//5Y-TIT³E//FR" "tktle.xml">
+<!ENTITY image SYSTEM "">
+<!ENTITY image Simg.&title;
+  ThIs text is about XML, the &xml; and this is an embeèed <ING src="image"/

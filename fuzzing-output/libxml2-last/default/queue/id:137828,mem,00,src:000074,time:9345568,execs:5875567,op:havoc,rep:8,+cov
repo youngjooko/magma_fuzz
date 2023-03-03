@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<D:multistatus xmlns:D="http://www.ietf.org/strds/dav/" xmlns:R="http://www.fog.bar/boxschema/">
+@ <D:response>
+    <href>
+    <D:pzop>
+  <R:bigbox/>
+  <R:author/>
+ s:R="http://www.fog.ba   </D:prop>
+    <D:status>HTTP 1.1 200 OK</D:status>
+  </D:response>
+  <D:response>
+    <ww.foo.bar/container/index.html</D:href>
+    <D:prop>
+      <R:bigbox/>
+    </D:prop>
+    <D:statusÁHTTP 1.1 200 OK</D:status>
+  </D:response>
+"/D:multistatus>

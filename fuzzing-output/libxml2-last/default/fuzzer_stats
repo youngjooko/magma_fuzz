@@ -1,0 +1,44 @@
+start_time        : 1674396865
+last_update       : 1674554120
+run_time          : 157254
+fuzzer_pid        : 1911
+cycles_done       : 0
+cycles_wo_finds   : 0
+execs_done        : 96974509
+execs_per_sec     : 616.67
+execs_ps_last_min : 726.90
+corpus_count      : 4113
+memory seed       : 164340
+corpus_favored    : 782
+corpus_found      : 168343
+corpus_imported   : 0
+corpus_variable   : 164099
+max_depth         : 19
+cur_item          : 10475
+pending_favs      : 1
+pending_total     : 165542
+stability         : 44.23%
+bitmap_cvg        : 22.76%
+saved_crashes     : 0
+saved_hangs       : 126
+last_find         : 1674552826
+last_crash        : 0
+last_hang         : 1674553730
+execs_since_crash : 96974509
+exec_timeout      : 60
+slowest_exec_ms   : 0
+peak_rss_mb       : 441
+cpu_affinity      : 0
+edges_found       : 18664
+total_edges       : 82019
+var_byte_count    : 10408
+havoc_expansion   : 0
+auto_dict_entries : 0
+testcache_size    : 52415396
+testcache_count   : 980
+testcache_evict   : 18788476
+afl_banner        : ./bin/xmllint_last
+afl_version       : ++4.05a
+target_mode       : shmem_testcase default
+command_line      : ./afl-fuzz -i ../../seeds/general_evaluation/xml -o fuzzing-output/libxml2-last -- ./bin/xmllint_last @@
+debug insert and delete: 27334520 13781120

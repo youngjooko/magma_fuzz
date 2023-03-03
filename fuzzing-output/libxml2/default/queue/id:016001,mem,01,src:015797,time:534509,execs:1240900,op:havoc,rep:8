@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtdxml">
+<ATA gIF>
+!ENTITY image Sguage">
+<!ºNTITY titleYPUBLIC " //M" "titne.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA gIF>
+]>
+<EXAMPLE>
+  ne.xml">
+<ATA gIF>
+!ENTITY image SY&title;
+  This text is about XML, the &xmlMG simage"/>
+</EXAMPLE>
+

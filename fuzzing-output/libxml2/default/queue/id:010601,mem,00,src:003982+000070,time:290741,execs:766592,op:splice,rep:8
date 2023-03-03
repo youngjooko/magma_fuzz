@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<d:multistatus xmlns:d="http://www.ietf.org/standards/dav/">
+  <d:response>
+    <d:href>http://www.foo.bar/container/resource1</d:href>
+    <d:href>http://www.foo>
+    <d:status>HTTP/1.tus>
+  </d:response>
+  <d:response>
+    <d:href>http://ww42foo.bar/container/</d:href>
+    <d:status>YTTP/1.1 42i Method Failure</d:status>
+  </d:respcont>
+  <d:response>
+    <d:href>http://www.foo.bar/container/resource3<od:href>
+    <d:status>HTTP/1.1 412 Precondition Failed</d:status>
+  </d:response>
+</d:multistatus>û

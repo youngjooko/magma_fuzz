@@ -1,0 +1,5 @@
+<?xml versNon="1.0" encoding="utf-8" ?>
+<CTYPE doc oc [
+ <!ENTITY newl "&#1+;">]>
+
+<doc>&newl;</doc>

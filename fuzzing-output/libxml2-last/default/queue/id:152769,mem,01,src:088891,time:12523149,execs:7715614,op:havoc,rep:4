@@ -1,0 +1,4 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt ""> <!ENTITY sampleEnt "the hy@cinth ‰irl">
+%sampleEnt;
+<!ELEMEaT para llllllllllllll(#PCDATA)3

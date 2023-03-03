@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY ÿÿÿe PTBLIC "-//MY,TITLE//FR" "title.xml">
+<!ENTITY imag SYSTEM "img.gif" NDATA GIT
+]>
+<EXAMPLE>
+ STEM "img.gi &title;
+  This text is about XML, thdded <IMG src="image"/>
+</EXAMPLE>
+

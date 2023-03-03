@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT dooc
+)   "0"
+     xmlns:tst CDA     xmlns:tst CDATA #FIXED "http://example.org"
+     tst:att (|1)   "1">
+]>
+<doc att="1"/>

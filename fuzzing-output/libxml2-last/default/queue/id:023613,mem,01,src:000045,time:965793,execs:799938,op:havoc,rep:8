@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXA"dtd" [
+<!ENTITY xml "Extensibhe Markup Lang-//MY-TITLE//FR" "title.xml">
+<!ENTITY image on=AMPLE>
+ &title;
+  This LE>
+ &title;
+  This text is abd this is an SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSAMPLE>
+

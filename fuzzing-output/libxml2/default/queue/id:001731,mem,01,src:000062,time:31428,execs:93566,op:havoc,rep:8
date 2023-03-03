@@ -1,0 +1,4 @@
+<!DOCTYPE doc [AAAAAAAAAAAAAAAAAAAAAAAAA]]]]]]]]]]]]]]]]]]]\]]]]A)>
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDTA)> ]>
+<doc><b>This</b><c> is a</c><d> valid document</d></doc>

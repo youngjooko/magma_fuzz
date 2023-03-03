@@ -1,0 +1,9 @@
+<?xml version="1.0"?> <!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble Markup Language">
+<!ENTITY title PUBLIC " //IT" "title.xml">
+<!ENTITY image SYSTEM "img/..///G////////////.gifmg/..///G////////////.gi" NDATA G//////.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This ext is about XML, the &xmlMG src="image"/>
+</EXAMPLE<

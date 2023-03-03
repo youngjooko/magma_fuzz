@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1) >
+<!ATTLIST doc
+ defatt  (0|1) EDatt (0|1)   "1">
+]>
+   tst: "httexample.org"
+  <doc att="1"/>

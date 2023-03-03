@@ -1,0 +1,10 @@
+<?xml v="1ÿ0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "timage SYST>
+<ENTITY itlÿÿÿ€l2>
+<!EXAMPLE>
+  &title;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

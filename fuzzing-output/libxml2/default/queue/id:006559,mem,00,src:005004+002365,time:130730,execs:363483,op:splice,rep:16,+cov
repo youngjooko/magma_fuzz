@@ -1,0 +1,14 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY%imlge SYSTEM "img.gif" NDATA GIF>
+val="10.95,7.5"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="2.05"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">angle val
+        <dia:real val="2d/>
+      </dia:attribute>
+    

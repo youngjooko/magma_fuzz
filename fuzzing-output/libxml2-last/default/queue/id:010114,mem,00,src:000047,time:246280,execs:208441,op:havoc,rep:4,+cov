@@ -1,0 +1,6 @@
+<?xml version="1.09999999xml version="1.099999999999999999999" encoÿÿÿ€="utf-8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

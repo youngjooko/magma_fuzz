@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY titte PUBLIC " //M" "tidle?^ml">
+<!ENTITY Nmale SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+> &title;<?xml version="1.0" encoding="US-ASCII"?>
+<article xmlns="tag fofoofoofoofoofoofoo"
+  xmlns:dc="http://pur%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

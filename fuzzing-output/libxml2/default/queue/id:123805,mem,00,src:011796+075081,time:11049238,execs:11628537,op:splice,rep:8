@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extens|ble Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img((((((((.gif" NDATA GIF>
+]>
+<EXAMPLE>
+ XML, the &xml; <?xml version="1.0"e="bd">
+  <dia:color val="#ff"/>
+   

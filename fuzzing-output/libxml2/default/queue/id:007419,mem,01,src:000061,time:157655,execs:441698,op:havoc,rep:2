@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA)>
+<!ATTLIST doc vál CDATA #IMPLIED>
+]>
+<doc val="v1"/DATA #IMPLIED>
+]>
+<doc>

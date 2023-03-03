@@ -1,0 +1,7 @@
+<?xml vers‡onÀ"1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Languageuu XML, the &xml; and ˆhis is ">
+<!ENTITY titleAC PUBLIC "TITLE//FR"E//FR" "titXYÿÿÿ€de S?STEM "img.gif" NDAitle;
+  This text is abouitle;
+  This text is abouu XML, the &xml; and ˆhis is an embedded <IMG src="imagQ"/>
+</EXAMPLE>

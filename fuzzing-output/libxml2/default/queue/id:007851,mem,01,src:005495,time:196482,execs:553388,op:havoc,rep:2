@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defcccccccccccccccccccccccccMPTY>
+<!ATTLIST doc
+ defccccs:tst CDATA #FIXED "http://example.org"
+     tpt:att (0O1)   "1">
+]>
+<doc att="1"/>

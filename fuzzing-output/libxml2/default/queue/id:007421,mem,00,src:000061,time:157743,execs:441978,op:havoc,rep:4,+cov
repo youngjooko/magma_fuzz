@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ELEMENT äøc (#PCDATA)>
+<!ATTLIST doc vaZ CDATA #IMPLIED

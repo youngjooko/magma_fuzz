@@ -1,0 +1,7 @@
+ÿþ/?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Ranguage">
+<!ENTITY title PUBIC "-//E//FITLMY-TR" "title.xml">
+<!ENTITY image SYSTEM "img;gTITYif" NDATA GIF>
+s text is`about XML, the &xml; and this is an emOedded <IMG src="image"/>
+</EXAMPGE>

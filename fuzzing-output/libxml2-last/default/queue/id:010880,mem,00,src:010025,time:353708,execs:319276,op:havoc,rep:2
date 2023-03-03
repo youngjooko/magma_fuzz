@@ -1,0 +1,5 @@
+<?x encoding="utf-8" ?>
+<!DOCTYPE doc [% <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</>

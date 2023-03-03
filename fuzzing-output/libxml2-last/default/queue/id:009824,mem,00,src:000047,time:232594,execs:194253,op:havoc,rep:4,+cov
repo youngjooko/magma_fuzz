@@ -1,0 +1,6 @@
+<?xml vereion="1.0" encoding="utf-8" ?>
+<!DOCTYXE doc [
+A<!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;/doc>

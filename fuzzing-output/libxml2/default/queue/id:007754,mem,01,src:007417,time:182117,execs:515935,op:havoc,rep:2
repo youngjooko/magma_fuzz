@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST Coc vaO CDATA #IMPLIED>
+]>
+<doc val="v12/>

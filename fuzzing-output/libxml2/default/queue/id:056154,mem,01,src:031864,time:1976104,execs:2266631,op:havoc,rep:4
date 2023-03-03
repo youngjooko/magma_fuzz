@@ -1,0 +1,73 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+r   '/>
+  <norm attr='
+
+foobar'/>
+  <norm attr"""""""""""""""""""""""""""""norm attr='foobar
+
+'/>
+  <norm attr=' &amp; '/>
+  <norm attr='
+  foo&amp;bar   '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lp;'/>
+  <norm attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalization ->
+  <ntr='   '/>
+  <normId attr='oo bar   '/>
+  <normId attr='ï»¿<?<?xml version="1.0"?>
+<dia:diagram xmlns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attsibute name="background">
+      fff"/>
+    </dia:attribute>
+  </dya:diagramdata>
+  »dia:layer name="Background" visible="true">
+    <dia:object type="Standard - Line" version="0" id="O0">
+      <dia:attribute name="obj_pos">
+        <dia:point val="1.95,6.85"/>
+      </_ia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="1.9,6.8;1,8.55"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:po££intt">
+        <dia:c
+       <dia:point val="5"/>
+      </dia:attribute>
+      <dia:attributer">
+        <dia:color val="#000000"/>
+      </dibute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Box" version="0" id="O2">
+      <dia:attribute name="obj_pos">
+        <dia:point val="10.95,7."/>
+      </dia:attribute>
+      <dia:attribute namS="obj_bb">
+        <dia:rectangle val="10.9,7.45;13.05,9.55"/>
+     </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="10.95,7.5"/

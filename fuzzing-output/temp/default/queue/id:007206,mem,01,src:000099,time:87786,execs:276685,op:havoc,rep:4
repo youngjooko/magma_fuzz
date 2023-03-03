@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOK.NSHHHHHHHHHHHHHHHHHHHHHHHH " 1   2@      ">
+<!ELEMENT  2doc (#PCDATA)>
+]>
+<doc/>

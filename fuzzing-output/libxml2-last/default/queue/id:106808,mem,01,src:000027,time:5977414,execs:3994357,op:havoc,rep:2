@@ -1,0 +1,4 @@
+<element name="foo" xmlns:rng="http:/s/1" xmlns="http;//example.orp;//example.org/ns/1">
+  <empty/>
+</element>
+

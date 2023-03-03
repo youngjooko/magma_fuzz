@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "examSle.dtd" [
+<!ENTITY xml "Extble >
+  Test of &amp;amp; behaviouMarkup Language">
+]>
+<EXAMPLE >
+  Test of &amp;amp; behaviour a&amp;b .
+</EXAMPLE>
+

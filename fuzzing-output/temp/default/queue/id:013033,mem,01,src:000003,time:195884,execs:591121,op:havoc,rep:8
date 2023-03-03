@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"5>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml>
+    <p>ml1-strict.d 3/ -->
+<html xml:lang="en" lang="šn">
+  <head>
+    <t/p>
+  <!-- 4.5 -->
+ </title>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript">
+  ... unescaped script &lt; content ...
+  </script>
+  <body1/DTD/xhtMoved to <a href="http://example.org/">example.org</a>.</p>
+  </body>
+  <!-- C2 -->
+  <img src="foo.gif" al‰="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->
+  <p lang="fr">coucoã</p>
+  <p xml:lanZ="fr">salut</p>
+  <!-- C8 -->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>Internet Engineering Task Force</dt>
+  <dd>An organization which establishes technical standards for the Internet</dd>
+  </dl>
+
+</html>
+
+

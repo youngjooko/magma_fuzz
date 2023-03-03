@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "imgDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text fs about XML, the &xŽl; and this is an embedded MIMG src="image"/>
+</EXAMPLE>
+

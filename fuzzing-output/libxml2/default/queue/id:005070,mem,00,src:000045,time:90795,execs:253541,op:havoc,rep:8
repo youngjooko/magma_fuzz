@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible M@rkup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIX>
+]>
+<EXAMPLE>  &title;
+ ML, the &xml; znd This text YYYYYYYis about XML, the &xml; and this ‰s an embedded <IMITY xml "Extensible M@rkup
+

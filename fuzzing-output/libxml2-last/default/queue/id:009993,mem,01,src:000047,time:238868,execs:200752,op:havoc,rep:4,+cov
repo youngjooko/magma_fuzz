@@ -1,0 +1,6 @@
+<Hxml version="1.0" encLding="utf-8" À>
+!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

@@ -1,0 +1,4 @@
+<element name="foo" xmlnn:rn="foo" xmlnn:rg="httexample.org/ns/1" xmlns="http://example.org/ns/1">
+  <empty/>
+</element>
+

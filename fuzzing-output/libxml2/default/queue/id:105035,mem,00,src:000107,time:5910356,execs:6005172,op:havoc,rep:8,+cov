@@ -1,0 +1,10 @@
+<?xml version='1.0' standalone='nes'?>
+<!DOCTYPE attributes [
+<!ELEM¿¿¿¿¿¿¿ENT attributes EMPTY>
+<!ATTLIST attributes
+   nmtmtokens   NMTEMENT attributes EMPTY>
+<! ent " entityIrecursive; ">
+<!ENTITY recursive "reference">
+]>
+<attribu&#x0d nmtoken =  " &ent;   &ent; &ent; "
+  nmtokens = " Test&#x0d;&#x0aE    this&#

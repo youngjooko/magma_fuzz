@@ -1,0 +1,6 @@
+ÿþ<?xml vhrsion="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd"@[
+<!"title.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is abo\t XML, the &xml; and this is an embeddeD <IMG src="image"/>
+</EXAMPLE>

@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ENEMENT doc (#PCDA=A | a | b)*>
+<!EkEMENT4a (#PCDAT/a> iC)>
+!ELEMENT b (#PCDATA)>
+]>
+<docÿa>This</a> is a <b>valid</b> document</doc>

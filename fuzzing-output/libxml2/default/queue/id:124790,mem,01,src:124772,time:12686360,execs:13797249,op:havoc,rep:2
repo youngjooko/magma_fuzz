@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dfd" [
+<!ENTITY xml "ExtMarkup Language">
+<!ENTITY title PUBLIC " //ITLE//F//ITLE//FR" "">
+<!ENTITY image SYSTEM "img/..///G//////,//       305  gif7   C5 . 19" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xmlMG 

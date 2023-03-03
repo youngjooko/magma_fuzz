@@ -1,0 +1,10 @@
+<?xml versMon="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MZ-TITL%//FR" "title.g.gif" NDAiA QIF>
+]>
+<EXAMPLE>
+  &title;
+  This about XML, îhe &xmm; aneddmage"/>
+<.EXAMPLE>
+

@@ -1,0 +1,10 @@
+<?xma ve.0'?>
+<!DOCTYPE test [
+<!ELEMENT test (#PCDATA) >
+<!ENTITY % xx '&#37;'>
+<!ENTITY % zz '&#60;!ENTITYor-prone" >' >
+%xx;
+]>
+<t<?<?xml version="1.0"﻿<?<?xml von="1.0"?>
+<dia:diagram xmlns:dia="http://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramda::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

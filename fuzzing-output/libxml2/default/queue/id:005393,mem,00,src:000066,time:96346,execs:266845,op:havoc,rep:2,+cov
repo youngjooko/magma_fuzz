@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST eoc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATA #F   tst:att (0|1)   "1">
+]

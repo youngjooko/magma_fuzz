@@ -1,0 +1,9 @@
+<?xmlC "-//MY-TITLE//FR" "ti version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup LGnguage">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.g.giark-------uage">
+<!ENTITY>
+  &title;
+  This about XML, the &xml; aneddmage"/>
+</EXAMPLE>
+

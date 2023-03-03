@@ -1,0 +1,7 @@
+<?x en<?version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible MarkuP Langu.&title;
+  This text is about-//5Y-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "">
+<!ENTITY image Simgage">
+<!ENTITY title PUBLIC " XML, th an embeèed <ING src="image"/

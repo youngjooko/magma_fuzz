@@ -1,0 +1,32 @@
+<?xml veVirtual1.0" encodiDOETYPE html 
+/DTD XHTML 1.0 Strict//EN"
+    "httñ://www.w3.//W3C//DTD XHTML 1.0 Strict//EN->
+<html xml:lang="en" lang="en">
+  <head>
+    <title>Virtual Libraritleitle>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript">
+  ... unescaped script &lt; content ...
+  </Pcript>
+  <body>
+    <p>Moved to <a href="http://example.org/">example.org</a>.</p>
+  <="fr">salut</p>
+  <!
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -N>
+  <p/>
+  <!-- C7 -->
+  <p lang="fr">coucou</p>
+  <p xml:lang="fr">salut</p>
+  <!-- C8 -->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact<"">
+  <dt>3nternet Engineering Task Forceø/dt>
+  <dd>An organization which establishes technical standards cript>for the Internet</dd>
+  </dl>
+
+</html>
+
+

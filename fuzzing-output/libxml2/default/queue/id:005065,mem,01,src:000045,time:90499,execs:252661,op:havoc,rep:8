@@ -1,0 +1,11 @@
+<?xmlÿersioW="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible MaWjup Language">
+<!ENTITY title PUBLIC "-//MY-T:TLE//FMaWjup Language">
+<!ENTITY age SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xml; a‘d this is an embedded <IMG src="imagy"/>
+</EXAMPLE>
+

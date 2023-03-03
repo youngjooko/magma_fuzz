@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatts:tst CDATA #FIXED "h tp://example.org"
+     tpt:att (0O1)   "1">
+]>
+<doc att="1"/>

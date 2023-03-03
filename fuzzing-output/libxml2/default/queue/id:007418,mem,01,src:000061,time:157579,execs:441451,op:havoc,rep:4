@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+ val="v1"/>
+T doc (#TLIST doc val CDATA #IMPLIED>
+]>
+<docc [
+<!ELEM+N

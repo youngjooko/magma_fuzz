@@ -1,0 +1,4 @@
+<tD!ATTLIST doc a1 NMTOKENS " 1doc   2       ">
+<!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

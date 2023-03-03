@@ -1,0 +1,7 @@
+<DOCTYPE doc a | b)*>
+<!ELEMENT a (#PCDATA [
+<!ELEMENT doc (#PCDATA | a | …)*>
+<!ELEM%NT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><o>This</a> is aý<b>valid<0b> d„cument</doc>

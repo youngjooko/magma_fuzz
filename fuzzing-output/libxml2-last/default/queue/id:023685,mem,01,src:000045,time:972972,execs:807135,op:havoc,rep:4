@@ -1,0 +1,10 @@
+<?_ml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensibleage SYSTEM "img.gif" NDATC GIFtle PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATC GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text isabout XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

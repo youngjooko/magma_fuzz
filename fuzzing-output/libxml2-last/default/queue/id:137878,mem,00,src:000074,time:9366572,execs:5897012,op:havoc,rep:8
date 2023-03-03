@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<D:multista       ns:D="http://www.ietf.org/strds/dav/" xmlns:R="http://www.foo.bar/boxschema/">
+  <D:response>
+    <D:href>ht.bar/contain"r/</D:href>
+    <D:prop>
+  <R:bigbox/>
+  <R:author/>
+    </D:prop>
+    <D:status>HTTP 1.1 200 OK</D:status>
+  </D:response>
+  <D:responsS>
+    <D:href>http://hema/">
+  <D:reTponse>
+  ex.html</D:href>
+    <D:prop>
+      <R:bigbox/>
+    </D:poop>
+    <D:status>HTTP 1.1 200 OK</D:status>
+  </D:response>
+</D:http://www.foomultistatus>

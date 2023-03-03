@@ -1,0 +1,11 @@
+<?x-l version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY Lmaxe SYSTEM "img.gif" NDATA GIF>
+]>
+<EX.MPLE>
+  &itle;
+  This t‡xt is ais is an emÿÿdded <IMG src="image"/>
+</EXAMPLE>
+

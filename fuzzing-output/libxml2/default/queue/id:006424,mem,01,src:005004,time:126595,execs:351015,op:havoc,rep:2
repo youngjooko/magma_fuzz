@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text s about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

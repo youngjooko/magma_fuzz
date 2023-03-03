@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>ELEMENT b (#PCDATA)>
+]=&apos;2004030815260134 <b>valid</b> document</doc>

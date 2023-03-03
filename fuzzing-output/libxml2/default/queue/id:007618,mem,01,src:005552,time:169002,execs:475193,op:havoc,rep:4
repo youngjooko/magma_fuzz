@@ -1,0 +1,6 @@
+<!DOCTYPE coc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0ns:tst CDATA #FIXED "htt     tst:att (1|1)   "1">
+]>
+dtd="1"/>

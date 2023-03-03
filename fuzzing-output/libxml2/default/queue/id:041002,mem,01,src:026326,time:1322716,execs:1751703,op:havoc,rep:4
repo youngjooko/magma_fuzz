@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!D[
+<!ENTITY xml "Ex Markup Language">
+<!ENTI\Y titlNTITY image SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Thist%is aboutggg>
+</EXA”PLE>

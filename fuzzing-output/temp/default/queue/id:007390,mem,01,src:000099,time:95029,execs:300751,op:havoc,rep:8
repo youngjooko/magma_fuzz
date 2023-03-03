@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOKENS "      ">
+<!ELEL]MENT dc(#PCDATA)N
+]<doc/>

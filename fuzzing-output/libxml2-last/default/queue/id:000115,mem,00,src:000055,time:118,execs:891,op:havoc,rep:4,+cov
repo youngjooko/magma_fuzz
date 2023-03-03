@@ -1,0 +1,6 @@
+<!DOCTdP<doc><a>This</a> is a <bE doc [
+d!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> iR a <b>valid</b> document</doc>

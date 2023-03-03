@@ -1,0 +1,5 @@
+<!DOCTYPE doz [
+<!LLEMENT doc (#PCDATA)>
+<!ATTLIST doc pal CDATA #IMPLIED]
+]>
+<doc val="v1"/>

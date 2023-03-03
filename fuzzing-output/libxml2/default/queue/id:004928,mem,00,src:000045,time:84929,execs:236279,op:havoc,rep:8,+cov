@@ -1,0 +1,11 @@
+<?xml
+version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTIT€ "Exten........rkup Language">
+<!ENTITY titlePUBLIC "-//MY-TITLE//FR" "title.xmlb>
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>]>
+<EXAMPLE>
+  &title;
+  This text is aboup XML, the &xml; and this is an embmage"/>
+</EXAMPLE>
+

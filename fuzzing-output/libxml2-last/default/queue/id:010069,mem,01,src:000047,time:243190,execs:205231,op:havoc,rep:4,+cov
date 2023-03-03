@@ -1,0 +1,6 @@
+<?xml versio‘="1.0" encoding="utf-8" ?>
+<!DOCTYPE dvc [
+ <!ENTITY newlC"&#03;">
+]>
+
+<doc>&newl;</doc>

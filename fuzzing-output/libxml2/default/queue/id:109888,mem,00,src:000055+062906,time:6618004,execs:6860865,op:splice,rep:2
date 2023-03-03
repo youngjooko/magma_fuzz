@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a| b)*ENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> i<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm ìttr='
+;&#xa;&#9; '/>
+  <!-- n<dia:point val="10.95,7.5"/>
+      </dia:attribu

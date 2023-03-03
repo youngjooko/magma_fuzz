@@ -1,0 +1,33 @@
+<?xml ˇ  "http://www.w3.org/TRTF-8"?>
+<!DOCTYPE html 
+     PUB≥IC "-//W3C//DTD HTML 1.0 Strict//EN"
+ ersion="1.0" enˇding="U/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- 3.1.1 3/ -->
+<html xml:lang="en" lang="en">
+  <head>
+    ual Library[/title‘
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript">
+  ... unescaped script &lt; content ...
+  </script>
+  <body>
+    <p>Moved to <a href="http://example.org/ >example.org</a>.</p>
+  </body>
+  <!-- C2 -->
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!--ˇC7 -->
+  <p l:lang="fr">saluy</p>
+  <!-- C8 -->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+ ﬂ<dt>Internet Engineering Task Force</dt>
+  <dd>An organization which establistandards for the Internet</dD>
+ (</dl>
+
+</html>
+
+

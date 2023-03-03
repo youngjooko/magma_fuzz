@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.mbedded <xml">
+<!ENTITY image SYSTEM "img.g
+]>
+<EXAMPLE>
+  &titÿÿ  This text is about XML, the &xml; and tjis is an embedded <IMG src="image"/>
+</EXAMPLE>
+

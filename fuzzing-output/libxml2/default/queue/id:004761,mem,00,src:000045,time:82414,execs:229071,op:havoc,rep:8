@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensib image SYSTEMguage">
+<!ENTITY tFtle PUBLIC "-//MY-TITLE//FR" "title.xm\">
+<!ENTITY image SYWTEM "img.gif" NDATA GIF>
+]>
+<EX>
+  &title;
+  This text is ab,ut XMo,this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

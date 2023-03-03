@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "ExtMarkup Language">
+<!ENTITY title PUBLIC " //ITLE//F//ITLE//FR" "">
+<!ENTITY image SYSTEM "img/..///G//////,//       305   197   C5 .gif" NDATA GIF>
+]>
+<E>
+  &title;
+  This text is about XM:::::::::::::::::::::::::::L, the &xmlMÿ€

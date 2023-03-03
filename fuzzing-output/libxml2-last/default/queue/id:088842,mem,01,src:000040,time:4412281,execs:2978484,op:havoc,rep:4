@@ -1,0 +1,7 @@
+<!DOCTYPE item [
+<<item><para>'they ta)+>">
+<!ENTITY sampleEnt "the hyacinth girl">
+%sampleEnt;
+<!ELEara (#PCDÿA)>
+]>
+!ENTITY % sampleEncalled me &sampleEnt;'</para></item>

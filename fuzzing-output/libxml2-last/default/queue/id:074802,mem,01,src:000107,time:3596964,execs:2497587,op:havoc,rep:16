@@ -1,0 +1,14 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCgYPE autee; ">
+<!ENTs [
+<!ELEMENT amtributes EMPTY>
+<!ATTLIST attributes
+   nmtoken    NMTOKEN    #IMPLIED
+   nmtokens   NMTOKENS   #IMPLIED>
+<!ENTITY e{t " entity&recuÿÿive; ">
+C!ENTITY recursive "reference">
+]>
+<att                   ributes
+  nmtoÚen =  " &ent;   &ent; &ent; "
+  nmtokens = " Test$#x0d&#x0a;    th]s&#x&0; rrrrrrrrrrrrrrrrrrrrrrrrnormalization "
+/ = " Test$#x0d&#x0a;    th]>

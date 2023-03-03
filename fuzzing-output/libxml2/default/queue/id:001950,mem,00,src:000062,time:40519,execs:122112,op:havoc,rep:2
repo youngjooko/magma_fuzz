@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b)+ , 						>
+<!ELEMEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT c (#PCDATA)								ENT d (#PCDATA)>
+]>
+<doc><b>This</b><c> is a</c><d> valid document</d></doc>

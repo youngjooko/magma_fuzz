@@ -1,0 +1,10 @@
+<!DOCTYPE item [
+<!ENTITY % EXAMPLE SYSTEM "example.dtd" [
+<!ENT"ExtMarkup Language">
+]>
+<EXAMPLE prop1="a&amp;b" prop2="&xml;">
+  Test of entities in attributes<?xml vemlns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="background">
+      <dia:color val="#ffffff"/>
+   

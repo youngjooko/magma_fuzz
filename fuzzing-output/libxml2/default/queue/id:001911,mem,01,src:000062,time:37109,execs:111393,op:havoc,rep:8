@@ -1,0 +1,8 @@
+<!DOCÿPE doc [>¼b>This</b><c> is a</
+<!ELEMENT doc ((a | b)+ , c ,  d)*>
+<!ELEMENT a (#PCDAÿÿÿ
+<!ELEMENT b #PCDATA)>
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc>¼b>This</b><c> is a</c><d> valid dojuqent</d></doc>

@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a.| b)+*, c ,  d)*>
+<!ELEMENT a (#@CDATA)>
+<!ELEMENT H (#PCDATAThIs (#@CDATA)>
+<!ELEMENT H (#PCDAT)>
+<!ELEMENT c (#PYDAT¹¹¹¹¹¹¹¹¹¹m¹¹¹¹¹¹¹¹¹¹¹¹¹¹A)>
+LEMENT d (#PCDATA)>
+do]<!ELEMENT d (#PCDATA)>
+doc V
+<!]>
+<doc><b>This</b><c> is a</c><d> vaELEMENT docÿÿÿ </doc>

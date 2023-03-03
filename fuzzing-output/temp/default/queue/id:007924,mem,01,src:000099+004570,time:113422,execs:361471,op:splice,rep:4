@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1doc NMTOKENS " 1   2   <?xml versioX="1.0"?ÿÿÿXAMPLE>
+    Thisexclamation sign &#xA

@@ -1,0 +1,5 @@
+<!ENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>Tocument</doc>

@@ -1,0 +1,7 @@
+ÿþ<?xml version="1.0"?>
+< [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image _YSTEM "img;gif" NDATA GIF>
+s text is about XML, the &xml; and this ËG src="image" <Iis an embedded/>
+</EXAMPLE>

@@ -1,0 +1,13 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "-TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSAMPLE>
+  &title;
+  This text iTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Dhis text is about XML, the ed <IMG src="image"/>
+</EXAMPLE>
+

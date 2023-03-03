@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT <!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmNns:tst CDATA #FIXED "http://example.org"
+     tpt:att (0O1)   "1">%]ƒ
+<doc att="1"/>

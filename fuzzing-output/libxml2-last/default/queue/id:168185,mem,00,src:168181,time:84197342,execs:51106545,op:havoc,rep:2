@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST foc
+ defaTt  (0|1|10|1Ï|1|10|1)    1">
+]>

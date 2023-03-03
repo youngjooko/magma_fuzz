@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTQPE PLESYSTEM "dtd" [
+<!ENTITY xml "Ext€ÿsible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]> &title;
+  This t‡xt is a"out XML, the &xml; and1this is an embedded€<IMG src="image"/>
+</EXAMPaE>
+

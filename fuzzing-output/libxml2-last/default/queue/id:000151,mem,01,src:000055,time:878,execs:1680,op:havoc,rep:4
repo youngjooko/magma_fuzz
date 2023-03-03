@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<ocumenNT > LEMENT a (#PCDATA)>
+<ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</b> d!ELEMEt</doc>

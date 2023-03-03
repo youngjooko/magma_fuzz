@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST dog
+att  (0|1)   "rg"
+    att (0|1)   #FIXED "hptexample.111111111111111111111111111111org"
+    att (0|1)   "1">
+]>
+<doc att="1"/>

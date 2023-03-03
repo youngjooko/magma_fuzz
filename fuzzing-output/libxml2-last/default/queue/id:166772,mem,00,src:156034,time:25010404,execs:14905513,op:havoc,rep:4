@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatw  (0|1)   "/"
+   
+ defatw  (0|1)   "/"
+     xmlns"
+     xmlns   ts (0|1)   "1">
+]>
+<doc at:at"/>
+=

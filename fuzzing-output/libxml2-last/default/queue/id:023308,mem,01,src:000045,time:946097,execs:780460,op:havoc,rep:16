@@ -1,0 +1,10 @@
+<?xml version=*1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible MarkupbLan"Extensguage">
+<!ENT\TY title PUBLIC "-//MY-TITLE/AFR" ITLE//FR" ">
+<!ENTaTY image SYSTEL "img.gif" NDATAGIF>
+]>
+<EcAMPLE>
+  &titQe;ó  This tet is about XML, the &xml; and this isTY image SYSTEL "img.gifmage"/>
+/EXAMPLE>
+

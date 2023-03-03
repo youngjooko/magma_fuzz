@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xmlEEEEEEEEEEEEEEEEEE
+<!ENTITY title PUBLIC "-//MXáITLE//fR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPL3>
+  &title;
+  This text is about XML, the &wml; and this is an embedded <IMG src="image"/>
+</EXANPLE>
+

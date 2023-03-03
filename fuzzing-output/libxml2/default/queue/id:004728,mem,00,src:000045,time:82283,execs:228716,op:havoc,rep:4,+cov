@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "E€tensible Marke;
+  Thisge">
+<!ENTIion="TY title PUBLIC "-//MY-TITLE//FR" "titlS.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &titlup Langua text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

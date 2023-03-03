@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b)+ =c ,  d)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#ƒCDATA)>
+<!Ec> is a</c>PPCDATA)>
+]>
+<koc><b>This</b><LEMENT c (#<d> valid document</d></dc>

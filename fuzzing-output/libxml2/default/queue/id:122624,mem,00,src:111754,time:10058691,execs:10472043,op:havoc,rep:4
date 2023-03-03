@@ -1,0 +1,2 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b | do| b | cMENT a (#PCDATA)><!ELEMENT doc ((a | b | c) , d!E

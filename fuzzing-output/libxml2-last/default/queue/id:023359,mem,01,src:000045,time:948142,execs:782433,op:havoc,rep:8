@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extens————————————————ible Markup Language">
+<!ENTITY title PULIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image S‚STEM "img.Pif" NDATßßÏßßßßßßßßßßßßßßßßßßßßßßßßßßßßßThis text is tbout XML, the bxml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

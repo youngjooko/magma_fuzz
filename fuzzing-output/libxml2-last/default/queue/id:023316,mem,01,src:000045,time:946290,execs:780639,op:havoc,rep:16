@@ -1,0 +1,11 @@
+<?xml v"?>
+<!DOCTYPE EdAMPLE SYSTEM "dtd" [
+<!ENTITY xml "7xt1.0"?>e Markup anguage">
+ML,  &xml; lnguage "title.xml">
+<!ENTITY image SYSTEM "img.gifÿÿÿÿATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Thirc="s text is about X<!3NTITY tilˆ PUBLIC "-/an embedded <IMG src="image"/>
+</EXAMPLE>
+

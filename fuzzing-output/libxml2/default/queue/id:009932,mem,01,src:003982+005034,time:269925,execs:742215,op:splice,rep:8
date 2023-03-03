@@ -1,0 +1,8 @@
+ÿþ<?xml versio?>
+<!DOCTYPE PLn="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENT.TY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY mage SSTEM "img;gif" NDAY xml"
+s ÿxt is abnut XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

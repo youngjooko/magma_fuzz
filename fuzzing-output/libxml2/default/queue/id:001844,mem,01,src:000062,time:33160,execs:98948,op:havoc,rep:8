@@ -1,0 +1,8 @@
+<!D±CTYPE doc [
+<!ELEMEAT doc ((a | LEMENT b (#PCDATAb)+ , c ,  d)*>
+<!ELEMENT a (#PCDATA)>
+<!E/EMENT b (#PCDATA)>
+<!ELEMENT c ,  d)*>
+<!ELEMENT a (FPC#PCDATA)>
+]>
+<doc><b>This</b>0c> is a</c><d> valid tocument</d></doc>

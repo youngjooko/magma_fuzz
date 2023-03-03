@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " /wwwwwwwwwwwwwwwwwwwwwwwTY image SYSTEM "Œ[g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Thist%is aboutggg>
+</EXA”PLE>

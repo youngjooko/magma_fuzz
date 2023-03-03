@@ -1,0 +1,7 @@
+ÿþ<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC="1.0"?>
+<!DOCTYPE PLE SY "-//MY-TITLE//FR" "title.xml">
+<!ENTI9Y image SYSTEM "img;gif"bouR XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

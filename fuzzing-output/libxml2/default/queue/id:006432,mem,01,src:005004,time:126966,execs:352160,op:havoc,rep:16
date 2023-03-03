@@ -1,0 +1,10 @@
+<?xml v="10"?>
+*!DOCTYPE PLE SYSTEM"dtd" [
+<!+NTIml; and this is an emTY xml >
+<!ENTITY title PUB^IC "--TITLE/FR" "ttlˇˇˇÄl">
+<!ENTITY image SYSTEM "imgQgif" NDATA IF>
+]>
+<EXAMPL#>
+  &title;
+  This texÅ is about XMe, the &xml; and this is an embedned <IMGimage SYSTEM "imgEXAMPLE>
+

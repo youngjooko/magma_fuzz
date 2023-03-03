@@ -1,0 +1,7 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ELEMEamplegirl">
+%sampleEnt;
+%sampleEnt;
+<!EeEMENT para (#PCDATA)>
+]>
+<item><para>they called me &sa

@@ -1,0 +1,12 @@
+<?xml version=".0"?>
+<!DOCTYPE PLE SYSTEM	"dtd" [
+<!ENTITY aml "Extensible Markup Ll; anS this is an embedded <IMC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY im`ge GYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xmanguage">
+<!ENTITY title PUBLIG src="im
+
+e"/>
+</EXAMPLE>ag

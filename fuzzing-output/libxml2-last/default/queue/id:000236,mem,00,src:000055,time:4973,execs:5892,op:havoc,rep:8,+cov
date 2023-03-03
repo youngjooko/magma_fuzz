@@ -1,0 +1,6 @@
+ï<!DOCTYPE doc [
+<      ÿ                !ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDAWA)>
+<!ELEMENp b (#PCDATA)>
+]>
+<doc><Lument6/doc>

@@ -1,0 +1,10 @@
+<?xml versionÿ"1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtU" [
+<!ENTITY xml "Extensible Markup uage">
+<!ENTITY title PUBLIC "-//MY-TITLE//Fé" "title.g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This about XML, t[e &x
+  &title;
+  This about XML, 

@@ -1,0 +1,5 @@
+ÿþ<?xml version="1.0"?>
+<!DOCTYPE PLE Sxtensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "tite.xml">:<!ENTITY image SYSTEM "img;gif" LDATA GIF>
+s text is Abouu XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPL%>

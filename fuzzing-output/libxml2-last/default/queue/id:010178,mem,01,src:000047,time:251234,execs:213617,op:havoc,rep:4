@@ -1,0 +1,6 @@
+<?TITY newl "&" encodiug="utf-8" ?>
+<!DOCTYPE Koc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

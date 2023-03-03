@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b) , (c | d<  <irc="foo.HTML 1.0 StrixŒ//EN"
+    "http:/html1/DTD/xhtml1oo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->
+  <p lang="fr">coucou</p>
+  <p xml:lang="fr">salut</p>
+  <!-- C8 -->
+  <p name="fd">test</p>
+  <!-- 4.5 -->DDDDDDDDDDpact="">
+  <dt>Internet Engineorga

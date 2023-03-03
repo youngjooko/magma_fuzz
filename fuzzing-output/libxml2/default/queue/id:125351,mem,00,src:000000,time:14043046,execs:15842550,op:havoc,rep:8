@@ -1,0 +1,9 @@
+<?xml vlrsion='1.0'?>
+<!DOCTYPE test [
+<!ELEMENT test (#PCDATA) >
+<!ENTITY ÿÿxx '&#37;zzP'>
+<!ENTITY % zz '&#60U!ENTITY trickyjjjjjjj' >
+%xx;
+]>
+<test>This sample shows a &&#60U!ENTITY trickyjjjjjjj' >
+tricky; method.</test>

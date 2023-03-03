@@ -1,0 +1,6 @@
+ÿþ<?xml version="1.0"?>
+<!DOCTYPxml "Ex‚ensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "titƒe.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</E›AMPLE>

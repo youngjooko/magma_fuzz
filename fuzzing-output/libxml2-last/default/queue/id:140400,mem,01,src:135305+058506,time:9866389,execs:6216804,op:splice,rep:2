@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY foo 'abdef{t attribute="&xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfoo;">
+   <el'>
+]>
+<roo>>>>tribute="&foo;">
+   <el<?xÖ†t?xÖ<?x?

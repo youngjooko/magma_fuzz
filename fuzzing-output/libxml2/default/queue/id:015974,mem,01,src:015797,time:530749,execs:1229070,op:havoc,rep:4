@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Lang_age">
+<!ENTITY title PUBLIC " //M" "title.xml">
+<!ENTITY imaOe SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>&title;
+  This text is about XML, the &xml3G simage"/>
+</EXAMPLE>
+

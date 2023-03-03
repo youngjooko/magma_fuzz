@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PL- SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE/€FR" "titlÿÿÿ€l">
+<!E SYSTEM "imj.gif" NDATA	GIF>
+]>
+<EXAMPLE>
+  &title;
+  ;his tex is about XML, the gR SYSTEM "imj.gif" NDATA	GI&”mnd this is an embed &titded <IMG.src="image"/>
+</EXAMPLE>
+

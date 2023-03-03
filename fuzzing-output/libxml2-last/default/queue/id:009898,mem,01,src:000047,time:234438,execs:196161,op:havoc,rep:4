@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utr-8" ?>
+<!DOCTYPE doc [
+ U!ENTITY newl "&#13;">
+]>
+
+<doc>&néw</doc>

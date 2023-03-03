@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+  >
+  <head>
+    <C//DTD XHTML 1.0 Strict//E8"
+    "http://www.w3.org/TR/xhtml1/DTDhesþsechnic`l standards for the 3/ -->
+<html xml:lang="en" lang="en"   PUBLIC "-//W3title>Virtu~l Library</title>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript">
+  ... unescaped script &lt; content ...
+  </sCript>   <body>
+    <p>Moved to <a href="http://example.org8">example.org</a>.</p>
+  </body>
+  <!-- C2 -->
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -->õ  <p/>
+  <!-- C7 -->  <p lang="fr">c  <p xml:lang="fr">salut</p>
+  <!-- C8 C->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>Internet Engineering Task Force</dt>
+  <dd>Anml version="1.0" encoding="UTF-tml1-strict.dtd">
+<!-- 3.1.1 Internet</dd>
+  </dl>
+
+</html>
+
+

@@ -1,0 +1,5 @@
+<!  ">
+<!ELEMENT<!ATTLIST doc a1 NMTOKE 1 NH " 1   2       ">
+<!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

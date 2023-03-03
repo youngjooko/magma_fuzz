@@ -1,0 +1,8 @@
+<?x en<?version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible MarkuP Language">
+<!ENTITY title PUBLIC "-//5Y-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "l">
+<!ENTITY image SYSTEM "">
+<!ENTITY image Simg.&title;
+  This text is about XML, the &xml; and this is an "image"/

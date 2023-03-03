@@ -1,0 +1,8 @@
+<?x encodi?#
+<!DOCTYPE doc [
+ <!ENTng="utf-8" ?#
+<!DOCTYPE doc [
+ <!ENTITY newl "&#93;">
+]>
+
+<doc>ÿÿewl;</doc>

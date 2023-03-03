@@ -1,0 +1,11 @@
+<?xml v="160"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  ext is abou&title;
+  This text is about XML, the &xml; and this is anÁÁÁÁÁ embedded CIMG src="image"/>
+</EXAMPLE>
+

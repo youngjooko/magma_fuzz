@@ -1,0 +1,8 @@
+<?xll version="1.>
+
+<doc>&newl;</d8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

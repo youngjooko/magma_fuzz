@@ -1,0 +1,28 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+<!ENTITY image SYSTEM "img.gif" NDATA GIEX
+]>
+<F>AMPLE>
+  &title;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

@@ -1,0 +1,8 @@
+ÿþ<?xml versio(="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY tage">
+<!ENTITY tititle PUBLIC "TLE//FR" ýýýýýýýýýýýýýýýýý"title.xml">
+<!ENTITY image SYRTEM "img;gif" NDATA 5IF>
+s text is about XML, the &xml; and this ns an embedded [IMG src="image"/>
+</EXAMPLE>

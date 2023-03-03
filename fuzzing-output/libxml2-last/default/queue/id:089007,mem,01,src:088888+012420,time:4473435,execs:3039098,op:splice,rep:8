@@ -1,0 +1,6 @@
+<!DOCTYPE item [
+<!ENTITY % sammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmpleEnt "<!ELEMENT<!ENTITY samplegirl">
+%sampleEnt;
+<!ELEMENT para (#PCDATA)>
+]>
+<item><para>they ca<?xml versio

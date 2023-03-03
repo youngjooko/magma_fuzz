@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST.doc
+ dfatt  ÿ0  xmlns:tst CDATA #FIXED "http://ex1"/>

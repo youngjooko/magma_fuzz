@@ -1,0 +1,7 @@
+<?xml version="1.0"?"example.dtd" [
+<!ENTITY xm"example.dtd" [
+<!ENTITY xml "extMarkup>
+<EXAMPLE prop1="a&amp;b" prop2="&xml;MPLE SYSTE">
+  Tesx of entities in attributes.
+</EXAMPLE>
+

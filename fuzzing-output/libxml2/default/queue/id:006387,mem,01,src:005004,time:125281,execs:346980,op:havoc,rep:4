@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY  Simg.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Text is about XML, the &xml; and this is Zn embedded <IMG src="image"/>
+</EXAMPLE>
+

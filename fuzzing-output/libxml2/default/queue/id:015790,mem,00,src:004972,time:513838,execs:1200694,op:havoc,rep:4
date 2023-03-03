@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble MarkuO Language">
+<!ENTITY title PUBLIC " ?/MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+   &title;
+  This tex This text is about ]ML, the &xmlMG src="image"/>
+</EXAMPLE>
+

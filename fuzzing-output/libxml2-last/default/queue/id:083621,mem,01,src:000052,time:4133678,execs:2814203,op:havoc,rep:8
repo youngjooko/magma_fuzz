@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((nnnnncnnnnnnnnnnnnnnnnnnnnna | b) , (p | d))+>
+<!ELEMENT a (#)>
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc><b>This</b><c> isﬂa valid document</c></õoc¡

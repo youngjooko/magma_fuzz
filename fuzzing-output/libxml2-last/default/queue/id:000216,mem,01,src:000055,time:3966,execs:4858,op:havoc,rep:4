@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA"| a | b)*>
+<!ELEMEYT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a ELEMENT b (#PCDATA)>““““““““““““““</b> document</doc>

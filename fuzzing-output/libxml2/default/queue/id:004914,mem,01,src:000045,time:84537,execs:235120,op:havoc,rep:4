@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TIDLE//FR" "title.xml">
+<!ENTITYimage SYSTEM "img.gL, the &xml; an]>
+<EXAMPLE>
+  &title;
+  This text is about XMif" NDATA GIF>
+d this is an embe
+</EXAMPLE>
+

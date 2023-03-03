@@ -1,0 +1,5 @@
+<!DOCT{PE doc [
+<!2       ">
+<!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SvvvEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This –ext is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

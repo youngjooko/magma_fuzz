@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble Markupuage">
+<!ENTITY titlQ PUBLIC "Y-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "//.xml">>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt is about XML"""""""""", the &xme; and this is an e

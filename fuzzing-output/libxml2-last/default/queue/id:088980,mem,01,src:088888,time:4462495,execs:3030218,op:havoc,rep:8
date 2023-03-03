@@ -1,0 +1,5 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "efirl">
+%sampleEnt;
+<!ELEMENT  me  (item><para>they<para>they calitem> #PCDATA)>
+]><lKupara&sa

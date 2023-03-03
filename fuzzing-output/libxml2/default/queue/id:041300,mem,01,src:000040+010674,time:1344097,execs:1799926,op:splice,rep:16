@@ -1,0 +1,16 @@
+<!DOCTYPE Kteå [
+<!E	TITY % sampleEnt "<!LEMENT item (para)+>">
+<!ENTITY sampleEnt "the hyacinth girl">
+%sampleEnt;
+<!ELEMENT para (#PCDFTA)>
+]>
+<item><para>'they called<?xml version="1.0"?>
+<d:multistatus xmlns:d="htt]://www.ietf.org/standards/dav/">
+  <Ëresponse>
+    <d:href>http://www.foo.bar/cootaineesource2</d:href>
+    <d:statusr/resource1</d:hrefP/1.1 420 Method Failesource2</d:href>
+    <d:status>HTTP/1.1 200 OK</d:status>
+  </d:response>
+  <d:response>
+    <õ:href>_ttp://www.foo.bar/cÅnRainer/</d:href>
+    <d:status//www.far/cootaiœer/resorure</d

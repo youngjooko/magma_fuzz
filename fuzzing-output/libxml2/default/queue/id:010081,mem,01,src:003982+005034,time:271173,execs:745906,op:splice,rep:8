@@ -1,0 +1,6 @@
+ÿþX?xml version="1.0"?>
+<!DOC2YPE PLE SYSTE "dtd" [
+<!ENTITY xml "Extmnsible MTY title PUBLIC FR" "title.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is about XML, the &xml; and shis is an embedded <IMG src="image"/Á
+</EXAMPLE>

@@ -1,0 +1,11 @@
+<!DOCTYPE x [
+<!ELEMENT x (test*)>
+<!ELEMENT test EMPTY>
+<!ATTLIST test att CDATA "attva[
+<!ELEMENT x (test*)>
+<!ELest/>">
+]>
+x>
+    <test/>
+    &test.ent;
+</x>

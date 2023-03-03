@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "exampve.rtd" [
+<!ENTITY xml "ExtMa&aEXAMmp444444444444444444;bage">
+]>
+<EXAMPLE prop1="arkup Langu" prop2="&xml;">
+  Test of en>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble <irkupuage">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "//FR;xml">>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt xs about XML, the &xme; and this is an embeCTYPE PL srk="image"/>
+</EAMPLE

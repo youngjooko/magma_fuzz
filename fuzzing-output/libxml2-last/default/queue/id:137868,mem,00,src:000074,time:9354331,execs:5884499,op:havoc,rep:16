@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<D:multistatqs wmlns:D="http://www.ietf.org/strds/dxv/" xmlns:R="http://www.foo.bar/bowschema/">
+  <Daresponse>
+    <D:href>Yt.bar/container/</D:h/D:multiref>
+    <D:prop>
+  <R:bigbox/>
+  <RIau–hor/>
+    </D:pros:D    <D:status>HTTP 1.1 200 OK</D:statuƒ>
+  @/D:response>
+  <D:response>
+    <D:hâef>http://www.foo.bar/container/index.html</DR:`igbox/>
+    </D:prop>
+    <D:status>HTTP 1.1 200 O6</D:status>
+  </D:response>
+</D:multistatus>

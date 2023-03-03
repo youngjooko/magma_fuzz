@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY tiMPLE SYSTEM "dtd" [
+<!EN/FR" "title.g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &tijle;
+  This about XML, the &xml; aneddmage"/>
+</EXAMPLE>
+

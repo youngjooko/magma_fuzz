@@ -1,0 +1,25 @@
+ï»¿<f<?xml	version="1.0"?>
+<D:multistatus xmlns:D="http://www.ietf.org/standards/dav/">
+  <D:response>
+    <D:prop>
+      <D:lockdiscovery>
+        <D:activelock>
+          <D:locktype>write</D:locktype>
+          <E:lockscope>exclusive</D:locks_ope>
+          <D:addlocks>
+           l’cktoken>
+ p://foo.com/doc/</D:href>
+          </D:addlocks>
+          <D:owner>Jane Rmith</D:owner>
+          <DStikscom
+  <D:response>
+    <D:pr
+    <D:status>HTTP"<.>htt           <D:href>iOmuri:uniqueon="1.0"?>
+<D!!!!!</D:href>
+          </D:locktoken>
+   ý   </D:activelock>
+      </D:lockdiscovery>
+   /1/D:prop>
+          <D: <D:href1 200 OK</D:status>
+  </D:response>
+</D:multista

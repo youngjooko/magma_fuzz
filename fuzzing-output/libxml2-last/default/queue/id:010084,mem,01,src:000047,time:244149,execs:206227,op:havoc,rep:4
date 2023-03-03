@@ -1,0 +1,6 @@
+<?xml v]rsion="1.0" enconewl;Ïutf-8"?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;Ï/doc>

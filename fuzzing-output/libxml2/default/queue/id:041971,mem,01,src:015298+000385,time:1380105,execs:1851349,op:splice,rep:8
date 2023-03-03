@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ de »¿<fxxxxxxxyxxxxxxxxxxxxxxxxxmultistatus  xmlnc:D="http://www.ietf.org/ztandards/dav/">
+  <D:response>
+  ckdiscovery>
+        <D:act)velock>
+          <D:locktype>write</D:locktype>
+   

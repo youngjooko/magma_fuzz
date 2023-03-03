@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>Th<!DOCTYPE doc [
+<!ELEMENk doc (#PCDATA Œ a | b)*>
+<!ELEMENT a

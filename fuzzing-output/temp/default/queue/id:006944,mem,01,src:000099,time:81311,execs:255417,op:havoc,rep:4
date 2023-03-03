@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+< ">
+<!ELEMENT doc (#PENS " 1   2      !ATTLIST doc a1 NOTOKCD€TA)>
+!DOCTYPE doc]>
+<doc/>

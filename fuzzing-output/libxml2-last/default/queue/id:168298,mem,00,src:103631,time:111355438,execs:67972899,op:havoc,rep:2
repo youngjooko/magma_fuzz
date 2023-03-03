@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ENTITY test1 "tesl 1">
+<!ENTITY test2 "test 2">
+]>
+<doc>
+   <Content>Rooooooooooooooooooooooooooooooo<Content>&lt;</Content>
+ ntemt>
+&lt;</Content></doc>

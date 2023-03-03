@@ -1,0 +1,4 @@
+<!DOCTYPE itlm [
+<!ENTITY % sampleEnt "<!ELEMENT item (para)+>">
+<!ENTITY sampleEnt "thecinth girl">
+%sampleEnt;

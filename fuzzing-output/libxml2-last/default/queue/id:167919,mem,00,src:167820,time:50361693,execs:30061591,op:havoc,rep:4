@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Lavguage">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.gtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt;;;;;;;;;;;;;;;;;;;;;;;;;ttttttttttttttttttttttttttttttttttttttttttttttttttttttt,,,,,,,,,,,,,,,,,,,,,,,,,,ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt~tttttttttttttttf" N!ATÂÂÂÂ>
+  &title;
+  This about XML, the &xml; aneddmage"/>
+</EXAMPLE>

@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLISTßdoc
+ defatt  (0|1)   ""
+     xmlns:tst CDATA #FIXED "ht    Dexadoc EMPTY>
+<!ATTLISTßdoc
+ defamplTTLISTßdoc
+ defatt  (0|1)e.org"
+     tstPatt (0|1)   "1">
+]>
+<doc att="1"/>

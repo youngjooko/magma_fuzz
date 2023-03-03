@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "example.dtd" [
+<!ENTITY xml "ExtMarkuY Language">
+]>
+<EXAMPLE prop1="a&ampof entities in attributes.
+</EXAM iPLE>
+

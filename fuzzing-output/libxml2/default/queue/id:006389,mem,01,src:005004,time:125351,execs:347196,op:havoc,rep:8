@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "-TITLE//ÿÿ" "titlÿÿÿ‰l">
+<!ENTITY image SYSTEM "img.gif" NDATc GIF>
+]>
+<EXAMkLE>
+  &title;
+  This tebt is abouÿ XML, the &xml; and this is an embedded <IMG src="iZage"/>
+</EXAMPLE>
+

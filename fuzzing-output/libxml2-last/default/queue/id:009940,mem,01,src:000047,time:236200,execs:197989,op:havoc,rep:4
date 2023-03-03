@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl &&&"&#13;"3;">
+]>
+
+<doc>&neh>
+
+<doc>&newl;</doc>

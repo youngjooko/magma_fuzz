@@ -1,0 +1,10 @@
+<?xml ve?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml>
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This about XML, the &xml; aneddmage"/>
+</EXAMPLE>
+

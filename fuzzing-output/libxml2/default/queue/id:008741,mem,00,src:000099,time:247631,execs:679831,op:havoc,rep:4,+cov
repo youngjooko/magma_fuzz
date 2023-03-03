@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOKEN "T doc a1 NMTOKEN ">
+<!EL>

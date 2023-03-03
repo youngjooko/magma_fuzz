@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble Markupuage">
+<!ENTITY titlQ PUBLIC "Y-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "//F&title;
+  This •‡xt is about XML, the &xme; and this is an embedded <IMG src="image"/>
+</EXA

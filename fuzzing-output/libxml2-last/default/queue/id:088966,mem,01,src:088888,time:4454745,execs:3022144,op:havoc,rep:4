@@ -1,0 +1,6 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<irl">
+%sampleEnt;
+<!ELEMENT pari (#PCDATA)>
+]>
+<item><alled me &sa

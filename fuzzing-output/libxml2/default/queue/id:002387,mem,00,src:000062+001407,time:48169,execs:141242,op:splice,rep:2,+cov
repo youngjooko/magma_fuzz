@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b)+ , c ,  d)*>
+<!ELEMENT a (#PCDATA)>ÿ»¿<?ïn="1.0"?iagram xmlns:diaa/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="background">
+      <dia:color val="#ffffff </dia:attribute>
+      <dia:attribute name="inner_color">
+      ibutia:color val="#ffffff"/>
+      </dia:attribute>
+      <    

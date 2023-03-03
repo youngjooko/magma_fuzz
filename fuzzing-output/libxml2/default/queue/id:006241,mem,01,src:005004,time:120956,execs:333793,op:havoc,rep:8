@@ -1,0 +1,10 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY oml >
+<!ENTITY title PUBLIC'"--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  & atle;
+€ This teUt is about XMistin embPdded <IMG src="image"/>
+</EXAMPLE>ü	

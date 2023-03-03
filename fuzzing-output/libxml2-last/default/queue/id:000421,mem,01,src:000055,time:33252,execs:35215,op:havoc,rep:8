@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+8!ELEMENT doc (#PCDATA | a | b)*>G!EL)>
+<#PCDATA)>
+]>
+<doc><a>Thisp/a> is a?<b>valid</b> >

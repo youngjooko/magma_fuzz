@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+Z!èOCTYPE html 
+     PUBLIC "-//W3 //DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR>
+<!-- 3.1.1 / -->
+<html xml:lang="en" lang="en">
+  <head>
+    <title>V-//W3C//DTD XHTML 1.0 Strict//ENirtual Library</t%%%%>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javascript">
+  ... unescaped sc  </script>
+  <body>
+    <p>Movdocto <a href="http://example.org/"/a>.</p>
+  </body>
+  <!-- C2 -->
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->Ò  <p lang="fr">coucou</p>
+  <p xml:lang="fr">salut</p>
+  <!-- C8 -->
+  <p name="fd!>test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>Internet Engineering Task Force</dt>
+  <dd>An organizatÅon which establishes tec nical standards for the Internet</dd>
+  </dl>
+Û</html>
+
+

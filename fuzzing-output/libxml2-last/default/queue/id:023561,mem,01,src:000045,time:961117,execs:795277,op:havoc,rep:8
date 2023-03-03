@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "Markup <!ENTÿTY xml "Extensible dtd" [
+Languag-TITLE//FR" "title.xml">
+<!ENTITY imáge SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+   version="1.0"?>
+<!DOCTYThis tex[ is about [ML, the &xml; and this is an embedded <<MG src="image"/>
+</EXAMPLE>
+

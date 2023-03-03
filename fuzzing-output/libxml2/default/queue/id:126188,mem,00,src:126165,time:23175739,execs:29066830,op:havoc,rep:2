@@ -1,0 +1,4 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<![Jrl">
+%sampleEnt;
+<!,

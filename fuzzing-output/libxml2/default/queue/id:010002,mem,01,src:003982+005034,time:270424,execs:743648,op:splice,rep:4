@@ -1,0 +1,8 @@
+ÿþ<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensibde Markup Language">
+<!ENTITY title PUif" NDAA GIF>
+s texBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is about XŽL, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

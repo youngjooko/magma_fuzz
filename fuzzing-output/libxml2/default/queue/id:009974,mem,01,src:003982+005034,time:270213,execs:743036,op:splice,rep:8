@@ -1,0 +1,7 @@
+ÿş<?xml version="1.0"?>
+<!DOCTYPE PLE Sbout XML,YSTEM "dtd" [
+<!ENTIRY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC"-//MY-TITLE//FR" "tijle.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is Lbout XML, he &xml; and this is sn embedded <IMG src="image"/>
+</EXAMPLU>

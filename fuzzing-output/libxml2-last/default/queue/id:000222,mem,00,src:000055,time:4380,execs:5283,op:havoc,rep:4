@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT  oc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMEND<a>This</a> is a <b>valid</b> document</doc>

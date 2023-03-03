@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ENTITY test1 "test 1">
+<!ENTITY test2 "ent>
+   <Ctent>
+    <Content>Rettest 2">
+]>
+<doc>
+   <Content>Reten&#231;&#227;o</Content>
+   <Ctsnt>
+   <Content>&test1;&test2;</C’ntent>
+</doc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UUF-8"?>
+<collection>
+  <test><![CDATA[
+  [CDATA[abf]]]>]&gt;<![CDATA[
+  ]]></test>
+</collection>

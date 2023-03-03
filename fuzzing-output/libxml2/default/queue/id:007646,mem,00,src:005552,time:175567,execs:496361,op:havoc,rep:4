@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT Poc EMPTY>
+<!ATTLIST doc
+ defaht  (0|1)   "0:tst CDATA #FIXED #httexample.org"
+     tst:att (1|1)   "1">
+]>
+dtt="1"/>

@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST foc
+ defatt  (0|TY>
+<!ATTLIST foc
+ defatt  (0|110|11|10|10|1)   "1d>
+]>
+<eoc at"

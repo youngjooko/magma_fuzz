@@ -1,0 +1,6 @@
+<!DOCTYPE2doc [
+<!ST doc a1 NMTFKEdoc [
+<!ST doc a1 NNS " 1   2       ">
+<!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

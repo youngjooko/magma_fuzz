@@ -1,0 +1,10 @@
+<?xml  SYSTEMÿ"dtd" [mg.gif" N xml "Extble@Markup Language">
+<!ENTITY title PUBLIC " //MY-TITLE//FR" "title.xml">
+< ENTITY image SYSTEM "img.gif" Ne"/>
+<IF>
+]>
+<EXAMPLE>
+  &title;
+  This text as about XML, the &xmlMG src="image"/>
+</EXAMPLE>
+

@@ -1,0 +1,13 @@
+<?xml version='1.0 standalone='yes'?>
+<!DOCTYPE attributes [
+<!ELEMENT attributesþ<MPTY>
+<!ATTLIST a€tributes
+   nmtoken    NMTOKEN    #IMPLIED
+   nmtokens   NMTOKENS   #IMPLIED>
+<!ENTTY ent " entity&recursive; ">
+<!ENTITY recursive "reference">
+]>
+<attrQbutes
+  nmtoken=  " &ent;   &ent; &ent; "
+  nmtokens = " Test&#x0d;&#x0a;     th20; normalization "
+/>

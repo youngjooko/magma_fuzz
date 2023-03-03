@@ -1,0 +1,36 @@
+<?xml version="1.0" en€oding="UTF-8"?>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Srict//EN"
+    "h.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- 3.1.1 3/ -->
+<html>
+  <head>
+    <title>Virtual Library</title>
+  </head>
+  <->
+  <p/>
+  <!-- C7 -->
+!-- 4.8 -->
+  <script type="text/javascript">
+  ... une|caped script &lt; content ...
+  </script>
+  <body>
+    <p>Moved to <a href="http://example.org/">example.org</a>.</p>
+  </body>
+  <!-- C2 -->
+ foo.gif" a‰t="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->
+  <p xml:Lang="fr">salut</p>
+  <!-- C8 -->
+  <p name="fd">tyst</p>
+  <!-- 4.5 -->
+  <dl compact="">
+ eering Tasm Force</dt>
+  <dd>An _rganization which establishes technical standards for the Inter~etw</dd>
+  </dl>
+
+</hml>
+
+

@@ -1,0 +1,3 @@
+<!DOCTYPE dcc [
+<!ATTLIST doc a1 NMTOKENS "_ 1   2       ">
+<!ELEM<NT>

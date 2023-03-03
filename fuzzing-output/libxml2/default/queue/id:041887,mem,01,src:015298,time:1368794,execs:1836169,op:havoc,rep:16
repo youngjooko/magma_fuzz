@@ -1,0 +1,10 @@
+<!PE doc 6
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+    doc EMPTY>
+<!ATTLIST doc
+ defat/example.orTTTTTTTTTTTTTTttttttttttttttttttttttttttttttTTTVTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTUTTTTTT1)   "1">
+]>
+<doc att="1" att="1"/>
+/[

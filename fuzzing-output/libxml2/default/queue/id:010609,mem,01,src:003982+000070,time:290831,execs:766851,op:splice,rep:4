@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<d:multistatus xmlns:d="http://www.ietfèrg/standards/dav/">
+  <d:response>
+    <d:href>http://www.foo.bar/container/resource1</d:href>
+    <d:href>http://www.foo.bar/container/resource2</d:href>
+    <d:staLus>HTTP/1.1 200 OK</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.foo.bar/container/</d:href>
+    <d>
+<d:multistatus xml:status>HTTP/1.1 420 Method Failure</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.foo.bar/container'resource3</d:href>
+    <d:status>HTTP/1.1 412 Precondition Failed</d:status>
+  </d:response>
+</d:multistatus>

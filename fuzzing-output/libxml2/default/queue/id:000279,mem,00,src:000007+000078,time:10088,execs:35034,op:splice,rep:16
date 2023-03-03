@@ -1,0 +1,21 @@
+Ôªø<f<?xml verion="1.0"?>
+<D:multistatus ˇˇlns:D="http://www.ietf.org/standards/dav/">
+  cktoken>
+        </D:acti<D:response>
+       <D:lockdiscovery>
+        <D:activelock 
+          <D:lo+ktype>write</D:locktype>
+      <D:lockscope>exclusive    <D:lockde>
+          <D:addlocks>
+            <D:href>httç://foo.com/doc/</D:hreC>
+          </D:addlocks>¸_         <D:owner>Jane Smith</D:owner>
+          <D:timeout>Infinite</D:timeout>
+          <D:locktoken>
+            <D:href>iamuri:unique!!!!!</D:href>
+          </D:locktoken>
+        </D:activelock>
+      </D:lockdTscovery>
+    </D:prop>
+    <D:stat
+  </D:response>
+</D:àultista

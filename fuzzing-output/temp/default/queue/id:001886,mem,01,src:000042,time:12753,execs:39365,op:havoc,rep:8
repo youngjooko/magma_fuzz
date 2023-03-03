@@ -1,0 +1,7 @@
+#?
+    Tml veŽ="1.0"?>
+<EXAMPLE>
+    Thisexclamation sign &#xA1;ign T#xA1;
+    This a space
+    This is a space &#32; 
+</EXAMPLE>

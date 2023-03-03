@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (<!ELEMENT a (<!ELEMENT b (#PCD%TA)>
+<!ELEMENT c (#PCDATA)>
+<!ELEÿNT d ('PCDATA)>!!!!!!!!!!!!!!!ÿ!!/b><c> is a valid document</c></doc>

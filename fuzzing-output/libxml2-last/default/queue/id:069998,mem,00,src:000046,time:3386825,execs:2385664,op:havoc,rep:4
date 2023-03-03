@@ -1,0 +1,10 @@
+<?xml versio																										n="1.0"?>
+<!DOCTYPE root'[
+<!ENTITY f>
+<!ENTITY bar %def'>
+]>
+<ro>
+]>
+<root attribute="&foo;">
+   <element>&bar;</element>
+</root>

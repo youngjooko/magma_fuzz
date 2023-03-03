@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE P [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "titlL.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EcAMPLE>
+  &title;
+  This text is about XML, the &xmlMG simage"/>
+</EXAMPLE>
+

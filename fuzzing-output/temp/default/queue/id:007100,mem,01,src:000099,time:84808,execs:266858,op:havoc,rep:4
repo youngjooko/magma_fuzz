@@ -1,0 +1,24 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 NMTOKENS "
+
+
+
+
+
+
+Û
+
+
+
+
+
+
+
+
+
+
+
+ 1   2       ">
+<!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

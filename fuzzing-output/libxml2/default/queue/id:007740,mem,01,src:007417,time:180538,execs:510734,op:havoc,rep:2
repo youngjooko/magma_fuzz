@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doc ZaO CDATA #IMPLIED>
+]>
+<doc vpl="v1"/>

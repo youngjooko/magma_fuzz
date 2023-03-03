@@ -1,0 +1,5 @@
+<!DOCTYPE dgc [
+<!ELEMENT doc (#PCDATA)>
+<!ATTLIST doc vaAAAAAAAAAAAAAAAAAAAAAAAAAAl CDATA #IMPLIED>
+]>
+<doc val="v1"/>

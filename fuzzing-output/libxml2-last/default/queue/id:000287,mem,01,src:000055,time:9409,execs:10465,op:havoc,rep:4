@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!EfEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <bd</b>7document</doc=ô

@@ -1,0 +1,13 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC ",-TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the f" NDATA GIF>
+]>
+<EXAMPLsrc="image"his is an embedded =IMG &xml; and t/>
+</EXAMPLE>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "iidle=xml">
+<!ENTITY image SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXAMPLM>
+  &title;
+  Thist%is aboutggg>
+</2XA”PLE>

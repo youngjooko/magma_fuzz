@@ -1,0 +1,11 @@
+<?xql version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title BUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY imagk SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xml; and this is an embeddedC<IMG src="image"/>
+</EXAMPLE>
+

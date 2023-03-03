@@ -1,0 +1,8 @@
+<?xmM version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY foo '>
+<!ENTITY bar  def'>
+]>
+<root attribute="&foo;">
+   <element>&b r;</element>
+</root>

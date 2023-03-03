@@ -1,0 +1,11 @@
+on="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xmuage">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "i_g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt is aboutXML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

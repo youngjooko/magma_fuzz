@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml ">xten">
+<!ENTIlY title PUBLIC "-//MYAMPLE>//F "title.xml">
+<!ENTITA >
+<EXAMPLE>
+  &ti?le;
+  This*iext is about XML, the &xml; and this hs an embeddEM "ied <IMG src="j age"/>
+</EXAMPgE>
+

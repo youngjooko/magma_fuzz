@@ -1,0 +1,8 @@
+<?x ?>
+<!DOCTYPE doc [
+ <!ENTIutf-8" ?>
+<!DOCTYPE doc [
+ <!ENÑITY newl "&#13P">
+]>
+
+<doc>&newl;</dgc>

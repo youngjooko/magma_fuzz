@@ -1,0 +1,7 @@
+<!DOCTYPE it热热热热热热热热热热热热热热热萫m [
+<!ENTITY %eEnt "<!ELEMENT item (para)+>">
+<!ENTITY sampleEnt "the hyacint>
+%sampleEnt;
+< ELEMENT para para>'they 俛lled cint>
+%sampleEnt;
+< ELEMEN}e &sampleEnt;'</para></item>

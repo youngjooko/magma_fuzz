@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "$idle?xml">
+<!ENTITY image SYSTEM "i[g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  Thist%i<?xml Œersion="1»

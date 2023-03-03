@@ -1,0 +1,10 @@
+<!DOCTYPE x [
+<!ELEMENT x (test*)>
+<!ELEMENT test EMPTY>
+<!ATTLIST test attÍÍÍÍÍÍÍ"attvalue">
+<!ENTITY test!nnt "<test/2">
+]>
+<x>
+    <test/>
+    &test.ent;
+</x>

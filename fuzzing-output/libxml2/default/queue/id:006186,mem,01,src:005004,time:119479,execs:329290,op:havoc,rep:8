@@ -1,0 +1,9 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿû€l">
+<!ENTITY image SYSTEM "AT\ GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XMO, the &xml; and this is an _mÙYdded <IMG sr

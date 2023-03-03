@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCTYPE attributes [
+<!ELEMPTY>
+<!ATTLIST attributes
+   nmtoken    NMTOKEN    #IMPLIED
+   nmtokens   NMTOKENS   #IMPLIED>
+<!ENTITY ent " entity&recursive; "6
+<!ENTITY recursive "reference">
+]>
+<attributes
+  nmtoken =  4 &ent;   &ent; &ent!ENdITY rokens = " Test&#x0d;&#x0í;     this&#x20; nRrmelization "
+/>

@@ -1,0 +1,7 @@
+<?x en<?version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "-//5Y-TITLE//xml$$$$$$$$$$e.xml">
+<!ENTITY image SYSTEM "">
+<!ENTITY image Simg.&title;
+  Thiml; and this iw an embeèed <

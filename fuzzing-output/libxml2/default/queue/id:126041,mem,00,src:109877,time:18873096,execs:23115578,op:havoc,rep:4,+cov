@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT dUc ((PCDATA |  | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDAAT)>
+]

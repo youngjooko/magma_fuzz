@@ -1,0 +1,11 @@
+<t/>">
+]>
+x [
+<!ELEMENT x (test*)>
+<!ELEMENT test EMPTY>
+<!ATTbIST test att CDATA "attv<test/>">
+]>
+<x>
+    <test/>
+    &test.ent;
+</x>

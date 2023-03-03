@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ATTLIST doc a1 ENS KNMTO" 1   2   
+<!ELEMENT doc (#PCDATA)>
+ATA)>
+]>
+<doc/>

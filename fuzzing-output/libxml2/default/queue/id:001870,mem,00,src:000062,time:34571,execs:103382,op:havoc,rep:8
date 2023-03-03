@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT oc ((a | b)+ , c ,  d)*>
+<!ELEMEHT a (#PCDATA)>
+TA)>
+<!E<NT c (#PCDATA)>
+<!ELEMENT d (#PCa<b>This</b><c> is nt</d></doc>

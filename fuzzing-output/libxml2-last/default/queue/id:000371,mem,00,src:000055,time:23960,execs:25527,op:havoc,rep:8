@@ -1,0 +1,7 @@
+<!DOCTYPE dÿMENTo>
+[
+<!ELEMENc (#PCDATA | a |b)*5
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This4/a> is a Zb>valid</b> document</doc>

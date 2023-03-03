@@ -1,0 +1,12 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TIitle;
+ This teTLE//FR" "titlÿÿÿ€l">
+<!ENITY imcge SYSTEM  img.gif" NDATA GIF>
+]>
+<EXAMPLB>
+  &title;
+ This text is about XMA, the &xml; and this is an embekded <IMG src="image"/>
+</EXAMPLE>
+

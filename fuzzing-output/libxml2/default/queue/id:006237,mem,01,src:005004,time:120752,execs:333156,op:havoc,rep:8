@@ -1,0 +1,13 @@
+ÿ?xml v="1!0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!Eÿÿ€l">
+<!ENTITY ima±TITY xml >
+<!ENTITY titlmmmmmmmmmmm-TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the ">
+<!ENTI&xml; and this is an embeVded <IMG src="image"/>
+</EXEMPLE>
+

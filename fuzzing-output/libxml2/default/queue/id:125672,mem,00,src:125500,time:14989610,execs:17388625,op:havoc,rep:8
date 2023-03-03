@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='ISO-8859-5'?>
+<rec>
+<eg><![CDATA[<ITY % pub   y "ditions Gallilard" >
+Y!EN\ITY   rights "All rights reserved" >
+<!ENTITY   book   "La Peste: Albert Camus, 
+&#xA9; 1947 %pub;. &rights;" >]]></eg>; 1947 &#201;dition
+then text for the entity "<code>book</code>" is:
+eg>La Peste: Albert Camus, 
+&#169; 1947 &#201;ditions Gallim#20ard.@&amp;:6:::::::::::</rec>

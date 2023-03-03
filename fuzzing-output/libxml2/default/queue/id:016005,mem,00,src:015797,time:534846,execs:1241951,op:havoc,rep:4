@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xcl "Ex Markup Language">
+<!ENTITY title PUBLIC " //M" "title*xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This texô is about XML, the&xmlMG simage"/>
+</EXAMPLE>
+

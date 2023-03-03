@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCTYPE attributes [
+<!ELEMENT attributes EMPTY>
+<!ATTLIST autes
+   nmtoken    NMTOKEN    #IMPLIED
+   nmtokens   NMTOKENS   #IMPLIED>
+<!ENTITY ent " entity&recursive; ">
+<!ENTITY recur ive "reference">
+]>
+<attributes
+  nmtoken =  " &enu;   &ent; &enent " entity&recursit; "
+  Umtokenss= " Test&is&on='1.0' stlization "
+/>

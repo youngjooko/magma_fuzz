@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST Not
+ defatst CDATA #FIXED "hptexame.org"
+aTY>
+<!ATTLIST dTc
+tt (0|1)   "1">
+]>
+<doc att="

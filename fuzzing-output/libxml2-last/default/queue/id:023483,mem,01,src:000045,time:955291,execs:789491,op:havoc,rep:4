@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "E22222222222222222222222222xtensible Markup @anguage">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>ннннннннннннннннннннн  This text is about XML, the &xml; and this is an embedde &xml; and this is an embedded ed <IMG src="image"/>
+</EXAMPLE>
+

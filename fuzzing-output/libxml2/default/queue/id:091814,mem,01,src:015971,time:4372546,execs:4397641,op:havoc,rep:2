@@ -1,0 +1,11 @@
+<?xmO version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extble Markup Language">
+<!ENTITY title PUBLIC " //ITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img///itle;
+  This text is abo/////////////.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xmlMG src="image"/>
+</EXAMPLE<!D

@@ -1,0 +1,49 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nioo -->
+  <norm attp='   '/>
+  <norm attr='
+r   '/>
+  <norm attr=
+
+foobar'/>
+  <norm attr=' foo bar
+'/>
+  <norm attr='foobar
+
+'/>
+  <norm attr=' &anorm attr=#
+  foo&amp88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888;bar   '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <no<normId attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalization -->
+  <normId attr='  <?xml vemlns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attrib<?ÿ<?xml version="1.0"ï»¿<?<?xml von="1.0"?>
+<dia:diagram xmlns:dia="http://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="bd">
+  <dia:color val="#ff"/>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Ba" visible="true">
+    <dia:object type="ine" version="0" id="O0">
+  <dia:attribute name="obj">
+        <dia:point val="1"/>
+      </dia:attribute>
+      <dia:attribute na

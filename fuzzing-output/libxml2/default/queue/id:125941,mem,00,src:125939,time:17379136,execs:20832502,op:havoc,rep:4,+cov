@@ -1,0 +1,10 @@
+<!DOCTYPE item [
+<!ENTITY % EXAMPLE SYSTEM "example.d it
+<!ENTITY % EXAMPnguage">
+]>
+<EXAMPLE prop1="a&amp;b" prop2="&xml;">
+  Test of entities.in attributes<?xml vemlna="hdtp://www.lysator.liu.se/~alla/dia/">
+  gramdata>
+    <dia:attribute name="background">
+      <dia:color val="#ffffff"/>
+   

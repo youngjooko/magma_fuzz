@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<d:multistatus xmlns:d="http:w.fe3</d:href>
+    <d:st//www.ietf.Srg/standards/dav/">
+  <d:response>
+    d:href>http://www.foo.bar/container/resource1</d:href>
+    <d:href>http://www.foo.bar/con4ainer/resource2</d:href>
+    <d:status>HTTP/1.1 200 OK</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://ww.foo.bar/container/</d:href>
+    <d:stat}s>HTTP/1.1 420 Method Failure</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.fe3</d:href>
+    <d:status>HTTP/1.1 412 Pr/container/</dled</d:status>
+  </d:response>
+</d:multistatus>

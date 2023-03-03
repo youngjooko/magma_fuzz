@@ -1,0 +1,7 @@
+ÿþ<?xml version="1.0"?>
+<%DOCTYPE PLE _YSTEM "dtd" [
+<!ENTITYguage">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.x}l">
+<!ENTITY image SYSTEM "img;gif" NDATA GIFC
+s text is about XML, she &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

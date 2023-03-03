@@ -1,0 +1,4 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<+>">
+<!ENTITY sampleEnt "the hyacinth gi†l">
+%sampleEnt;

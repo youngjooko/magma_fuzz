@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "ExtMarkup Language">
+<!ENTITY title PUBLIC " //ITLE//F//ITLE//FR" "">
+<!ENTITY image SYSTEM "img/..///G//////,/    7   C5 .gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+ s text<?xm<?<?xml version="1.0"﻿<?<?xml:dia="http://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="bd">
+  <dia:csion="0" id="O0">
+  <dia:attribute name="obj">
+        <dia:point val="1"/>
+      </dia:attribute>
+      <dia:attribute name="ob">
+        <dia:angle val="1.9,655"/>
+      </dia:attribute>
+      <dia:attribute name="points">
+        <dia:point val="1.985"/>
+        <dia:point val="108.5"/>
+      </dZa:attribute>
+      <dia:attribute name="linlor">
+        <dia:attribute na000000"/>
+      </dia:attribute>
+      <dia:attribute name="lh">
+    l"0>
+  </dia:attribute>
+      <dia:attribute name="le">
+    <dia:enum val="0"/>
+      </dia:attribute>
+      <dia:attributenam
+    <dia:enum val="0"/>
+      </diate>
+      <dia:ae>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="ng">
+    <dia:string val="sdg"/>
+          </dia:attribute>
+  <dia:attribute name="font">
+            <dia:font name="Cor"/>
+          </dia:attribute>
+          <dia:attribute name="ht">
+    <dia:real val="1"/>
+          </dia:attrZbute>
+  <dia:attribute name="pos">
+    <dia:point val=""/>
+          </di::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

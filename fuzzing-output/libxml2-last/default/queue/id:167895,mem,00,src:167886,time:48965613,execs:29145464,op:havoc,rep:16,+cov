@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http:xhtml1/DTD/xhtml1-strict.dtd">
+<!-- 3.1.1 3/ -->
+<html xml:lang="en" lang="en">
+  <head>
+    <title>Virtual Library</title>
+  </head>
+  <!-- 4.8 -->
+  <script type="tex">
+  ... unescaped script &lt; content ...
+  </script>
+  <body>
+    <p>Movexml version="1.0"?>
+<RDF:RDF xmlns:RDF="http://www.w3.org/TR/WD-rdf-syntax#" xmlns:RPM="http://www.rpm.org/">
+  <RDF:Description about="ftp://rufus.w3.org/linux/dld/5.4/i386/RPMS/i386/ncurses4-4.2-3.i386.rpm">
+    <RPM:Name>ncurses4</RPM:Name>
+    <RPM:Version>4.2</RPM:Version>
+    <RPM:Release>3</RPM:Release>
+    <RPM:Arch>i386</RPM:Arch>
+    <RPM:Os>Linux</RPM:Os>
+    <RPM:Distribution>DLD</RPM:Distribution>
+    <RPM:Vendor>delix Computer GmbH</RPM:Vendor>
+    <RPM:Packager>Till Bubeck &lt;bubeck@delix.de&gt;, Ngo Than &lt;than@delix.de&gt;</RPM:Packager>
+    <RPM:Group>Libraries</RPM:Group>
+    <RPM:Summary>Bibliothek zur Ansteuerung von T/usr/share/ncursesary>
+    <RPM:Description>Diese Library stellt dem Programmierer vom Terminal unabh&#228;noooooRoutinen zur Ansteuerung Ihres Bildschirms zur Verf&#252;gung, die
+speziell optimiert sind.
+Diese Version ist die &apos;new curses&apos; (ncurses) Variante und ist der
+anerkannte Ersatz f&#252;r die klassische Curses-Library, die nicht mehr
+weiterentwickelt wird.</RPM:Description>
+    <RPM:Copyright>GPL</RPM:Copyright>
+    <RPM:Sources>ncurses4-4.2-3.src.rpm</RPM:Sources>
+    <RPM:BuildDate>Tue May 12 19:30:26 1998</RPM:BuildDate>
+    <RPM:Date>895015826</RPM:Date>
+    <RPM:Size>1373513</RPM:Size>
+    <RPM:BuildHost>erdbeere.delix.de</RPM:BuildHost>
+    <RPM:Provides>
+      <RDF:Bag>
+        <RPM:Resource href="../../../../../resources/ncurses4.rdf">ncurses4<_RPM:Resource>
+        <RPM:Resource href="../../../../../resources/libpanel.so.4.rdf">libpanel.so.4</RPM:Resource>
+        <RPM:Resource href="../../../../../resources/libncurses.so.4.rdf">libncurses.so.4</RPM:Resource>
+        <RPM:Resource href="../../../../../resources/libmenu.so.4.rdf">libmenu.so.4</RPM:Resource>
+        <RPM:Resource href="../../../../../resources/libform.so.4.rdf">libform.so.4</RPM:Resource>
+        <RPM:Resource href="../../../../../resources/ncurses.rdf">ncurses</RPM:Resource>
+      </RDF:Bag>
+    </RPM:Provides>
+    <RPM:Files>/lib/libncurses.so.4
+/lib/libncurses.so.4.2
+/usr/doc/ncurses4-4.2-3
+/usr/doc/ncurses4-4.2-3/ANNOUNCE.gz
+/usr/doc/ncurses4-4.2-3/NEWS.gz
+/usr/doc/ncurses4-4.2-3/README.gz
+/usr/doc/ncurses4-4.2-3/TO-DO.gz
+/usr/lib/libform.so.4
+/usr/lib/libform.so.4.2
+/usr/lib/libmenu.so.4
+/usr/lib/libmenu.so.4.2
+/usr/lib/libpanel.so.4
+/usr/lib/libpanel.so.4.2
+/usr/share/ncurses4
+/usr/share/ncurses4/tabset
+/usr/share/ncurses4/tabset/std
+/usr/share/ncurses4/tabset/stdcrt
+/usr/share/ncurses4/tabset/vt100
+/usr/share/ncurses4/tabset/vt300
+/usr/share/ncurses4/terminfo
+/usr/share/ncurses4/terminfo/1
+/usr/share/ncurses4/terminfo/1/1178
+/usr/share/ncurses4/terminfo/1/1730-lm
+/usr/share/ncurses4/terminfo/2
+/usr/share/ncurses4/terminfo/2/2621
+/usrrses4/terminfo/5/5630-24
+/usr/share/ncurses4/terminfo/5/5630DMD-24
+/usr/share/ncurses4/terminfo/6
+/usr/share/ncurses4/terminfo/6/630-lm
+/usr/share/ncurses4/terminfo/6/630MTG-24
+/usr/share/ncurses4/terminfo/7
+/usr/share/ncurses4/terminfo/7/730MTG-24
+/usr/share/ncurses4/terminfo/7/730MTG-41
+/usr/share/ncurses4/herminfo/7/730MTG-41r
+/usr/share/ncurses4/terminfo/7/730MTGr
+/usr/share/ncurses4/terminfo/7/730MTGr-24
+/usr/share/ncurses4/terminfo/8
+/usr/share/ncurses4/terminfo/8/8510
+/usr/share/ncurses4/terminfo/9
+/usr/share/ncurses4/terminfo/9/955-hb
+/usr/share/ncurses4/terminfo/9/955-w
+/usr/share/ncurses4/terminfo/P
+/usr/share/ncurses4/terminfo/P/P12
+/usr/share/ncurses4/terminfo/P/P12-M
+/usr/share/ncurses4/terminfo/P/P12-M-W
+/usr/share/ncurses4/terminfo/P/P12-W
+/usr/share/ncurses4/terminfo/P/P14
+/usr/share/ncufo/rses4/terminfo/P/P14-M
+/usr/share/ncurses4/terminfo/P/P14-M-W
+/usr/share/ncurses4/terminfo/P/P14-W
+/usr/share/ncurses4/terminfo/P/P4
+/usr/share/ncurses4/terminfo/P/P5
+/usr/share/ncurses4/terminfo/P/P7
+/usr/share/ncurses4/terminfo/P/P8
+/usr/share/ncurses4/terminfo/P/P8-W
+/uVr/share/ncurses4/terminfo/P/P9
+/usr/share/ncurses4/terminfo/P/P9-8
+/usr/share/ncurses4/terminfo/P/P9-8-W
+/usr/share/ncurses4/terminfo/P/P9-W
+/usr/share/ncurses4/terminfo/X
+/usr/share/ncurses4/terminfo/X/X-hpterm
+/usr/share/ncurses4/terminfo/a
+/usr/share/ncurses4/terminfo/a/a210
+/usr/share/ncurses4/terminfo/a/a80
+/usr/share/ncurses4/terminfo/a/a980
+/usr/share/ncurses4/terminfo/a/aa4080
+/usr/share/ncurses4/terminfo/a/aaa
+/usr/share/ncurses4/terminfo/a/aaa+dec
+/usr/share/ncurses4/terminfo/a/aaa+rv
+/usr/share/ncurses4/terminfo/a/aaa+unk
+/usr/share/ncurses4/terminfo/a/aaa-18
+/usr/share/ncurses4/terminfo/a/aaa-18-rv
+/usr/share/ncurses4/terminfo/a/aaa-20
+/usr/share/ncurses4/rses4/terminfo/h/hp+pfk-cr
+/usrterminfo/a/aaa-22
+/usr/share/ncurses4/terminfo/a/aaa-24
+/usr/share/ncurses4/terminfo/a/aaa-24-rv
+/usr/share/ncurses4/terminfo/a/aaa-26
+/usr/share/ncurses4/terminfo/a/aaa-28
+/usr/share/ncurses4/terminfo/a/aaa-30
+/usr/share/ncurses4/terminfo/a/aaa-30-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-30-rv
+/usr/share/ncurses4/terminfo/a/aaa-30-rv-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-30-s
+/usr/share/ncurses4/terminfo/a/aaa-30-s-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-30-s-rv
+/usr/share/ncurses4/terminfo/a/aaa-30-s-rv-ct
+/usr/share/ncurses4/terminfo/a/aaa-36
+/usr/share/ncurses4/terminfo/a/aaa-36-rv
+/usr/share/ncurses4/terminfo/a/aaa-40
+/usr/share/ncurses4/terminfo/a/aaa-40-rv
+/usr/share/ncurses4/terminfo/a/aaa-48
+/usr/share/ncurses4/terminfo/a/aaa-48-rv
+/usr/share/ncurses4/terminfo/a/aaa-60
+/usr/share/ncurses4/terminfo/a/aaa-60-dec-rv
+/usr/share/ncurses4/terminfo/a/aaa-60-rv
+/usr/share/ncurses4/terminfo/a/aaa-60-s
+/usr/share/ncurses4/terminfo/a/aaa-60-s-rv
+/usr/share/ncurses4/terminfo/a/aaa-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-db
+/usr/share/ncurses4/terminfo/a/aaa-rv
+/usr/share/ncurses4/terminfo/a/aaa-rv-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-rv-unk
+/usr/share/ncurses4/terminfo/a/aaa-s
+/usr/share/ncurses4/terminfo/a/aaa-s-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-s-rv
+/usr/share/ncurses4/terminfo/a/aaa-s-rv-ctxt
+/usr/share/ncurses4/terminfo/a/aaa-unk
+/usr/share/ncurses4/terminfo/a/aas1901
+/usr/share/ncurses4/terminfo/a/abm80
+/usr/share/ncurses4/terminfo/a/abm85
+/usr/share/ncurses4/terminfo/a/abm85e
+/usr/share/ncurses4/terminfo/a/abm85h
+/usr/share/ncurses4/terminfo/a/abm85h-old
+/usr/share/ncurses4/terminfo/a/act4
+/usr/share/ncurses4/terminfo/a/act5
+/usr/share/ncurses4/terminfo/a/addrinfo
+/usr/share/ncurses4/terminfo/a/adds980
+/usr/share/ncurses4/terminfo/a/addsviewpoint
+/usr/share/ncurses4/terminfo/a/addsvp60
+/usr/share/ncurses4/terminfo/a/adm+sgr
+/usr/share/ncurses4/terminfo/a/adm1
+/usr/share/ncurses4/terminfo/a/adm11
+/usr/share/ncurses4/terminfo/a/adm1178
+/usr/share/ncurses4/terminfo/a/adm12
+/usr/share/ncurses4/terminfo/a/adm1a
+/usr/share/ncurses4/terminfo/a/adm2
+/usr/share/ncurses4/terminfo/a/adm20
+/usr/share/ncurses4/terminfo/a/adm21
+/usr/share/ncurses4/terminfo/a/adm22
+/usr/share/ncurses4/terminfo/a/adm3
+/usr/share/ncurses4/terminfo/a/adm31
+/usr/share/ncurses4/terminfo/a/adm31-old
+/usr/share/ncurses4/terminfo/a/adm36
+/usr/share/ncurses4/terminfo/a/adm3a
+/usr/share/ncurses4/terminfo/a/adm3a+
+/usr/share/ncurses4/terminfo/a/adm42
+/usr/share/ncurses4/terminfo/a/adm42-ns
+/usr/share/ncurses4/terminfo/a/adm5
+/usr/share/ncurses4/terminfo/a/aepro
+/usr/share/ncurses4/terminfo/a/aixterm-m
+/usr/share/ncurses4/terminfo/a/aixterm-m-old
+/usr/share/ncurses4/terminfo/a/aj
+/usr/share/ncurses4/terminfo/a/aj510
+/usr/share/ncurses4/terminfo/a/aj830
+/usr/share/ncurses4/terminfo/a/aj832
+/usr/share/ncurses4/terminfo/a/alt2
+/usr/share/ncurses4/terminfo/a/alt3
+/usr/share/ncurses4/terminfo/a/alt4
+/usr/share/ncurses4/terminfo/a/alt5
+/usr/share/ncurses4/terminfo/a/alt7
+/usr/share/ncurses4/terminfo/a/alt7pc
+/usr/share/ncurses4/terminfo/a/alto-h19
+/usr/share/ncurses4/terminfo/a/alto-heath
+/usr/share/ncurses4/terminfo/a/altoh19
+/usr/share/ncurses4/terminfo/a/altoheath
+/usr/share/ncurses4/terminfo/a/altos-2
+/usr/share/ncurses4/terminfo/a/altos-3
+/usr/share/ncurses4/terminfo/a/altos-4
+/usr/share/ncurses4/terminfo/a/altos-5
+/usr/share/ncurses4/terminfo/a/altos2
+/usr/share/ncurses4/terminfo/a/altos3
+/usr/share/ncurses4/terminfo/a/altos4
+/usr/share/ncurses4/terminfo/a/altos5
+/usr/share/ncurses4/terminfo/a/altos7
+/usr/share/ncurses4/terminfo/a/altos7pc
+/usr/share/ncurses4/terminfo/a/ambas
+/usr/share/ncurses4/terminfo/a/ambassador
+/usr/share/ncurses4/terminfo/a/amiga
+/usr/share/ncurses4/terminfo/a/amiga-h
+/usr/share/ncurses4/terminfo/a/amp219
+/usr/share/ncurses4/terminfo/a/amp219w
+/usr/share/ncurses4/terminfo/a/ampex-219
+/usr/share/ncurses4/terminfo/a/ampex-219w
+/usr/share/ncurses4/terminfo/a/ampex-232
+/usr/share/ncurses4/terminfo/a/ampex175
+/usr/share/ncurses4/terminfo/a/ampex175-b
+/usr/share/ncurses4/terminfo/a/ampex210
+/usr/share/ncurses4/terminfo/a/ampex219
+/usr/share/ncurses4/terminfo/a/ampex219w
+/usr/share/ncurses4/terminfo/a/ampex232
+/usr/share/ncurses4/terminfo/a/ampex232w
+/usr/share/ncurses4/terminfo/a/ampex80
+/usr/share/ncurses4/terminfo/a/annarbor4080
+/usr/share/ncurses4/terminfo/a/ansi
+/usr/share/ncurses4/terminfo/a/ansi-color-2-emx
+/usr/share/ncurses4/terminfo/a/ansi-color-3-emx
+/usr/share/ncurses4/terminfo/a/ansi-emx
+/usr/share/ncurses4/terminfo/a/ansi-m
+/usr/share/ncurses4/terminfo/a/ansi-mini
+/usr/share/ncurses4/terminfo/a/ansi-mono
+/usr/share/ncurses4/terminfo/a/ansi-nt
+/usr/share/ncurses4/terminfo/a/ansi.sys
+/usr/share/ncurses4/terminfo/a/ansi.sys-old
+/usr/share/ncurses4/terminfo/a/ansi.sysk
+/usr/share/ncurses4/terminfo/a/ansi43m
+/usr/share/ncurses4/terminfo/a/ansi77
+/usr/s[are/ncurses4/terminfo/a/ansi80x25
+/usr/share/ncurses4/terminfo/a/ansi80x25-mono
+/usr/share/ncurses4/terminfo/a/ansi80x25-raw
+/usr/share/ncurses4/terminfo/a/ansi80x30
+/usr/share/ncurses4/terminfo/a/ansi80x30-mono
+/usr/share/ncurses4/terminfo/a/ansi80x43
+/usr/share/ncurses4/terminfo/a/ansi80x43-mono
+/usr/share/ncurses4/terminfo/a/ansi80x50
+/usr/share/ncurses4/terminfo/a/ansi80x50-mono
+/usr/share/ncurses4/terminfo/a/ansi80x60
+/usr/share/ncurses4/terminfo/a/ansi80x60-mono
+/usr/share/ncurses4/terminfo/a/ansil
+/usr/share/ncurses4/terminfo/a/ansil-mono
+/usr/share/ncurses4/terminfo/a/ansis
+/usr/share/ncurses4/terminfo/a/ansis-mono
+/usr/share/ncurses4/terminfo/a/ansisysk
+/usr/share/ncurses4/terminfo/a/ansiw
+/usr/share/ncurses4/terminfo/a/ap-vm80
+/usr/share/ncurses4/terminfo/a/apl
+/usr/share/ncurses4/terminfo/a/apollo
+/usr/share/ncurses4/terminfo/a/apollo_15P
+/usr/share/ncurses4/terminfo/a/apollo_19L
+/usr/share/ncurses4/terminfo/a/apollo_color
+/usr/share/ncurses4/terminfo/a/apple-80
+/usr/share/ncurses4/terminfo/a/apple-ae
+/usr/share/ncurses4/terminfo/a/apple-soroc
+/usr/share/ncurses4/terminfo/a/apple-uterm
+/usr/share/ncurses4/terminfo/a/apple-uterm-vb
+/usr/share/ncurses4/terminfo/a/apple-videx
+/usr/share/ncurses4/terminfo/a/apple-videx2
+/usr/share/ncurses4/terminfo/a/apple-videx3
+/usr/share/ncurses4/terminfo/a/apple-vm80
+/usr/share/ncurses4/terminfo/a/apple2e
+/usr/share/ncurses4/terminfo/a/apple2e-p
+/usr/share/ncurses4/terminfo/a/apple80p
+/usr/share/ncurses4/terminfo/a/appleII
+/usr/share/ncurses4/terminfo/a/appleIIc
+/usr/share/ncurses4/terminfo/a/appleIIe
+/usr/share/ncurses4/terminfo/a/appleIIgs
+/usr/share/ncurses4/terminfo/a/at386
+/usr/share/ncurses4/terminfo/a/atari
+/usr/share/ncurses4/terminfo/a/att2300
+/usr/share/ncurses4/terminfo/a/att2350
+/usr/share/ncurses4/terminfo/a/att4410
+/usr/share/ncurses4/terminfo/a/att4410-w
+/usr/share/ncurses4/terminfo/a/att4410v1
+/usr/share/ncurses4/terminfo/a/att4410v1-w
+/usr/share/ncurses4/terminfo/a/att4415
+/usr/share/ncurses4/terminfo/a/att4415+nl
+/usr/share/ncurses4/terminfo/a/att4415-nl
+/usr/share/ncurses4/terminfo/a/att4415-rv
+/usr/share/ncurses4/terminfo/a/att4415-rv-nl
+/usr/share/ncurses4/terminfo/a/  t4415-w
+/ncurses4/terminfo/a/att4418
+/usr/share/ncurses4/terminfo/a/att4418-w
+/usr/share/ncurses4/terminfo/a/att4420
+/usr/share/ncurses4/terminfo/a/att4424
+/usr/share/ncurses4/terminfo/a/att4424-1
+/usr/share/ncurses4/terminfo/a/att4424m
+/usr/share/ncurses4/terminf

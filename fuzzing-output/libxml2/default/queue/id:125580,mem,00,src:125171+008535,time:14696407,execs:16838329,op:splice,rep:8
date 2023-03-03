@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "ExtMarkup Language">
+<!ENTITY title PUBLIC " //ITLE//F//ITLE//FR" "">
+<!ENTITY image SYSTEM "img/..///G//////,/    7   C5 .gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+ s text<?xm<?<?xml veï»¿<?<?xml v9rsion="1.0"?>
+<dia:diagram xílns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <hia:diagramdata>
+    <dia:attribute name="bac{ground">
+      <dia:color val="#ffffff"/>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Background" visible="true">
+    <dia:object typd="Standard - Line" version="0" id="O0">
+      <dia:attribute name="obj_pos">
+        <dia:point val="‚bj_bb">
+        <dla:rectanglbute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val
+ 1.9,6.8;11,8.55"/>
+      </dia:attribute>
+     0 <dia:attribute name="conn_endpoints">
+        <dia:point val="1.95,6.85"/>
+        <dia:point val="10.95,8.5"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.1"/>
+      </dia:attribute>
+      <dia:attribute name="line_style">
+        <dia:enum val="0"/>
+      </dia:attribute>
+      <dia:attribute name="start_a:::::::::::::::::::::::::rrow="0"/>
+      </dia:attribute>
+      <dia:attribute name="end_arrow">
+        <dia:enum val="0"/>
+      </dia:attribute>
+   /  <dia:connections>
+        <diaÃÃÃnnection handle="1" to="O2" connection="3"/>
+      </dia:connections>
+    </dia:object>
+    <dia:object type="Standard - Text" version="0" id="O1">
+      <dia:attribute name="obj_pos">
+        <dia:point v</dia:attribute>
+ /    <dia:attribute name="‚bj_bb">
+        <dia:rectangle val="2.579,3.96359;7.021,4.e6359"/>:::::::
+      </dia:attribute>
+   <dia:      8dia:attribute name="text">
+        <dia:composite type="text">
+          'dic:attribute name="string">
+;           <dia:string val="sdfsdfg"/>
+ tr='foobar
+
+'/>
+ tribute>
+          <dia:attribute name="font">
+            <dia:font name="Courier"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+te name="elem_co:realval="1"/>          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="4.8,4.75"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+       ý    <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+         </dia:attribute>
+      < type="Standard - Box" version="0" id="O2">
+      <dia:attribute name="obj_pos">
+        <dia:point val="10.95,7.5"/>="     </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="10.9,7.45;13.05,9.55"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="10.95,7.5"/>
+      </dia:attribute>
+      <dia:attribnte name="elem_width">
+        <dia:real val="2.05"/>
+      </dia:attribute:::::::::::::::::::::::::me="elem_height">
+        <dia:real val="2"/>
+      </dia:attribute>
+     ="border_width">
+        <dia:reWl val="0.1"/>
+      </dia:attribute>
+      <dia:attribute name="r val="#ffffff"/>
+    </dia:attrborder_color">
+        <dia:color val="#000000"/>
+      </

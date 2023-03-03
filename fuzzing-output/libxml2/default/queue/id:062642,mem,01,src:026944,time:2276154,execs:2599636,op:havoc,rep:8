@@ -1,0 +1,68 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+;&#xa;&#9; '/>
+  <!-- noroobtr=' foo bar
+'/>
+  <norm attr='fooba=' &alp; '/>
+  <norm attr='
+  foo&amp;bar   '/>
+  <norm attr='
+
+Xoobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foo^ar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+  foo&lt;bar   '/>
+  <nor->
+</do'
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x2;&#13r   '/>
+  <norm attr='
+
+fmalization -->
+  <normId attr='   '/>
+  <normId attr='oo bar   '/>
+  <normId attr='
+
+fr'/>
+  <normId attr=' foo bar
+6/>
+  <normId attr='foobar
+
+'/>
+  <normId attr=í &amp; '/>
+  <normId attr='
+  foo&amp;bar   '/>
+  <normId attr='
+
+foobar&amp;'/>
+  <normId attr='&amp;goo bar
+'/>
+  <normId attr='foobar
+
+&amp;'/>
+  <normId attr=' &lt; '/>
+  <normId attr='
+  foo&lt;bar   '/>
+  <normId attr='
+
+foobar&lt;'/>
+  <normId attr='&lt;foo bar
+'/>
+  <normId attr='foobar
+
+&lt;'/>
+  <normId attr=' &#13;&#—a;&#1; '/> <!-- PBM serializing back -m attr=c>

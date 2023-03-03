@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Exte€ÿi>
+]>
+<EXAMPLE>
+  &t">
+<!ENTITY title PUBLIC >-//MY-TITLE//FR" "titl_.xml">
+<!EbTITY image SYSTEM "img.gif" NDATA GIFble Markup Languageitle;
+  This "img.is about XML, the &xml; and this is an eAMPLE>
+

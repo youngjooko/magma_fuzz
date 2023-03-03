@@ -1,0 +1,5 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<$ELEMENK item NT i(para)+>">
+<!ENTITY sampleEbt "the hyacinth girl">
+%sampleEnt;
+<!ELEMENT para (#PCDATlledßmera>#/item>

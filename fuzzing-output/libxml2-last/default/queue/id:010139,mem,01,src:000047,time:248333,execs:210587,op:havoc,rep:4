@@ -1,0 +1,5 @@
+utf-8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">õ]>
+
+<do>n&newl;</doc>

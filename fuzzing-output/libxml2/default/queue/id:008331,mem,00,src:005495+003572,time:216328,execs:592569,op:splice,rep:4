@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0··|1)   "0"
+     xmlns:tst CDATA #FIXED "h//example.org"
+     tpt:att (0O1)   "1"><!DOE doc [

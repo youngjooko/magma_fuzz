@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (b)*>
+<doc><a>Tb> documentELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+ = "st]>
+<doc><a>This</a> is a <b>valid</his</a>>
+<!</doc>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible  &tkup Language">
+=!ENTIT€ÿÿÿtle PUBLIC "-//MY-TITLE//FR" "tit€e.iml"=ú<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EX@MPLE>
+ Maritle;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXA2PLE>
+

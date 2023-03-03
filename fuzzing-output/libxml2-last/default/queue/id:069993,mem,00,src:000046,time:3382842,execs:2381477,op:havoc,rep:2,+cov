@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY foo 'abc'>
+<!ENTITY foo 'abc'>
+<!E<rooa ">
+ 

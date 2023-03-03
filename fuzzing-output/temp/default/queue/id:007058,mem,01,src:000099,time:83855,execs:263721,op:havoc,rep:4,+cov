@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doNT doc (  2     1   2       ">
+<!ELEMENT doc (  2       ">
+<!EL/>

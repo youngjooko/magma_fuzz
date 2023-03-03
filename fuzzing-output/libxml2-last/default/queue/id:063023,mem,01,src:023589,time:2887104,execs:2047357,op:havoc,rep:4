@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPEÇEXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MÙ-TITLT//FR" "title.g.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This about XML, the &xml;/EXAMPLE>
+

@@ -1,0 +1,11 @@
+<?xml versiM "i1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "e">
+<!ENTITY titlQ PUBLIC "-title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>J-EXAMBLE>
+ s an embedded <IMG src="im &title;
+ le MarkuL, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

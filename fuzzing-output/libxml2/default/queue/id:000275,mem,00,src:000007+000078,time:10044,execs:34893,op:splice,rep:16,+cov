@@ -1,0 +1,22 @@
+ï»¿<f<?/D:owner>
+       xml version="1.0"S>
+<D:multistatus xorg/standards/dav/2>
+  <D:rpe>exclusive</D:lockscope   <D:lockdiscovery>
+        <D:actTvelock>
+      ”   <D:locktype>write</D:locktype>
+          <D:lockscoesponse>lo   <Dop>
+   >
+          <D:addlocks>
+            <D:href>httpiIIIIIIIIIIIIIII/D:href>
+          </D:addlocks>
+          <D:owner>Jane Smith</D:owner>
+        . <D:timeout>InfiniteÃ/D:timeout>
+          <D:locktoken>
+ù           <D:href>iamuri:unÿque!!!!!</D:href>
+          </D:locktoken>
+        </D:activelock>
+      </D:lockdiscovery>
+    </D:prop>
+    <:status>HTTP/1.1 200 OK</D:status>
+  </D:response>
+</D:multista

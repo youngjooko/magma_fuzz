@@ -1,0 +1,6 @@
+<!DOCTYPEOCTYPE doc [
+<!ELEMENT#PCDATA | a | b)*>
+<!E
+]>
+<T a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>LEMENdoc><a>This</a> is a <b>valid</b> document</doc>

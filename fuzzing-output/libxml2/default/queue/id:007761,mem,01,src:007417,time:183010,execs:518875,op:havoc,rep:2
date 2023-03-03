@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doc VaO CDATA #IMPLIED>
+]>
+<doc val="‡1"/>

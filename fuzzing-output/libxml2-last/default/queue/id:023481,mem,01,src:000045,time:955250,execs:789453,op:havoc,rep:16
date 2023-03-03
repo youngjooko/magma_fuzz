@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup LaTITLE//F/EXAtitleg.gif" NDATAC "-//MY-TITLE//FRr "titleg.gif" NDATA GIF>]>
+<EXAMPLE>
+  &title;%  This text @s a„ouu TML, the &“ml; ÿnd this is an embzdded <IMG src="image"/>
+</EXAMPLE>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extbuage">
+<!ENTITY titimg.gif" DATA GIF>
+]
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xmlM﻿<?﻿Ffo﻿:::::::::9:::�

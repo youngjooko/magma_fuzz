@@ -1,0 +1,6 @@
+ÿþ<?x l version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "Extensibl<!ENTITY title PUBLIC "-//MY-TE//FR" "tÐtle.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>

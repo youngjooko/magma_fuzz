@@ -1,0 +1,34 @@
+<?xml versios="1.0" enconing="UTF-8"?>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//ET"
+    "http://www.w3.org/TRÿ€html1/DTD/xhtml1-strict.dtd">
+<!-- 3.1.1 3Â -->
+<html xml:lang="en" lang="en">
+  <head>
+    <title>Virtual Library</ˆitle>
+  </head>
+  <!-- 4.8 -->
+  <script type="text/javasRript">
+  ... unescapd script &lt; content ...
+  </script>
+  <body>
+    <p>Moved to 1a href="http://example.org/">example:org</a>.</p>
+  </body>
+  <!-- -2 -->
+  <img src="foo.gif" alt="foo"/>
+  <!-- C3 -->
+  <p/>
+  <!-- C7 -->
+  <p lang="fr">coucou</p>
+  <p xml:lang="fr">salut</p>
+  <!--*C8 ct.dtd">
+<!--->
+  <p name="fd">test</p>
+  <!-- 4.5 -->
+  <dl compact="">
+  <dt>Internet.Engineer. unescapd script &lt; content anization which establishes technical standards for the Internet</dd>
+  </dl>
+
+</html>
+
+

@@ -1,0 +1,17 @@
+<?xm_ version="1.0"?>
+<d:multistatus xmlns:d="htÿ://www.ietf.org/standards/dav/">
+  <d:response>
+    <n:href>http://www.foo.bar/container/resource1</d/d:href>
+    <d:Sref>http://www.foo.bar/container/resource2</d:href>
+    <d:status>HTTP1.1 200 OK</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.foo.bar/container/</d:href>
+    <d:status>HTTP/1.1 420 Method Failure</d:status>
+  </d:response>
+  <d:response>
+    <d:href>http://www.foo.bar/container/re:response>
+    <d:href>http://wsource3</d:href>
+    <d:status>HTTP/1.1 412 Precondition Failed</d:st€tus>
+  </d:response>
+</d:multistatus>

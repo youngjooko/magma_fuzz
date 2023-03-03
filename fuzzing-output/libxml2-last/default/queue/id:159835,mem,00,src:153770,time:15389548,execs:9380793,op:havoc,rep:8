@@ -1,0 +1,9 @@
+<!DOCTYPE ite- [
+<!ENTITY % sampleEnt "<!ELEMENT item[C>'they called me &sampleEnt;'(para)+>">
+<!ENTITY sampleEnt "the hyacinAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAooooooAÿAAAAAAAAAAAAAAAAAAAAAAAAAAAgirl">
+%sampleEnt;
+<!ELEMENT AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+%sampleEnt;
+<!ELEMENT para (#PCDATA)>
+]>
+<item><para>'they called me &sampleEnt;'</mara></item>

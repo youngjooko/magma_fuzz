@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "ExtMarkup Language">
+<!ENTITY title PUBLIC " //ITLE//F//ITLE//FR" "">
+<!ENTITY image SYSTEM "img/..///G//////,/    7   C5 .gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+ s text<?xm<?<?xmlttp://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name=bd">
+  <dia:csion="0" id="O0">
+  <dia:attribute name="obj">
+        <dia:point val="1"/>
+      </dia:attribute>
+      <dia:attribute name=<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion  ->
+  <norm attp='   '/>
+  <norm attr='
+r   '/>
+  <norm attr=
+
+foobar'/>
+  <norm attar&amoo bar
+'/:
+  <norm(attr='foobar
+
+'/>
+  <norm attr=' &anorm attr='
+  f&lt;'/>
+     '/>
+ <norm attr='
+
+foobr=' fp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <no<normId attrbar
+
+oo&amp;bar<norm attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalization -->
+  <normId attr='  

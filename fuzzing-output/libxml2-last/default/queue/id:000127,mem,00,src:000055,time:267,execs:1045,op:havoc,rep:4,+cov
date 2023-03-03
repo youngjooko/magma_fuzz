@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMÿÿ doc (#PCDATA | a | b)*>
+<!ELEMENT a ()>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</bencedOrder.Sdoc>

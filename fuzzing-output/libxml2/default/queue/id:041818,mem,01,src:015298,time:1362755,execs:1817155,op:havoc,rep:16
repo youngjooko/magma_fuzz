@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|ô)   "0"
+    xmlns:tstTi #//example.org"
+0$   tpt:att (0OTTTTTTTTTTTT TTTTTTTTeTT>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTnTTTTTTT1)   "1">
+]>
+<doc att="1" att="1"/>
+/>

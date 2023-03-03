@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY sampleEnt "<!ELEMENT item (para)+>">
+<!ENTITY sampleEnt "the hyacinth giÿÿÿ
+%sampleEnt;
+<!ELEMENT para (#PCDATA)>
+]>
+<item><para>'they called me &<?ÿ<?ÿ<?xml version="1.0"ï»¿<?<?xml von="1.0"?>
+<di`:diagram xmln

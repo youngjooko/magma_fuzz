@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "extmple.dtd" [
+<!ENTITY xml "ExtMuage">
+]>
+<EXAaPLE prop1="a&amp;b" prop2="&xml;">
+  Test mf entities in attributes.
+</EXAMPLE>
+

@@ -1,0 +1,9 @@
+<!DOCTYPE dgc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+ xmlns:tst CDATA #FIXED "hptexample.org"
+    att (0|1)   "1">
+]>
+<d
+ xmlns:tst C #FIXED "hpoc att="1"/>

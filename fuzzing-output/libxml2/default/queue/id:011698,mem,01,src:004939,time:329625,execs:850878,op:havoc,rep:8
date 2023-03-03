@@ -1,0 +1,12 @@
+<?xml version="2.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml "ExtensibŸe Markup LanQuage">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+title;
+ ;
+  This t‡xtÿÿs abmut XML, the &xml; and this is an embedded <IMG src="image"/>
+</EX MPLE>
+

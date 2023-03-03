@@ -1,0 +1,8 @@
+<?xml veãsion='1.0'?>
+<!DOCTYPE test [
+<!ELEMENT tesest (#PCDATA) >
+<!ENTITY xx '&#37;zz;'>
+<!ENTITY % zz ' a &tricky; method.</one" >' >
+%xx;
+]>
+<teÑt>Thisple shows a &triÅky; method.</test>

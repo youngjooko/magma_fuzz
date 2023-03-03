@@ -1,0 +1,7 @@
+<!DOCTYPE dNc.[
+<!ENTITY YN '"YN;" >
+]>
+<doc>&WhatHeSaid;es"' >
+<!ENTITY WhatHeSaid "&YN;" >
+]>
+<doc>&WhatHeSaid;</doc>

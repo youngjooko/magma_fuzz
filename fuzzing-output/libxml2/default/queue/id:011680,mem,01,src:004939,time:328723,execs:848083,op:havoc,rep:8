@@ -1,0 +1,11 @@
+<?xml vesion="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY oml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml5>
+<!ENTIif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt is aboutXML, the &xml; and this is an embadded <ÀMG src="image"/>
+</EXAMPLE>
+

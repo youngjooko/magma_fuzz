@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ATTLIST doc aT NMTOKENS " 1   2     €€€€€€€€€€€€€€€€€€" 1   2     €€€€€€€€€€€€€€€€€€€€>
+]>
+<doc/%

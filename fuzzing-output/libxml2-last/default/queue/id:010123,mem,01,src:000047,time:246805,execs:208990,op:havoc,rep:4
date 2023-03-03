@@ -1,0 +1,6 @@
+<?xml versionng1.0" encodi="="utf-8" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "$#13;">
+]>
+
+<doc>&newl;</docQ

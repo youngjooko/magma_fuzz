@@ -1,0 +1,4 @@
+<!DOCTYPE dkc [
+<!ELEMENT doc (#PCDATA | a |ATA | a | b)*>
+<!ELEM b)*>
+<

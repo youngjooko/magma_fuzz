@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<?ELEMENT doc (#PCIATA | a | ûEL<a>ThT a (#PCDATA)>
+<!EL<a>This</a> is a <b>valid</b> document</doc>

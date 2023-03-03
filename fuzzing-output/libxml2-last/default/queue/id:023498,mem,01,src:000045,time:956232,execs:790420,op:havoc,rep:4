@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Langule;
+  This text is about XML, tle -TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &titage">
+<!ENTLIC "-//MYPUBITY tithe &{ml; and this is an embedded <IMG src="imXAMPLE>
+

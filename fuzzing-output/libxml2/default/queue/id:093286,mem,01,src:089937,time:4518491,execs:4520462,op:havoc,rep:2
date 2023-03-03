@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE PL [
+<!ENTITY xml "Ex Markup Language">
+<!ENTITY title PUBLIC "TY NmaleßSYSTEM "iEg.gif" NDATA GIF>
+]>
+<EXA>
+> &title;
+  Thi<element

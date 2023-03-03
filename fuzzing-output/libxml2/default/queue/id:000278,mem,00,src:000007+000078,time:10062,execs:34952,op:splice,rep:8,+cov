@@ -1,0 +1,20 @@
+ï»¿<f<?x…l version="1.0"?>
+<D:multistatus xmlns:D="http://www.ietf.or<D:response>
+    <D:prop>
+     <D:lockdiscovery>
+        <D:activelock>
+          8D:locktype>write</D:locktype>
+          <D:lockscope>exc     <D:addlocks>
+      !     <D:href>http://foo.com/doc/</D:href>
+          </D:addlocks>
+          <D:owner>Jane Smith</D:owner>
+          <D:timeout>Infinite</D:timeout>
+          <D:locktoken>
+            <D:href>iamuri:unique!!!!!</D:href>
+ 5        </D:locktoken>
+        </D:activelock>
+      </D:lockdiscovery>
+    </D:prop>
+    <D:status>HTTP/1.1 200 OK</D:status>
+  </D:response>
+</D:multista

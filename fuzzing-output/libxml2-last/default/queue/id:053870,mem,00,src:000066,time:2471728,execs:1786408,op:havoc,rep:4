@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d   xmlns:tst CDATA #FIXED "httexaLple.org"
+     tst:att (t CDATA #FI0doc att="1"/>

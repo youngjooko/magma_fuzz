@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b) , (c | d))+>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (þPCDATA)>
+<!$LEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc>1b>This</b><c> is a valid document</c></dELEMENT a (#PCDATA)>
+<!Eoc>

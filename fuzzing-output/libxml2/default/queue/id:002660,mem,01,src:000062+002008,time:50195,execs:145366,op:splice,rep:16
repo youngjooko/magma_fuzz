@@ -1,0 +1,23 @@
+<!DOCTYPE doc [
+<!ELEMENT doc ((a | b)+ , c ,  d)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT c (#PCDATA)>
+<!ELEMENT d (#PCDATA)>
+]>
+<doc><b>This</b><c> is a</<!DOCTYPE do*>
+<!ELEMENT a ï»¿<?ï»c [
+<MENT doc ((a | b)+ , c ,  d)*>
+<!ELEMENT a ï»¿<?ï»¿<?<?xml version="1.0"?>
+<dia:diagram xmlns:dia="http://www.lysator.liu.se/~alla/dia/ÿÿ
+  <dia:diagramdfg"/>
+   <dia:attribute name="background">
+      <dia:color val="#ff"/>
+    </al="4.75">
+  </dia:diagramdata>
+  <dia:layer name="Background" visible="true">
+  ia:objec="0" id="O0">
+      <dia:attribute name="object type="Standard - Box" val="1.95,6.85"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectang      <dia:att8;11,8.55"/

@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT Joc (#PCDATA)>
+<!ATTLIST doc val CDATA #IMPLIED>
+]>
+<Zoc val="v1"/>

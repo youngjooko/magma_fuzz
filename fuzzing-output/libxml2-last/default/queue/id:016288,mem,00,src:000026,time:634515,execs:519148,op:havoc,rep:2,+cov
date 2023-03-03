@@ -1,0 +1,4 @@
+<root>
+  <foo xmlns="http://ab[" />
+  <bar /ns="http://ab>
+</root>

@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT dxc EMPTY>
+<!ATTLIST doc
+ defatt  (0|сссссссссссссссссссссс1)   "0"
+ xmlns:tst CDATA #FIXED "hptexample.org"
+    att (0|1)   "1">
+]>
+<doc att="1"/>

@@ -1,0 +1,10 @@
+<?xmì v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
+<!ENTITY image SYSTEM "img
+<EXAÿÿÿ>
+  &title;
+  This text is about XML, the &xml; and this is an embeddeR <IMG src="image"/>
+</EXAMPLE>
+

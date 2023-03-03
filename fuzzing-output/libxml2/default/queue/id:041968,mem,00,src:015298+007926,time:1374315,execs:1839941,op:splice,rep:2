@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+   >
+<!ATTLIST test att CDATA "attvalue">
+<!ENTITY test.ent "<test/>">
+]>
+<x>
+    <test﻿<?<?xml von="1

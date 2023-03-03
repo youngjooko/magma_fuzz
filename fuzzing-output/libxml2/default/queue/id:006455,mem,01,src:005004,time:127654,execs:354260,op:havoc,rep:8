@@ -1,0 +1,9 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY title PUBLIC "mage SYSTEM "img.gf" NSTEM "img.gf" NDATA GIF>
+]>
+<EXAMPLE>iiiiiiiiiiiiiiiiiiiiiiiii?>
+<!DOCTYPE PLE SYSTEM " this is an embedded <IMG s…c=ÿmage"/>
+</EXAMPLE>
+

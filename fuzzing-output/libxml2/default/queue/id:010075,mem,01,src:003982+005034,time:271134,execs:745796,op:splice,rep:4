@@ -1,0 +1,6 @@
+ÿş<?xml version="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENarkup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img;gif" NDATA GIF>
+s text is an embedded <e &xm; and this is about XML, thIMG src="image"/> </EXAMPLE>

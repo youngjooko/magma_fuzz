@@ -1,0 +1,6 @@
+<!DOCTYPE x [
+<!ELEMENT x (test*)>
+<!ELEMENT t((((bst EMPTY>
+<!ATTLIST test att CDATA "attvalue">
+<!ENTITY test.ent "<t <B>
+ <?xml version="1.0"﻿<?<?xml von="1.0"

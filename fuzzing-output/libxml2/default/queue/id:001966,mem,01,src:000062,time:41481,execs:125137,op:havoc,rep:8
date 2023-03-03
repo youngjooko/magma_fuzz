@@ -1,0 +1,9 @@
+<!DOCTYPE do~ [
+<!ELEMENT doc((a | b)+ , c,  TA)>
+]>
+<doc><b> (#PCÿÿ)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMDNT c (#PCDATA)9
+<!ELEMENT d (#PCDATA)>
+]>
+<doc><b>This</b><c88888888888888888888888888888888</doc>

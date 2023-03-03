@@ -1,0 +1,11 @@
+<?xml v="1.0"?>
+<!DOCTYP" PLE SÿÿÿM "dtd" [
+<!ENTITY xml  src="imagetitle PUBLIC "--TITLE//FR" "titlÿÿÿl">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This texut XMLE the &xml; and t|is is an embedded <IMG>
+<!ENTI?Y "/>
+</EXAMPLE>
+

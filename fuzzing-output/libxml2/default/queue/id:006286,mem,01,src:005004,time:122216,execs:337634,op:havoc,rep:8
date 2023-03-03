@@ -1,0 +1,12 @@
+<?xml v="1.0"?>
+<!DOCTYPE PLE SYSTEM "dtd" [
+<!ENTITY xml >
+<!ENTITY tible PUBLIC "--TITµE//FR" "titlÿÿm ge"/>
+<STEM "img.gif" NDATA GIF>
+]>
+<EXAMan embedded <IMG src="iÿ€l">
+<!PLE>
+  &title;
+  This textais:about XML, the &xil; and this is an embedded <IMG src="iÿ€l">
+<!ENTIAMPLE>
+

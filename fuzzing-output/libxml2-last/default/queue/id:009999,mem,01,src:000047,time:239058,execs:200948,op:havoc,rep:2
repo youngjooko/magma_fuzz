@@ -1,0 +1,5 @@
+<?xml version="1E doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

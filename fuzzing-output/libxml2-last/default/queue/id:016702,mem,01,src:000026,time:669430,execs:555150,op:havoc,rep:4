@@ -1,0 +1,4 @@
+<root>
+  <foo xÿÿï="http:ÿ/abc" />
+  <bar />
+</root>

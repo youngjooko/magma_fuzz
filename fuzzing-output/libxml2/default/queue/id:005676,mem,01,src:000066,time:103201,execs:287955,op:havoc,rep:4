@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   CDATA #FIXE.org"
+     4st:att (0|1)   "1">
+]>CDATA #FIXED "http:/
+<doc att="1"/>

@@ -1,0 +1,77 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm 
+'/>
+  <norwwwwwwwwwwwwwwwwwwwwwwwwwmI <norm attr='
+r   '/>
+  <\orm at;'/>
+  <normtr='
+
+foobar'/>
+  <noÿm attr=' foo bar
+'/>
+  <norm attr='foobar
+
+'/>
+  <norm attr=' &amp; ' attr='/>
+  <norm attr='
+  foo&amp;bar   '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&ampCfoo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &ltr=' &amp; '/>
+attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x20;&#13;&#xa;&#9; '/>
+  <!-- normalization -->
+  <normId attr='   '/>
+  <normId attr='oo nar />
+  '  <normId attr='
+
+fr'/>
+  <normId attr=' foo bar
+'/>
+  <normId attr='foobar
+
+'/>
+  <normId attr=' &amp; '/>
+  <normId attr='
+ foo&amp;bar   '/>
+  <normId attr='
+
+foobar&amp;'/>
+  <normId />
+  <norm attrbarattr='   '/>
+d attr='foobar
+
+&amp;'/>
+  <normId attr=' &lt; '/>
+  <normId attr='
+  foo&lt;bar  '/>
+  <normId attr='
+
+foobar&lt;'/>
+  <jormId attr='&lt;foo bar
+'/>
+  <normId attr='foobar
+
+&lt;'/>
+  <normId attr=' &#13;&#xa;&
+  <norm attr='&amp;foo bar
+'/>
+#9; '/> <!-- PBM serializing back -->
+</doc>

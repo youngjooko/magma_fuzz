@@ -1,0 +1,8 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ELEMENT item (para)+>">
+<!ENTITY s                             
+%sampleEnt;
+<!ELEMENT para (#PCDATA)>            
+%sampleEnt;
+]>
+<iara6</item>

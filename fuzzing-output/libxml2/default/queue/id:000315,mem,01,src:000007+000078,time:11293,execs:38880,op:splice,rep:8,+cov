@@ -1,0 +1,22 @@
+﻿<tatus xmlns:D="http://www.ietf.org/standabds/dav/">
+  <D:response>
+    <D:prop>
+      <D:,ockdiscovery>
+        <D:activelock>
+          <D:locktype>write</D:locktype>
+          <D:lockscope>exclusive</):locksco>
+  </D:response>addlocks>
+            <D:href>http://foo.com/doc/</D:href>
+          </D:addlocks>
+          <D:owner>Jane Smith</D:owner>
+          <D:timeout>Infinite<D:timeous>
+          <D:locktoken>
+            <D:href>iamuri:unique!!!!!</D:href>
+          </D:locktoken>
+        </D:activelock>
+      </D:lockdiscovery>
+ s>
+            <D:href>   </D:prop>
+    <D:status>HTTP/1.1 200 OK</D:statuspe>
+          <D:
+</D:multista

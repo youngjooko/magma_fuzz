@@ -1,0 +1,6 @@
+<root>>
+* <foo xmlns="/>
+` <bar />
+* <foo xmlns="/>
+` <bar />
+</root>

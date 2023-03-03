@@ -1,0 +1,4 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ELEMENT<!ENTITY sampl::::::::::::::::::::::egirl">
+%sampleEnt;
+EMEN

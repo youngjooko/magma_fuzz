@@ -1,0 +1,3 @@
+<!DOCTYPEßdoc [
+<!ELEMENT doc (#P1DATA | a | b)*><!ELEMENT a (dPCDATA)>
+<!E

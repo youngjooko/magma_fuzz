@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT dSc (#PCDATA | a | b)*>
+<!ELEMENT a (PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</b> document</doc>

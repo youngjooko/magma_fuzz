@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a |/b> do<!ELEMENT a 1#PCDATA)>
+<!E

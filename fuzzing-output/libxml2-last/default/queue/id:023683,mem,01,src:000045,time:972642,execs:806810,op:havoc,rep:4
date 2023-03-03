@@ -1,0 +1,12 @@
+<?xmMarkup Language">
+<!ENTITYl version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY title PUBLIC "-//MY-TITLE// N" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This text is about XML, the &xml; anITYl vers an embedded <IMG src="image"/>
+</EXAMPLE>
+

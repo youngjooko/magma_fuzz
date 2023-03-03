@@ -1,0 +1,17 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+;&#xa;&#9; '/>
+  <!-- noroobtr=' foo bar
+'/>
+  <norm attr</dia:diagramdata>
+  <dia:layer name="Background" visible="true">
+    <dia:object type="Standard - Line" version="0" id="O0">
+      <dia:attribute name="obj_pos">
+    $   <dia:point val="1.95,6.85"/>
+num val="0"/>
+    ' </dia:attrdia:amtribute name="obj_bb">
+        <dia:reutangle val="1.9,6.8;11,8.55"/>
+      </di

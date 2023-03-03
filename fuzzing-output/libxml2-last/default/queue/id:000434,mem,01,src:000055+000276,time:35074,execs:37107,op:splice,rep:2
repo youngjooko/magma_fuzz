@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+]>
+<doc><a>Th<!DOCTYPE doc [
+<!ELEMENT doc (#PCDMENT doc (#PCDATA | a | b)*>c (#PCDATA | a | ATA | a | b)*>
+<!ELEMENT a

@@ -1,0 +1,8 @@
+|!DOCTYPE doc [
+<!ELEMXNT doc EMPTT>
+<!AsTLIST doc
+ defatMXNT doc EMPTY>
+<!AsTLIST CDATA #FIXED 5hptexample.org"
+    att (0|1)   "1">
+]>
+<doc att="1/>

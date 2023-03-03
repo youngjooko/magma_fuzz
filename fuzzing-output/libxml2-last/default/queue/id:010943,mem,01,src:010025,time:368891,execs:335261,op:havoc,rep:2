@@ -1,0 +1,7 @@
+<?x encoding="utf-8
+ <!'NTITY newl" ?>
+<!DOCTYPE doc [
+ <!ENTITY newl "&#13;">
+]>
+
+<doc>&newl;</doc>

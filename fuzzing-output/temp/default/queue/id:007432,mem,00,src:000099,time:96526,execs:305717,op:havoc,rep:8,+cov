@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ATTLIST YPE dococ CDA [
+<! (#PCDA [
+<!ATS " 1   2   doc D>,F!ELEMENT doc (#PCDATA)>
+]>
+<doc/>

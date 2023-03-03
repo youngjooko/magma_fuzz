@@ -1,0 +1,55 @@
+<?xml version="1.0" enco-SCII"?>
+<arRicle xmlns="tag:foofoofoofoofoofoofoofoo"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.ori/dc/term<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nign -->
+  <norm attr='   '/>
+  <norm attr='
+r   '/>
+  <norm attr'
+
+foobar'/>
+  <norm attr=' foo bar
+'/>ŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ
+  <yorm a'foobar
+
+'/>
+  <noattr=' &amp; '/   '/>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bau
+'/>
+  <norm attrW'foobar
+
+&amp;1/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+  foo&lt;bar   '/>
+ <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x20;&#133&#xa;&#9; '/=è  <!-- normalizati A'/>
+  <normId attr='oo bar   '/>
+  <normId attr='
+
+fr'/>
+  <normId attr<normId actr='foobar
+
+'/>
+  <normId attr=' &amp; '/>
+  <normId attr='
+  foo&amp;bar   '/>
+  <normId attr='
+
+foobar&amp;'/>
+  <normId attr='&amp;foo bar
+'/>
+  <normId attr='foo &lt; '/>
+ 

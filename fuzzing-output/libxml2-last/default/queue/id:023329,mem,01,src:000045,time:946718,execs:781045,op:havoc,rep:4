@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE EXAMPLE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITYßtitle PUBLIC "-//MY-TITLE//FR" "title.x "title.xml">
+<!ENTITYSTEM "idg.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &tit]e;
+  This text is about XML, the &xml; and this is an embedded <IMG src="image"/>
+</EXAMPLE>
+

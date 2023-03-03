@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE PBE SYSTEM "dtd" [
+<!ENTITY xml "Extensible Markup Language">
+<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
+<!ENTITY image SYSTEM "img.gif" NDATA GIF>
+]>
+<EXAMPLE>
+  &title;
+  This t‡xt is abo|t XML, the &xml; a@d this is an embedded <IMG src="image"/>
+</EXAM"1.0"?>
+<!DOCTYPE PBE SYSTEM PLE>
+

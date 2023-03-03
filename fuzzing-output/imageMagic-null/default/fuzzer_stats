@@ -1,0 +1,44 @@
+start_time        : 1674190068
+last_update       : 1674220160
+run_time          : 30092
+fuzzer_pid        : 12072
+cycles_done       : 0
+cycles_wo_finds   : 0
+execs_done        : 7073577
+execs_per_sec     : 235.06
+execs_ps_last_min : 250.68
+corpus_count      : 5371
+memory seed       : 0
+corpus_favored    : 630
+corpus_found      : 5370
+corpus_imported   : 0
+corpus_variable   : 726
+max_depth         : 19
+cur_item          : 3
+pending_favs      : 6
+pending_total     : 4531
+stability         : 99.08%
+bitmap_cvg        : 0.11%
+saved_crashes     : 203
+saved_hangs       : 236
+last_find         : 1674219975
+last_crash        : 1674219338
+last_hang         : 1674215604
+execs_since_crash : 204377
+exec_timeout      : 20
+slowest_exec_ms   : 0
+peak_rss_mb       : 4484
+cpu_affinity      : 0
+edges_found       : 9319
+total_edges       : 8388608
+var_byte_count    : 86
+havoc_expansion   : 0
+auto_dict_entries : 0
+testcache_size    : 340117
+testcache_count   : 5371
+testcache_evict   : 0
+afl_banner        : ...-10/build/utilities/convert
+afl_version       : ++4.05a
+target_mode       : shmem_testcase default
+command_line      : ./afl-fuzz -i ../../seeds/null -o fuzzing-output/imageMagic-null -- ../ImageMagick-6.7.5-10/build/utilities/convert @@ /dev/null
+debug insert and delete: 0 0

@@ -1,0 +1,4 @@
+<!DOCTYPE3doc [
+<!ATTLIST doc vaOCDATA #IMPLIED>
+]>
+<doc val="v1"/>

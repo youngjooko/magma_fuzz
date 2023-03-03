@@ -1,0 +1,6 @@
+<!DNCTYPE doc [
+<!ELEMENT doc (#PCDATA | a | b)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEPENT b (#PCDATA)>
+]>
+<doc><a>This</a> is a <b>valid</b> document</doc>

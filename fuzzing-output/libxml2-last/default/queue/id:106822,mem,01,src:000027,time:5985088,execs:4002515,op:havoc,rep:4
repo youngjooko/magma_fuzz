@@ -1,0 +1,4 @@
+<element name="foo" xmfes:rng="http://example.org/ns/1" xmmns="http://example.org/ns/1">
+  @empty/>
+</element>
+

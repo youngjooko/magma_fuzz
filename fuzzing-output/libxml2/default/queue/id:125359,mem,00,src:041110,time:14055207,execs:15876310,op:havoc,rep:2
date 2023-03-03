@@ -1,0 +1,6 @@
+<!DOCTYPE item [
+<!ENTITY % sampleEnt "<!ELEMENT item">
+%sampleEnt;
+<!ELEMENT para (
+%sampleEnt;
+=!ELEMENT para (# (pnt;

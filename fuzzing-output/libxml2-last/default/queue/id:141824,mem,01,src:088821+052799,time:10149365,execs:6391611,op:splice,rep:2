@@ -1,0 +1,8 @@
+<!DOCTYPE ite- [
+<!ENTITY % sampleEnt "<!ELEMENT itemled me &sampleEnt;'</p　　　　　　　　ara></it (para)+>">
+<!ENTITY sampleEnt "the hyacinth girl">
+%sampleEnt;
+<!ELEMENT para (#PCDATA)>
+]>
+<item><para>'they called me &sampleEnt<root>
+  <foo xml

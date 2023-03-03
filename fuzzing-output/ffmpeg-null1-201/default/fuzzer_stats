@@ -1,0 +1,44 @@
+start_time        : 1674045506
+last_update       : 1674189903
+run_time          : 144397
+fuzzer_pid        : 18152
+cycles_done       : 0
+cycles_wo_finds   : 0
+execs_done        : 22437035
+execs_per_sec     : 155.38
+execs_ps_last_min : 176.97
+corpus_count      : 3087
+memory seed       : 4819
+corpus_favored    : 599
+corpus_found      : 7905
+corpus_imported   : 0
+corpus_variable   : 4375
+max_depth         : 12
+cur_item          : 7895
+pending_favs      : 527
+pending_total     : 7784
+stability         : 50.07%
+bitmap_cvg        : 10.56%
+saved_crashes     : 0
+saved_hangs       : 34
+last_find         : 1674147483
+last_crash        : 0
+last_hang         : 1674146159
+execs_since_crash : 22437035
+exec_timeout      : 40
+slowest_exec_ms   : 0
+peak_rss_mb       : 90
+cpu_affinity      : 1
+edges_found       : 18469
+total_edges       : 174867
+var_byte_count    : 9221
+havoc_expansion   : 0
+auto_dict_entries : 6
+testcache_size    : 41282492
+testcache_count   : 7906
+testcache_evict   : 0
+afl_banner        : ./ffmpeg_g_201
+afl_version       : ++4.05a
+target_mode       : shmem_testcase default
+command_line      : ./afl-fuzz -D -i ../../seeds/null -o fuzzing-output/ffmpeg-null1-201 ./ffmpeg_g_201 -y -i @@ -acodec pcm_s16le -f rawvideo /dev/null0
+debug insert and delete: 300180 71637

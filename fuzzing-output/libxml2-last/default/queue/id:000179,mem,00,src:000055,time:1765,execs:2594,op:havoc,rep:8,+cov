@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc (#PCDATA )*>
+<!ELEMENT a $$$$$$$$$$$$$$$$$$&$$(#PCDATA | a |c><a>Thi$$$$$$$$$$)>
+]

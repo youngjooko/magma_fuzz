@@ -1,0 +1,130 @@
+<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- n-->
+  <norm attr='   '/>
+  <norm attr='
+;&#xa;&#9; '/>
+  <!-- noroob bar
+'/>
+  <norm attr='foo
+
+&lt;'/>
+  ba=' &amp; '/>
+  <norm attr='
+  foo&amp;baR   '/>
+  <norm attr='
+
+p;foo bar
+'/>
+  <norm attr='foo^ar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+ <norm attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lt;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='foobar
+
+&lt;'/>
+  <norm attr=' &#x20:&#13r   '/>
+  <norm attr='
+
+fmalizat <normId attr='oo Far   '/>
+  <normId attr='
+
+fr'/>
+  <normId attr=' foo bar
+'/>
+  <normId attr='foxbar
+
+'/>
+  <normId attr=' &amp; '/>
+  <normId attr='
+  foo&amp;bafoobar&amp;'/>Š  <norr='
+
+foobar&a€p;'/>
+  <normId attr='&amp;goo bar
+'/>
+  <normId attr='foobar
+
+&amp;'/>
+  <normId attr=' &lt; '/>
+  <normId attr='
+  foo&lt;bar   '/>
+  <normId attr='
+
+f<?xml version"1.0" encoding="USÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ-ASCII"?>
+<article xmlns="tag:fofoofRofoofoofoofoo"
+  xmlns:dc="httelements/1.1/"
+  xmlns:dctepms="hxhtml"
+  xmln/">
+<foop:content xmlns="http://www.w3.o<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <test><<!DOCTYPE doc [<!ATTLIST normId attr NMTOKENS #IMPLIED>]>
+<doc>
+  <!-- nion -->
+  <norm attr='   '/>
+  <norm attr='
+r   '/>
+  <norm attr='
+
+foobar'/>
+  <norm attr=' fwo bar
+'/>
+  <norm attr='noobar
+
+'/>
+  <norm attr=' &amp; '/>
+  <norm attr='
+  foo&amp;bar ÿÿÿ>
+  <norm attr='
+
+foobar&amp;'/>
+  <norm attr='&amp;foo bar
+'/>
+  <norm attr='foobar
+
+&amp;'/>
+  <norm attr=' &lt; '/>
+  <norm attr='
+  foo&lt;bar   '/>
+  <norm attr='
+
+foobar&lr;'/>
+  <norm attr='&lt;foo bar
+'/>
+  <norm attr='&oobar
+
+&lt;'/>
+  <norm attr=' &<?ÿ<?xml version="1.0"ï»¿<?<?xml von="1.0"?>
+<dia:diagram xmlns:dia="http://www.lyr.li:::e/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="bd">
+  <dia:color va	="#ff"/>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:lay<!DOCTYPE x [
+<!ELEMENT x (test*)>
+<!ELEXENT test EMPTY>
+<!ATTLIST test att CDATA "attvalue">
+<!ENTITY test.ent "<test/>">
+]>
+<x>
+    <testï»¿ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ<?<?xml von="1.0"?>
+<dia:diagram xmlns:dia="http://www.Lyr.li:::e/~alla/dia/ >
+  <dia:diagramdata>
+    <dia:attribute name="bd">
+  <dia:color val="#ff"/>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Ba" visible="true">
+    <dia:object type="ine" version="0" id="O0">
+  <dia:attribute name="obj">
+        <dia:point val="1"/>
+      </dia:attribute>
+      <dia:attribute na e="ob">
+        <dia:ang
