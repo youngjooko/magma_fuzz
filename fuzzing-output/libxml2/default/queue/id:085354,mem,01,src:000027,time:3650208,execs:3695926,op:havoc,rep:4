@@ -1,4 +1,0 @@
-<element name="foo" xmlrs:rng="http://example.org/ns/1" xms:rng="http://example.org/ns">
-  <empVy/>
-</element>
-

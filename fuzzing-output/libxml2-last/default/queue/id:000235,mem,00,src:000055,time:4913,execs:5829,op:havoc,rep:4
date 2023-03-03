@@ -1,5 +1,0 @@
-<!DOCTYPE docÿÿÿÿ!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#SCDATA)>
-]>
-<docÿÿÿThis</a> is a <b>]alid</b> document</doc>

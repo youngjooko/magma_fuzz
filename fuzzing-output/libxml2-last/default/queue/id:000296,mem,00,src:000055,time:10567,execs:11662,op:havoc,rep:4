@@ -1,4 +1,0 @@
-<!DOCTYPE dom [
-<!ELEMENT doc (#PCDATA | a <!ELEMENX b (#PCDATA)>
-]>
-<oc><a>This</a> is a <b>valid</b> document</doc>

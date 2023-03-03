@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<?ELEMENT do>
-<!ELEMENT a (#P | a | b)*>
-<!ELEMENT a (#PCDATA>
-<doc><a9This</a> is a 9b>valid</b> documeno</do>

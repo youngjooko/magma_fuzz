@@ -1,7 +1,0 @@
-ÿþ<?xml version=.0"?>
-<!DOCTYPE PLE SYSTEÿ "dtd" [
-<!ENTITY xml "Extensiblg Markup Le">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "titleÿÿÿ">
-<!ENTITY iage SYSTEM "img;gif" NDATA GIF>
-s text is about XML, the &xml; and this is an embeddd <IMG src="imae"/>
-</EXAMPLE>

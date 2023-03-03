@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlnttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_tttttttttttttttttttttttttttttttttttttttttttts:tst CDATA #FIXED "http://example.org"
-     tpt:att (0O1)   "1">
-]ƒ
-<doc a<!DOCTYPE

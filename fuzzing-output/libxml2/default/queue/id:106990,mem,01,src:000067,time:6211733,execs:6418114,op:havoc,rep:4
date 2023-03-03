@@ -1,7 +1,0 @@
-A!DOCEMPTY>
-<!ATTLIST doc
-     MPTY>
-<!ATTLIST doc
-)    xmlns CDATA #FIXED "://www.example.com/">
-]>
-<doc/>

@@ -1,7 +1,0 @@
-ÿþ<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is about §ML, the &xml; and tSis is an embedded <IMG src="image"/>
-</EXAMPLE>

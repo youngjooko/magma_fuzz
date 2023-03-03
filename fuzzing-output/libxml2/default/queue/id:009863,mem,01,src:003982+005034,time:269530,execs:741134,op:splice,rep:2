@@ -1,7 +1,0 @@
-ÿþ<?xml version="1.0"?>
-<!DOCTYPE PLM SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-/TLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is about XML, the &xml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>

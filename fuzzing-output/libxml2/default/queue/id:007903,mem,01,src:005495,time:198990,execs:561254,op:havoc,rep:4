@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dov EMPTY>
-<!ATTLIST doc
- defatxmlns:tst CDATA #FIXED "htxp://exaIIII.org"
-     tpt:att (0O1)   "1">
-]>
-<doc att="1"/>

@@ -1,7 +1,0 @@
-<!DOCTYPE%dMc [
-<!E5EMENT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (#PCDATA3ÿè<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA)>
-<!ELAMENT d (#PC@ATA)>
-]>
-<doc><b>This</b><c> is a</c><d> valid document</d></doc>

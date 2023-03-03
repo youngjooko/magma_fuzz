@@ -1,5 +1,0 @@
-<!DOC4YPE doc [
-Ê!ATTLIST doc a1 NMTOKENS " ‚   ÿÿÿ    ">
-<!ELEMENT doc (#PCDATA)>
-]>
-<doc/>

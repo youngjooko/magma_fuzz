@@ -1,6 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEMENT0!ENTITY slegirl">
-%sampleEnt;
-<!ELEMENT para (#PCDATA)>
-]>
-<item><para>they called me &sa

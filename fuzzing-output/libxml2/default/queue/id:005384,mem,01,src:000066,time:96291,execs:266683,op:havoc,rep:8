@@ -1,8 +1,0 @@
-<!DOCTYPE qoc [
-<!ELEMENT doc EMPTY>
-<!AST doc
- defatt 1) |1)   "0"
-     .org"
-ÿ   tst:att (0ƒ1)   "1">
-]>
-<doc att="1"/>

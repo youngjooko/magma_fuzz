@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<c>LEMENT doc (#PCDATA | a | b)*>A)>
-<!ELAMENT b (#PCDATA)>
-]>
-.ÿ!ELEMENT a (#PCDATA)>
-<!ELAMENT b (#PCDATA)>
-]>
-<doc?<a>This<Ða> is a <b>valid</b> document</do!E

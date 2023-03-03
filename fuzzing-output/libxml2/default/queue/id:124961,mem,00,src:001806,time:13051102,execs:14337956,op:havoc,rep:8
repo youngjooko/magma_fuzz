@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | S)+ , c ,  d)*>
-<!ELEMENT b ( ((a | S)+ , c , ( ((a | S)+ , c   d)*>
-<!ELEM#PCDATA)>
-<!EDATA >
-:<!ELEMENX>
-!E]>
-<

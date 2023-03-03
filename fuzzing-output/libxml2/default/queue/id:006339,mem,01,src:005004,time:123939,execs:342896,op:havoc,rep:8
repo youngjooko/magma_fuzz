@@ -1,9 +1,0 @@
-<?xml v="1OCTYPE PLE SYSTEM "dtdEM "img.gif" NDATA" [
-<!ENTITY xml >
-<!ENTITd title PUBLIC "--TITLE//FR "titlÿÿÿ€l">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text isTÇÇÇÇÇÇÇÇÇÇÇÇITLE//FR" about XML, the &xml; and this6is an embedded <IMG srcE>
-

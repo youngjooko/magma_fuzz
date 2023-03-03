@@ -1,4 +1,0 @@
-<!DOCDYPE doc [
-<!ATTLIST doc a1 NMTOK9NS " 1   2     ` ">
-<!ELEMENT doc (#PCDATA)>
-]>ú<doc/>

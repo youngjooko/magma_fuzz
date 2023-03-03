@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c ,  
-d)*>
-<!ELEMENT a (#PDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#Pb>Thiÿÿÿ><c>CDATA)>
-<!ELEMENT d (#PC<!ELEMEN>
-<a</c><d> valid docum
-<doc><b>Thent</d></›oc>

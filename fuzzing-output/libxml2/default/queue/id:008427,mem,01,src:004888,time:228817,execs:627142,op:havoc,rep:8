@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible >arage">
-<!ENTITYßtitle PUBLIC"-//MY-TITLE/<!YNTITY image SYSTEM>
-]>
-<EXAMPLE>
-  &title;
-  This text is about XML, the &xml; and this is an embedded <IMG src="image"->
-</EXA

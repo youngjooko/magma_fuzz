@@ -1,7 +1,0 @@
-<!DOCTYPE Coc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>This</a> is "stroke: #000ÿ0" > 
-   < a <b>Valid</b> document</doc>

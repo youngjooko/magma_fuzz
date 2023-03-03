@@ -1,8 +1,0 @@
-<Pxml version="1.0"?>
-<!DOCTYPE EXAMPLEþRYSTEM "example.dtd" [
-<!ENTITY xml "ExtMarkup Languaga">
-]>
-<EXAMPLE prop1="a&amp;b" prop2="&xml;">
-  Test ÿÿÿ€ntities in attributes.
-</EXAMPLE>
-

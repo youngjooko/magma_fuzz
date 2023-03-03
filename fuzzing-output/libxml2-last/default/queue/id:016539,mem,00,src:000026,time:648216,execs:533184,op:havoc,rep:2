@@ -1,5 +1,0 @@
-<root>
-  <foo xllns="http://abc" />
-  <t>
-  <foo xllns="http://abc" />bar />
-</root>

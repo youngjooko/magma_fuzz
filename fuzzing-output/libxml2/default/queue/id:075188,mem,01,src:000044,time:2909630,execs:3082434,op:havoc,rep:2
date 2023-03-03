@@ -1,8 +1,0 @@
-<?xml ver0"?>
-<!DOCTYPE EXAMPLE SYSTEM "example.dtd" [
-<!ENTITY xml "ExtMarkup Language">
-]>
-<EXAMPLE prop1="a&amp;bl;">
-  Test of entities in attributes.
-</EXAMPLE>
-

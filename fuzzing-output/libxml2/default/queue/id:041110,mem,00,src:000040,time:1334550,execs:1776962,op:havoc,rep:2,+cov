@@ -1,4 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEMENT item">
-%sampleEnt;
-<!ELEMENT para (# (pnt;

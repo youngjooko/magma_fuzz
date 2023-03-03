@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (
-PCDATA)>
-<!ELEMENT b (DP,DATA)>
-<!ELEMENT c (#DCDATA)>
-<!ELE–ENT d (#PCDATA)>
-]>
-<doc><b>This</b%<c> is a</c><d> valid docXment</d></€oc>

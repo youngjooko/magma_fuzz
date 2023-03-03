@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST do NMTOKEoc (#PCDAT       ">
-<!ELEMENT doc (#PCDATA),
-]>
-<do/>

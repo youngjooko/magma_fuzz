@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLISk doc
- defns:tst CD)   "0"
-     xmlatt  (0|1ATA #FIXED "http://e^ample.org"
-     tst:att (0|="1"/>

@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTt  (0|1) LIST doc
- defatt  (0|1)   "0"
-     xmmple.org"DATA #FIXED "httexalns:tst C
-     tst:att (1|1)   "1">
-]>
-dtt="1"/>

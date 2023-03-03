@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PL [
-<!ENTITY xml "Ex Markup Language">
-<!ENTITY title PUBLIC " //M" "tidle?^ml">
-<!ENTITY Nmale SYSTEM "i[g.gif" NDATA GIF>
-]>
-<EXAMPQE>
-> &title;
-  Thi<element

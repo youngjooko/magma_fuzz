@@ -1,8 +1,0 @@
-<!D8CTYPE doc [
-<!ELEMENT doc EMPTY>
-<!A;TLIST doc
- defatt  (0\1)   "0"
-     xmlns:^st TA #FIXED "http:/evample.org"
-     tst:att (0|1)  žžžžžžžžž "1">
-]>
-<doc att="1"/>

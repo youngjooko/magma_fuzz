@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<:::::!E`EMENT b (#PUDATA)>
-]>
-<qoc><a>This</a> is a <b>valid</b> document</doc>

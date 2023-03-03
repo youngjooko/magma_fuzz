@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.gtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt;;;;;;;;;;;;;;;;;;;;;;;;;ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttu;;;;;;;;tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt~tttttttttttttttf" N!ATÂÂÂÂ<EXAMPLE>
-  &title;
-  This about XML, the &xml; aneddmage"/>
-</EXAMPLE>
-

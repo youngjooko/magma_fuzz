@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTY E EXAMP E SYSTEM "example.dtd" [
-<!ENTITY xml "ExtMarkup Language">
-]>
-<EX@MPLE prop1="a  Test of entities in attributes.
-</EXAMPLE>
-

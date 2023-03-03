@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT don EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "."
-@    xmlns:tsŠ CDATA #FIXED"httexhmple.org"
-    ßtst:att (0|1)   "1">
-]>
-<doc att="1"/>

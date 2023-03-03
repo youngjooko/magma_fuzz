@@ -1,8 +1,0 @@
-<?xml vers "dtd" [
-<!ENTITY xml "Ex Markup Language">
-<!ENTITY title PUBLIC " //M" "title.xage SYSTEM "imt.gif" NDATA GIF>
-]>
-<ExXAMPLE>
- &title;
-  This text is about XML, the &xmlMG simage"/>
-</EXAMPLE>ø

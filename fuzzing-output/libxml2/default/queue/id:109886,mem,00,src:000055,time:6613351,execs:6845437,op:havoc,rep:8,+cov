@@ -1,4 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*%
-<!ELEMENT a (#PCDA
-<!E

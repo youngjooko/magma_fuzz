@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doc aDOCMTOKENS " 1   2      ">
-<!ELEMENT doc (#PCDATA)>
-]>
-<doc/>

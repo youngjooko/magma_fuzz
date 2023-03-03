@@ -1,7 +1,0 @@
-ÿþ<?xml version="1.0"?>
-<!DßßßßßßßßßßßßßßßßßßßßßßßßßOCTYPE PLE SYSTEM "dtd" [
-<!ENTITq xml "Extensible Markup Language">
-<!ENTIT> title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is about XML, the &xml; and this is an embedded <IMG src="im "img;gif" NDATA Gage"/>
-</EXAMPLE>

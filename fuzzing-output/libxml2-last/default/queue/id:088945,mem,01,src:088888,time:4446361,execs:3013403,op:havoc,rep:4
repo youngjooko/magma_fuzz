@@ -1,6 +1,0 @@
-<!DOCTYPE iXem [
-<!ENTITY % sampleEnt "<!ELEMENT<!ENTITY samNNNNNNNNNNNNNNNNNNNNNplegirz">
-%sampleEnt;
-<!ELEMENT para (#PCDATA)>
-]>
-<item><para>they called me &sa

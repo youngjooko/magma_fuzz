@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Marage">
-<!ENTITY title PUBLIC"NTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text isML, the &xml; and this is an embedded <IMG src="image"->
-</EXA

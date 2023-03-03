@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensi::e Markup Language">
-<!ENTITY titlekkJkkkkk PUBLIC "-//MY-TITLE//FR" "title.g.gif/''/MY-T'TLE/" NDATA GIF>
-]>
-<EXAMPLE>
-  &ttle;
-  <root>
-  <foo xmlns="//////3/&///////"////////&

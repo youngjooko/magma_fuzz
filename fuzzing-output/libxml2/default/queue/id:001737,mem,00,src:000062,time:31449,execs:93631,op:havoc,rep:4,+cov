@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (( a (#PCDATA >
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCQATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doc><b>TIis</b><c> is a</c><d> valid document</d></doc>

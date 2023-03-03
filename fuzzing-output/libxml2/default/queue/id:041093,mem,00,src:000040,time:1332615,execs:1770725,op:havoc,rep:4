@@ -1,6 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEMENToieem (para)+>">
-<!ENTITY sampleEnt "thecinth girl">
-%sampleEnt;
-<!ELEMENT para (#PCD4TA)>
-]

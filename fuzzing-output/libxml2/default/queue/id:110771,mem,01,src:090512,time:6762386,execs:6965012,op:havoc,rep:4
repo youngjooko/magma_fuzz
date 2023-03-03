@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extble Markupuage">
-<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "?¹FR.
-  This t‡xt is about XML, the &xme; and this is an embeddee <IMG src="image"/>
-</EXAMPLE

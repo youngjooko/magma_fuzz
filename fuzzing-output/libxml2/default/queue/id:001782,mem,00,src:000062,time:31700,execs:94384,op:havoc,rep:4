@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | bL+ , c ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMEN(#PCDATA)>
-<!ELEM NT c E#PCDATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doc><b>This</b><c> is a</c><d> valid document</d></doc>

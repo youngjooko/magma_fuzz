@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATqL)ST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA8#FIXED "http://e†ample.prg"
-     tst:att (0|1)   "1">
-]>
-<do€ att="ÿ€/>

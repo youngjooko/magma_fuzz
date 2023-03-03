@@ -1,7 +1,0 @@
-<!DOCTYPEdou t
-<!ELEMENT  (0|1)   "0"
-     xmldoc
- defatt doc EMPTY>
-<!ATTLIST ns:tst CDAT4 #FIXED "http:/ ns:tst CDATA #FI/exaple.org"     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doi ((a | b) , (c | d))+>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doc><b>This</b><n> is a valid document</c></doc>

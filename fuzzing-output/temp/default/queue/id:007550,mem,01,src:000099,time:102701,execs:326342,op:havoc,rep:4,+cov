@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-
-<!ATTLIST doc a1 NMTOKEN " 18  2   d   ">
-<!ELEMENT aoc (#PCDATA)>
-]>
-<doc/>

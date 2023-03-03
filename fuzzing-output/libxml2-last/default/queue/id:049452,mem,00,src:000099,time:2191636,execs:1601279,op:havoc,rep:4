@@ -1,5 +1,0 @@
-<!DOCTYPE dOc [
-<!ATTLIST doc a1 NMTOKENS " 1   2      CCCCCCCACCCCCCCCCCCC ">
-<!ELEMENT docß(#PCDATA)>
-]>
-<doc/>

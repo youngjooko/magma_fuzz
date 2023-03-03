@@ -1,4 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT do((((((((((((((((((((((((((((((((a (#PCDATA)>
-<!ELEMETA | a | b)*>
-<!ELEMENT a (#PCDA/a> is a <b>valid</b> document</doc>

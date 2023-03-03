@@ -1,7 +1,0 @@
-<?xmeeeeeeeeeeeeeeeeeel version="1.0"?><!DOCTYPE root [
-<!ENTITY foo 'abc'>
-<!ENTITY bar '\ef'>
-]>
-<aoot attribute="&foo;">
-   <element>&bar;</element>
-</root>

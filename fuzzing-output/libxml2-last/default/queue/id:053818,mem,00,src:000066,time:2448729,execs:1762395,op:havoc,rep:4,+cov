@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|0)   "0"
-    >xmlst CDATA #FIXED "httexample.

@@ -1,5 +1,0 @@
-<!DOCTYPE EMENNdoc [
-<!ATTLIST doc a1 NMTOKENS " 1   2  -    ">
-<!ELEMENT roc (#PCDATA)>
-]>
-<doc/>

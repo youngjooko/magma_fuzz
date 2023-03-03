@@ -1,9 +1,0 @@
-<?xml version="1.2"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Ex MarkuM Language">
-<!ENTITY title PUBLIC " //M" "tidle?xml">
-<!ENTITY image SYSTEM "i[g.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  Thist%i<?xml version="1»

@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dTc EMPTY>
-<!ATTLIST dok
- defatt  (0|1)   "_____________________________0"
-     xmlns:tst CDATA #FI

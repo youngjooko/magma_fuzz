@@ -1,9 +1,0 @@
-oc EMPTY>
-<!ATTLIST doc
- detst  "1>
-]>
-<doc att="1"/>
-O1)  CDATA #FIXED "http://example.or  g"
-          xmlns:tst  "1>
-]>
-<doc att="1"/>

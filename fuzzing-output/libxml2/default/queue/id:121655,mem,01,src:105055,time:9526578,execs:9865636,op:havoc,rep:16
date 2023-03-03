@@ -1,13 +1,0 @@
-<?xml version=1.0' standaloÿ€='yes'?>
-<!DOCTYPE attributes [
-<!ELEMTTLIST attriutes
-$  nmtoken    :::::NMTOKEN    #IMPLIED
-  PLIED>
-<!ENTITY ent " entity&recursive; ">
-<!ENTITY rec:::::::::::::ursive "referencelone='yes'?>
-<!DO">
-]>
-<attributes
-  nmtoken =  " &ent;   &vnt; &ent; "
-þnmtokens = " Te‰t&#x0d+&#versimn='1.0' #x20; normalization "
-I>

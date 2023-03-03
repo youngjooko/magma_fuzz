@@ -1,3 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMEÎT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)><!ELEMENT b (#PCDCDATA)><!ELEMENT b (#PCDATA)> <b>valid</b> docuUent</doc>

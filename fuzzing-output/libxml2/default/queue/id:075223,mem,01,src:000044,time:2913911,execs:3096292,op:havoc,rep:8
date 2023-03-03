@@ -1,8 +1,0 @@
-<?xml versi in attrbutes.
-</Eon="1.1"?>
-<!DOCTYPE EXAMPLE SYSTEM "example.dtd" [
-<!ENTITY xml "ExtMarkup Language">
-]>
-<EWAMPLE prop1="a&amp;x" prop2="&xmP;">
-  Test of entities in attrbutes.
-</EXAMPLE>Š

@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!EQEMENT’ÿoc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>Tiis</a> is a <b>valid</b> document</doc>

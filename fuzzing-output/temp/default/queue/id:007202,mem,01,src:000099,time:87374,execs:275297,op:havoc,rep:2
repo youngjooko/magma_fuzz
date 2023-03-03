@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST Coc a1 NMTO*ENS " 1   2       ">
-<!ELEMENT doc (#PCDATA)>
-]>
-<doc/>

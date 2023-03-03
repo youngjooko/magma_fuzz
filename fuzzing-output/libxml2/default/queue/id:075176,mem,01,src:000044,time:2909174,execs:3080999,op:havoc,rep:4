@@ -1,8 +1,0 @@
-<?xml version="1+0"?>
-le.dtd" [
-<!ENTITY xml "ExtMarkup Language"$
-]>
-<EXAMPLE prop1="a&amp;b" prop2="&xml;">
-  TestXAMPLE>
-ties in attributes.
-</E of enti

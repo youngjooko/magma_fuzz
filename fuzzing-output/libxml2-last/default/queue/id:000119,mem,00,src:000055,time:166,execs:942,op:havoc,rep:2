@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-V!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCCATA)>
-]>
-<doc><a>This</a> is a <b>valid</b> document</doc>

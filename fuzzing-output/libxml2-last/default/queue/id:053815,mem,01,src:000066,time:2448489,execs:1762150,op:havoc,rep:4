@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doK EMPT docY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlnED "httexample.org"
-     tst:att (|1)   "1">
-]>
-<doc att="1"/>

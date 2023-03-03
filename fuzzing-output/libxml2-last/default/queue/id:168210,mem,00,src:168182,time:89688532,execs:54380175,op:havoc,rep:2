@@ -1,4 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST foc
- defatt  (0|1|10|10|oc1|10|10|1|1|10

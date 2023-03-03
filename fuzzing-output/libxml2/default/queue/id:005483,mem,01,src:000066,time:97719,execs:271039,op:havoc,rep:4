@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CD!TA #FIXED "http://example.>
-<dkc att="1"/>

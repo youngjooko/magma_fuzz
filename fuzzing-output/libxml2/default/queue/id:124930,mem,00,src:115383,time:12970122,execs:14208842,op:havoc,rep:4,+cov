@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- 
- defatt  (0|1)   ""
-    defatt  (0|1)   ""
-     xmlns:tst CDATA #FIXED "—tÿ€:/Dexample.org"
-     tstPatt (0|1)  "1>
-<d

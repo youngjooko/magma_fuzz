@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a |ררררררררררררררררררררררMENT a (#PCDATA)*
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doLEMENT ds</b><c> /doc>

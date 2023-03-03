@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defajt  (0|1)   "0"
-     xmlns:tst CDAT@ ##Ftexample

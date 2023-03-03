@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "example.rtd" [
-<!ENTITY xml "ExtMa&Mmp;bage">
-]>
-<EXAMPLE prop1="arkup jangu" prop2="&xml;">
-  Test of en>
-

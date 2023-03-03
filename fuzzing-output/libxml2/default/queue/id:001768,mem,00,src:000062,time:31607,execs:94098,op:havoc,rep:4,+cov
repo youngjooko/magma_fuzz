@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT Zoc ((a | b)+ , c ,  d)*>
-<!ALEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doc><b>This<Lb><c> is a</c><d> valid document</V></doc>

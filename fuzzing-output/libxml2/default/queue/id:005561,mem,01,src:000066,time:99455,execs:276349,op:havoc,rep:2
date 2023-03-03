@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT d11111111111oc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlnR:tst CDATA #FIXED "http://example.org"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

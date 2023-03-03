@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT Uoc ((a | b)+ , c ,  d)*>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA:>
-<!ELEM>
-<doc><b>This</b><c> is a</c><d> valid document</d></doc>

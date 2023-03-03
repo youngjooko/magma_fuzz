@@ -1,4 +1,0 @@
-<!DOCTYPEEMENT doc (#PCDATA | a | b)*>
-<!EL6MENT(#PCDATA)>
-]>
-<doc><a>This</a> is a <b>valid</b> document</doc>

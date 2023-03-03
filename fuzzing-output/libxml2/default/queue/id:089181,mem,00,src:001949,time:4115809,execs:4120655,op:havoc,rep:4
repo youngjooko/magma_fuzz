@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (((((((a p b)+ , c ,  d)*>
-<!ELEME@T a (#P d)*>
-<CDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT%c (# (#PCDATA)>

@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b) , ((l | b) , (c |c | d))+>
-<!ELEMENT a (# | b) , (c | d))+>
-<!ELEMENT aPCDATA)>
-<!ELEMc | d)nnn(#PCDATA<!ELEMENT c (#PCDATA)>
-<!ELEMENT d nnnnnnnnnnnnnnn(#PCDATA)>
-)>
-]>
-<doc><b>This*/b><c> is a valid ument</c></doc>

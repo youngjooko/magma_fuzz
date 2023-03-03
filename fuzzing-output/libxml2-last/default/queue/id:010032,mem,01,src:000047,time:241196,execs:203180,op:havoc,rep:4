@@ -1,7 +1,0 @@
-<?xml ver\ion="1.0" encoding="utf-8" ?>
-<!DOCTYPE doc [
- <!ENTITY newl "&#ÿÿÿ>
-]>
-
-<docecl "&#13;">
-]>>&newl;</doc>

@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-att  (0|1)   "0"
-     xmlnttp://exampleFIXED "http://example.org"
-     tp_:att (0O1)   V1">
-]>
-<doc att="1"/>

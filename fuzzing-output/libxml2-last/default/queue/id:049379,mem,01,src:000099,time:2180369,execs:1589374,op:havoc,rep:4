@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doQ a1 NMTOKENS " ?   2       ">
-<!ELEMENT doc (#PCDATA)      ">
-<!ELEoENT doc>
-]>
-<dMc/>

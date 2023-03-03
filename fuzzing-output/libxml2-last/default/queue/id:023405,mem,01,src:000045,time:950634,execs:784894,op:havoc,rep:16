@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYP EXAMPLE SYSTEd "dtd" [
-<!ENTITY xml "ExtenSible Markup Langup Languaguage"><!ENC-//MY-TITLE//FR" "titQe.xml">
-<!ENTIÿÿÿmage SYSTEM "img.gif" NDATA GIF>
-A>ü;EXAMPLE.
-  &titld;
-  This text is	about XML, the &xml; andthis is an embedded <IMG src="image"/>
-</EXAMPLE>
-

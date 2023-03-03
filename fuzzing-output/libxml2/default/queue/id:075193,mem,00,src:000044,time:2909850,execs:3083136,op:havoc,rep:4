@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "example.dtd" [
-<!ENTITY xml "ExtMarkup Language">
-]>
-<EXAMPLE prop1="F&Tmp;b" prop2="gggggggggggggggggg&xml;">
-  Test of enributes.
-</EXAMPLE>
-

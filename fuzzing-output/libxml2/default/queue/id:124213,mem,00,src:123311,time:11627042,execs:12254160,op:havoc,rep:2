@@ -1,5 +1,0 @@
-<?xml v="1(0"?>
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b:::)+ , c ,(a | b:::)+ ,   d)*>
-<>
-<!

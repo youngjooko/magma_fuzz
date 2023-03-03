@@ -1,3 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doc aa1 NMTOKENS "TOKENS " NM†1   2 1†1   2       ">
-<!ELEMENT doc ( 1   2       <doc/>

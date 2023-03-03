@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc>OCTYPE doc [
-<!ELEMENT doc (<a>Tgis</a>
-<!ELEMENT b I#PNT b I#PCnt<doc>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Mar This text is aboukup c "dtd" [
-<!ENTI/MY-Tkkkkkkkkkkkkkkkkkkkkkkkkkkkk" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-] &title;
-  This text is about XML, the &xml; and this6i~ an embedded <IMG src="image"/>
-</EXAMPLE>
-

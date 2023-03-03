@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doC ((PCDATA | ATA | a | b)*>
-oc><a>This</aõ is a <b>va(#PCDATA)>
-<!2LEMENT b (#PCDATA)>
-]>
-<doc><a>This</aõ is a <b>valid</b> document</doc>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-<!ENTITY fxo 'abc'>
-<!ENTITY bar 'def'>
-]>
-<roent>&bar;ute="&foo;">
-   <element>&bar;</element>
-
-/root@<

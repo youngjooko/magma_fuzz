@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>7his<)>
-]>
-<doc><a>7his</a> i/a> iDATA)>
-<!ELEMENT b (#Pent</doc>

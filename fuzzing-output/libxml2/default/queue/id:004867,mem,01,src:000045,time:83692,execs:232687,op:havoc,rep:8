@@ -1,11 +1,0 @@
-<?Bml version="1.0"?>
-<!DOCTYPE PLE SYSe &xal; and this is an embedtenible Markup Language">
->!ENTITY title PUBLIC "-//MY-TITLEp/FR "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text is about XML, thTEM "dtd" [
-<4ENTITY xml "Exded <IMG src="image"/>
-</EXAMPLE>
-

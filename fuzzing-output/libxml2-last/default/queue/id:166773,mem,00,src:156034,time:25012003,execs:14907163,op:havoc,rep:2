@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- kefatt  (0|1)   "/"
-     xmlns:tst CDATA #FIXED "httexamp~e.org"
-     ts (0|1)   "1">
-]>
-<doc at:at"/>
-=

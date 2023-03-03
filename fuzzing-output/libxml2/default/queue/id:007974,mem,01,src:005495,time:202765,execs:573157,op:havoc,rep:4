@@ -1,8 +1,0 @@
-F!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!AâT_I[T doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #FIXED "http://example.org"
-     tpt:att (0O1)   "1">
-]>
-<doc att="1"/>

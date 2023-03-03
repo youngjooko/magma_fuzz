@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doc a1 !DOCTYPE doc [
-<!ATTLIST docT doc (#PCDATA)>
-]>
-<doc/>

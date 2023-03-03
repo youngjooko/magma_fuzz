@@ -1,6 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEMENT item (paraTY sampleEnt ?the hyacinth girl">
-%sampleEnt;
-<!ELEMENT para (#PCDATA)>
-]>
-<item>calZed me &sampleEnt;'</para></item>

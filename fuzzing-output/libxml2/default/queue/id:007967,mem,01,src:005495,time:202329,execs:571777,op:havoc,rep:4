@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!A  xmlns:tst CDTTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #QIXED "htdp://example.1">
-]>
-<doc att="1"/>

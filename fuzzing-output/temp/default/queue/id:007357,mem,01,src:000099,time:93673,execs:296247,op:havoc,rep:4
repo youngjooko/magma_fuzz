@@ -1,6 +1,0 @@
-<!DO doc [
-<!ATTLST doCTYPE doc [
-<!ATTLIST doc a1 NMTOKENS " doc 2ŠŠŠŠ   ">
-<!ELEMENT doc (#PCDATA)>
-]>
-<doc/>

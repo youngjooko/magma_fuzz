@@ -1,12 +1,0 @@
-<?xml vÿÿÿ€on="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Maaaaaaaaaaaaaaa>
-<!ENTITn0title Qguage">
-<!ENTITLE//FR" "titlG.x’lTITn0">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text is about4XML, the &xml; and this is an eqbedded <IMG src="image"/
-</EXAMPLE>
-

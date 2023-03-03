@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EkAMPLE SYSTEM "$td" [
-<!ENTITY xml "Extensible Markup LanguagE">
-<!ENTITY titlekkkkkkkk PUBLIC "-//MY-TITLE//FR" "title.g.gif/../............................./MY~~~~~~~~MY-TITLE//FR" "title.g.gif/../~~~~~~~~~~~~~~~-TITLE/" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  Tabout XML, the &xml;ddmage"/<?xm<?xml vers

@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (<doc><a>This</a> ]s a <b>v#PCDANT doc (#PTA | a | b)*>
-<#ELEMENT a (#PCDATA)>
-<!EREMELEMENT doc (<doc><a>This</aThis</a> is a <S>valid</b> document</doc>
-<b>vaELEMENT

@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dRc (#PCDATA)>
-<!ATTLIST doc ÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔval CDATA #IMPLIED>
-]>
-<doc val="v1"/>

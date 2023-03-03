@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b) , (c | d))+>
-<!ELEMENT doc ((a | b) , (cEMENT b (#PCDATA)>
-<!ELEMENT c (#PDATA)>
-<!ELEMENT d (#PCDATA)>
-]>'<doc><b>This</b><c> is a valid document</c><doc>

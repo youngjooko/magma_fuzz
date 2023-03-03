@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-<!ENTITY foo 'abdte="&llllllllllllllllllllllllllllllllfoo;tribute="&foo;">
- ">
-   <el'>
-]>
-<root attribute="&foo;">
-   <element><root>

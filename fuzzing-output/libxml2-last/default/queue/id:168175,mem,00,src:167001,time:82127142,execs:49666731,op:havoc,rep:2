@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b ((PCD+ , c ,  d)*>
-<!ELEMENT )>

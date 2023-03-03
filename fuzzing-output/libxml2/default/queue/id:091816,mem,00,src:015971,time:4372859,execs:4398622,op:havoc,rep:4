@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "td" [
-<!ENTITY xml "Extble Markup Language">
-<!ENTITY title PUBLIC " //ITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img////////////////.gif////.gif" NDATA GIF>
-]>
-<EXAMPitle;
-  This text is about XML, the &xml*G src="image"†>
-</EXAMPLE<!D

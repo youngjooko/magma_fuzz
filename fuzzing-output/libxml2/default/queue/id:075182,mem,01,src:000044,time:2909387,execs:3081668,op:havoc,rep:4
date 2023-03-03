@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAM_LE SYSTEM "exampleddtd" [
-<!ENTITY xml ExtMarkup Language">
-]>
-<EXAMPLE prop1="a&amp;b" prop2="&xml;">
-  Tesbutes.
-</EXAMPLE>
-

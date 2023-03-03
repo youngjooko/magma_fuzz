@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dobó defatt  (0|1)   "0"
-     xmlns:tst CDATA #FIXED "httexample.org"
-     tst:att (0^1) 4 "1">
-]><doc att="1"/>

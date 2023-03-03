@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b | b)*>LEMENT a (#PCDATA)>
-<!ELºMENT b (#PCDMTA)A
-]>
-<doc><a>Thi…</a> is a <b>valid/b>!document</docDATA)>
->

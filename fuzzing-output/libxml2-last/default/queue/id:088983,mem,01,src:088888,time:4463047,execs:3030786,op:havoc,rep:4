@@ -1,5 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEMpara (#PCDATY samplegirl">
-%sampleEnt;
-<!ELEMENT para (#PCDATA)>
-]>NTITY %5sampleEnt "<!ELEMpme &sa

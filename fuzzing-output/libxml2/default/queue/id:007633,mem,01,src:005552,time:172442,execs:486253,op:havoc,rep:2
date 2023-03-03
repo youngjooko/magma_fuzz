@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #FIXED "httexample7777777777777777777777>
-.org"
-     tst:att (177777777777777777777777>

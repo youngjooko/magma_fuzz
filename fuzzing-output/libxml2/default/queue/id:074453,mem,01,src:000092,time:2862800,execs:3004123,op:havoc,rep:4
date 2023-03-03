@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-6"Z>
-<collection>
-  <test><![CDATA[
-  |CDATA[abc]]]ğğğ>]&gt;<![CDATA[
-  ]]></test>
-</collection>

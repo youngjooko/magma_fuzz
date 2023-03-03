@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<a> is a!ELEMENT a (#PCDATA)>
-<!ELEM$NT b (APCDATA)>
-]>
-<doc><a>This</a> is a <b>valid<A | a | b)*>
-<a>c>

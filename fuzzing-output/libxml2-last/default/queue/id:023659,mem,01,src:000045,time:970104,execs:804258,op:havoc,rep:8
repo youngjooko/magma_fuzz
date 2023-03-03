@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE ÿXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Languag-//MY-TITLE0/FR" +title.xml">ITY title PUage SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &tMtle;
-  This text is about XM is an embedded <IMG src="image"/>
-</EXAMPLE>
-

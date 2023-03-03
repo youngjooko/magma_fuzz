@@ -1,3 +1,0 @@
-# environment variables:
-# command line:
-'./afl-fuzz' '-D' '-i' '../../seeds/null' '-o' 'fuzzing-output/ffmpeg-null1-201' './ffmpeg_g_201' '-y' '-i' '@@' '-acodec' 'pcm_s16le' '-f' 'rawvideo' '/dev/null0'

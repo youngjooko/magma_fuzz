@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dotst:att>
-<!ATTLIST doc
- defatt  (0|1)  xmlns:tst CDATA #FIXED "http://eample.org"
-     c EMPTY (0|1)   "1">
-]>
-<doc at="1"/>

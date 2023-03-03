@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA)>
-<!ATTLIST doc val CDATA #IMPLIED>
-]>
-<doz val="ATA #IMPLIED>
-]>
-<doz val="v1"/>

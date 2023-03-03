@@ -1,7 +1,0 @@
-<?xmlDOCTYPE doc [
- <!'NTITY newl "&#?>
-<!DOCTYPE doc [
- <!ENTITY newl "&#13;">
-]>
-
-<doc>&newl;</doc>

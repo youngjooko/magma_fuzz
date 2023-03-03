@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<ns:tst CDATA #FI!ELEMENT doc EMPTY>
-<!ATTLInT doc
- defatt  (0|1)   "0"
-  -  xmlns:Yst CFATA #FIXED "http://example.org"
- 4   tst:att (0|1)   "1">
-]>
-<doc att="1-/>

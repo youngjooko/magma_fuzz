@@ -1,7 +1,0 @@
-<!DOCTYPE doc [ê;!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "02
-     xmlntp://exampl1">rg"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

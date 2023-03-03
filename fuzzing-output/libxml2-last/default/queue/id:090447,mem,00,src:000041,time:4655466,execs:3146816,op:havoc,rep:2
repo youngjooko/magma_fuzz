@@ -1,8 +1,0 @@
-<!DOCTYPE d34oc [
-<!ENTITY lt "&#38;#60;"> 
-<!ENTITY gt     "&#62;"> 
-<!ENTITY amp    "&#38;"> 
-<!ENTITY amp apos   "&#39;"> 
-<!ENTITY quot   "&#34;"> 
-]>
-<doc/>

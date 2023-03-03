@@ -1,4 +1,0 @@
-<!DOCTYPE doc [
-<!AT!ATTLIST doc !ELEMENT doc (#OTA)>
-]
-<doc/>

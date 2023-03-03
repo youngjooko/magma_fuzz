@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST d a NMTOKENS #IMPLIED>
-<!ATTLIST tst b CDATA #IMPLIED>
-<!ENTITY d "&#xD;">
-<!ENTIT

@@ -1,11 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Jarkup Language">
-<!ENTITY title PUBLIC "-//MY-TIT@E//FR "titl`.xml">
-<!ENTITY imag
-<EX'MPLE>
-  &title;
- &title;
-  This text  This text is about XML, the &xmlG and this is an embedded <IMG src="image"/>
-</EXAMPLE>
-

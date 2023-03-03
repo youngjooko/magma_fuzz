@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ENTITY YN '"Yes"' >
-<!ENTITY WhatHeTai '"Yes"' >
-<!ENTITY Wd "He said &YN;" >
-]>
-<doc>&WhatHeSaid;</doc>

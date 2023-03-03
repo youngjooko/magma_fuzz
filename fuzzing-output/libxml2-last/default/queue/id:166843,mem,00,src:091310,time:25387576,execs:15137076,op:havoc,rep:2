@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dog
-att  (0|1
-<!ATTLIST dog
-att  (0|1 #FIXED "hptexample.org"
-    att (0|1)   "1">
-]>
-<doc att=Ý1"/>

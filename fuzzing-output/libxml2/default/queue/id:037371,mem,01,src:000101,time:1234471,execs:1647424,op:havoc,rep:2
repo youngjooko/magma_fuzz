@@ -1,9 +1,0 @@
-<!DOCTYPE x [
-<!ELEMENT est EMPTY>
-<!ATTLIST test att CDATA "attvalue">
-<!ENTITY test.ent "<test/>">
-]>
-<x>
-0   <test/>
-    &test.ent;
-</x>

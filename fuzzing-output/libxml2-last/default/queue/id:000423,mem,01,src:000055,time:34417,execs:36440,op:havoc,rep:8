@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCD_TA | a ƒ b)*>
-<!ELEMENT a  #PCDATA)>
-<!Edoc (#PCDATA |LEMENT b (LEMcNT b (#PCDATA)>
-]>
-<d>T#PCDATA)>
-]>
-<d>This</a is a <b>valid</b> document</doc>

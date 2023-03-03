@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ENTITY lt "&#38;#60;"> 
-<!ENTITY ft     "&#62;"> 
-<!ENTITY amp "&#9;&#9;"> 
-<! NTITY quot   ""> 
-<! NTITY quot   "&#34;"> 
-]>
-<doc/>

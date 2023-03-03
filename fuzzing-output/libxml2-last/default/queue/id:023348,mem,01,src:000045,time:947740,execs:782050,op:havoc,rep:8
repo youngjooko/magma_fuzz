@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EyAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extenszble Marjup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]
-  This text is aboÿÿÿML, the &xml; andanhis is  t embedded <IMG src="vmage"/>
-</EXAMPLE>
-

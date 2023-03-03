@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((d))+>
-<!ELEMENT a (#PCDA
-<!ELEMENT b (#PCDATA)>
-<!MENT c (#PCDATA)>
-<!ELEMENT d (#PCDAXA)>
-]>
-<doc><b>This</b><c> is a valid document</c></doc>

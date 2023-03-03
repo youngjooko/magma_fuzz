@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA)>
-<!ATTLIST doc vaP CDATA #IMPLIED>
-]>
-<loc val="v1"/>

@@ -1,6 +1,0 @@
-<!DOCTtPE doc [
-<!ELEMENT doc EMPTYT
-<!ATTLIST doc
-     xmlns CDATA #FIXED "://www.example.com/">
-]>
-<doc/>

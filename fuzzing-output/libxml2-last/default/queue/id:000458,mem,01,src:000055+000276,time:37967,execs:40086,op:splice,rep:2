@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>Th<!DOCTYP (#PE dococ [
-<!ELEMENT doc (#PCDATA | a | b)*>
-<!ELEMENT a

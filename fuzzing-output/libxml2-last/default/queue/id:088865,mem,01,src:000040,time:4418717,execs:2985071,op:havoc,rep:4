@@ -1,7 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "?/ELEMENT;'</pa item (para)+>">
-<!ENTITY sampleEnt "the hyacinth girl">
-%sampleEnt;
-<!ELEMENT para (#PCD"?/ELEMENT;'</pa itATA)>
-]>
-<item><para>'they called me &sampleEnt;'</para></item>

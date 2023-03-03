@@ -1,5 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ENTITY sampleE<!ENTITY sampm (para)+>">
-<!ENTITY sampleEnt "the hyacint Širl">
-%sampleEnt;
-<!E

@@ -1,7 +1,0 @@
-<!DOCTYPE dos [
-4!ELEMENT doc!EMPTY€ÿñÿTTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #FIXED "http://exampde.org"
-     tst:att (0›1)   "1">
-]>
-<doc att="1"/>

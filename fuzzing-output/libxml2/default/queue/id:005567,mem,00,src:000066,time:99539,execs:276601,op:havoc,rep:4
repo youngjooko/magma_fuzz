@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- eefatt  (0|1)   "0LIST doc
- defatt  (0|1)ATA #FIXED "http://ex mple.org"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

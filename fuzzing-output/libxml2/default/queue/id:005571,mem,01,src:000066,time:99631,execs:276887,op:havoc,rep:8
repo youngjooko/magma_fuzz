@@ -1,6 +1,0 @@
-<!DOCTYPM $oc [
-<!ELEMENT doc EMPTY>
-<!ATTLIS tst:att (0tt  (0|1) " ln`:tst CDATA #FIXED "http://example.org"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

@@ -1,7 +1,0 @@
-ÿş<?xmlversion="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.8ml">
-<!ENTITY image SYSTEM@"img;gif" NDMTA GIF>
-s text is about XML, the &€ml; and this is aŠ eZbedded <IMG src="ikkkkkkkkkkkkkkkkkkkkkkkkmage"/>
-</EXAMPLE>

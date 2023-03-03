@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLI!ATTLIST doc a1 NMTOKENS " 1ST doc a1 NMTOKENS " 1   2     C ">
-<!ELEMENp doc (#PiDATA)>
-]>
-<doc/>

@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLISTL  ">
-<!ELEMENT doK (docDATA)>1   2       ">
-<!ELEMENT doc (#PCDATA)>
-]>
-<doc/>

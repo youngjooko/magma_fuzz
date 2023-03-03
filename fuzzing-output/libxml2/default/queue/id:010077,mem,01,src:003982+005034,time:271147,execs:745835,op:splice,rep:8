@@ -1,5 +1,0 @@
-ÿþ<?xml versio "Extensible Markup Language">
-<ÿENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s te &xml; andded <IMG src="image"/>
-</EXAMPLE>

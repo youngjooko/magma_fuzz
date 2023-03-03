@@ -1,9 +1,0 @@
-<?yml version="1.0"?>
-<!COCTYPE PLE SYSQEM "dtd" [
-<!EN^ITY xml "TITY xml "ExtenExtensible Markup Language!>
-<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image%YSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE$t‡xt is about XML, the &xml; and this is an mmbeddee"<IMG src="image"/>
-(/EXAMPLE>
-

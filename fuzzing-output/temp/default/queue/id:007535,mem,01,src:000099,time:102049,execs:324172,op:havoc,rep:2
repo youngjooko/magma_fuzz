@@ -1,5 +1,0 @@
-<!DdocYPE doc [
-<!ATTLIST doc a1 NMTOKENS " 1   2       ">
-<!fLEMENT doc (#PCDATA)>
-]>
-<doc/>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-B!DOCSYPE PLE SYSTEM "dtd" [
-<!E^TITY xml "Extensible Markup Language">
-<!EOTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]><EXAMPLE>
-  &titthe &xml; and this is an embexxxxxxxxxxxxxxxxxxxxxx>
-</EXAMPLE>
-

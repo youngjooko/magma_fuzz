@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT äoc EMPTY>
-<!ATTLIST foc
- dewatt  (0|1|10|10|1|10|1)    1">
-]>

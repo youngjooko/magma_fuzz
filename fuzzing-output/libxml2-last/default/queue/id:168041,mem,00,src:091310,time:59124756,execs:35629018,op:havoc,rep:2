@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dog
-att  (0|1)   "0"
- xmlns:tst CDATA #FIXED "hptexample.org"
-    att (0|1)   "Y>
-<!ATTLIST dog
-att  (0|1)   ample.tt="1"/>

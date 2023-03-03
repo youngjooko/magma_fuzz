@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0httexampme.org"
-   ATA #FIXED ""
-    xmlns:tst CD  tst:žtt (1|1)   "1">
-]>
-dtt="1"/>

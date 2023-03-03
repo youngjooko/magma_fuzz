@@ -1,8 +1,0 @@
-ÿþ<?xml version="1.0"?>
-<!DOCTYPE PLE SY>
-<!DOCTYPE 
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PÖBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" DATA GIF>
-s text is about XML, the &xml; and this is an embedded <IMG src="image'/>
-</EXAMPLE>

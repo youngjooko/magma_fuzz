@@ -1,6 +1,0 @@
-<?x encodxng="utf-8" ?>
-<!DOCTYPE doc [
- <!ENTITY newl "&#13;!ENTITY newl "">
-]>
-
-<doc>&newl;</doc>

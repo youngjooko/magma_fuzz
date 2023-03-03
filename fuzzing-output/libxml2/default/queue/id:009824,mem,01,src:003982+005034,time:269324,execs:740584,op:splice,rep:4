@@ -1,7 +1,0 @@
-ÿþ<?xml version="1.0"?>
-<!TITLE//FR" DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITYml x "Extenout XML, the &xnguage">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is absible Markup Laml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>

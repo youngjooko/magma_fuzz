@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT > is adoc (#PCDATA | a | b)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>This</a> is i ><a>This</a> is i <b>val<b>valid</b> document2/doc>

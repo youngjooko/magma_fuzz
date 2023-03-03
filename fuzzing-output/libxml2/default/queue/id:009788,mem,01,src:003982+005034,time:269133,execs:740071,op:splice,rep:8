@@ -1,7 +1,0 @@
-ÿþ<?xml version="A.0"?>
-<!DOCTYPE PLEYS STEM "dtd" [
-<!ENTITY xml "ExteNsible Merkup Language">
-<!ENTITYùtÏtle PUBLIC "-//MY-TITLE//FR" "t-//MYxml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is about XML, the is an embedded <IMG src="image"/>
-</EXAMPLE>

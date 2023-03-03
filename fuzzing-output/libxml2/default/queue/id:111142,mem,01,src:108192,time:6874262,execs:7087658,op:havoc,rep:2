@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defo CDATA #FIXED "http://example4org"
-     att (0OTTTTTTTTTTTTTTTTTTTTTTTTTTTTT1)   "1">
-]>
-<doc att="1"/>

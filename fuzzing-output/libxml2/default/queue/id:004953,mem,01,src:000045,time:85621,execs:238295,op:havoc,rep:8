@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!à<CTCPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensibl% Markup Language">
-<!ENTITY title PUBL">
-<!ENTITY image SYSTEM "img.gif" XAMPLE>
-  &title;
-  This text iR abML, the &xml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>
-

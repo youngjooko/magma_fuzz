@@ -1,5 +1,0 @@
-<Pxml version="1.0" encodTYPE doc [
- <!ENTITY newl "&#13;">
-]>
-
-<doc &newl;</dvc>

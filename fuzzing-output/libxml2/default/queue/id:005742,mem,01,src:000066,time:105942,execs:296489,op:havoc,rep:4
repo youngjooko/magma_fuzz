@@ -1,9 +1,0 @@
-<!DOCTYPEMPTY>
-<!ATLIST doc
- defatt! (0|TLIST docc EMPTY>
-<!ATTLIST doc
- defatt! (0|1)   "0"
-     xmlns:tst CDATA #FIXED "ht‹p://example.org"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

@@ -1,6 +1,0 @@
-<?dddddddddddddddddddddddddddxml vers‰on="1.0B encodiÿÿÿÿutf-8" ?P
-<!DOCTYPE doc [
- \!ENTITY newl "&#1Ž;">
-]>
-
-<doc>&newl;</doc>

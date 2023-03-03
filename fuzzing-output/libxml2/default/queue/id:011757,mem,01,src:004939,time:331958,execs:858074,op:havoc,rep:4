@@ -1,7 +1,0 @@
-<?xml vMrsion="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTTY xml "Extensible Markanguagguage">
-<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIFThis t‡xt is about XML, the &xml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>
-

@@ -1,7 +1,0 @@
-<!DOCTYPEtem [
-<!ENTITY % sampleEnt "<?ELEM">
-<!ENTITY sampleEnt "thecinth girl">
-%sampleEnt;
-<!CDATA)>
-]>
-<itymled me &sampleEnt;'</para></item>

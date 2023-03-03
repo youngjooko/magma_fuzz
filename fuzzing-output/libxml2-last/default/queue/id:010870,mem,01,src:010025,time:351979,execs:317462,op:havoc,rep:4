@@ -1,6 +1,0 @@
-<?x |?utf-8" ?>
-<!DOCTYPE doE [
- <!ENTITY newl "&#13;">
-]>
-
-<doc>&newl;</doc>

@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<
-ELEMENT doc EMPTY>
-<!ATTLIST doc
- defattp://|1)   "0"
-     xmlns:tst CDATA #FIXED "htt  (0example.org"
-     tpt:att (5O1)   "1">
-]>
-<dow att="1"/>

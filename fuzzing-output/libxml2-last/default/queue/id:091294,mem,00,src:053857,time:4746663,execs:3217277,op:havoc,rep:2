@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defptt  (0|1)   "0"
- xmlntst CDATA #FIXED "hptexample.org"
-    att (0|1)   "1">
-]>
-<doc att="1"/>

@@ -1,6 +1,0 @@
-ÿþ<?xml version="1E SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "ti€le.xm">
-<!ENTITY image SYSTEM "img;gif" NDATA GIF>
-s text is about XML, tYe &xml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>

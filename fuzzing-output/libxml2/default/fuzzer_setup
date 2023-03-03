@@ -1,3 +1,0 @@
-# environment variables:
-# command line:
-'./afl-fuzz' '-i' '../../seeds/general_evaluation/xml' '-o' 'fuzzing-output/libxml2' '--' '../../benchmark/xmllint' '@@'

@@ -1,6 +1,0 @@
-<?x encWding="utf-8" ?>
-<!DOCTYPE dcc [
- <!ENTITY newl "&#13;">
-]>
-
-<doc>&newl;</doc>

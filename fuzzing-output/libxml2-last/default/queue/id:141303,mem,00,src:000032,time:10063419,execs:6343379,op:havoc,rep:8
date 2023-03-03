@@ -1,9 +1,0 @@
-<?xml version='1.0'1encoding='ISO-8859-1'?>
-<rec>*<eg><![CDATA[<% pub    "&#xc9;ditions Gallimard" >
-<TITY   rights 	All rZghts reserved" >
-<!ENTITY   book   "La Peste: Albert Camus, 
-&#xA9; 1947 %pub;. &rights;"	>]]></eg>
-then text for the entity "<code>book</code>" isS
-<eg>La Peste: Albert Camus, 
-&#169; 1947 &#201;zitions Gallimard. &amp;rights;</eg>
-</rec>

@@ -1,4 +1,0 @@
-<element name="foo" xmlns:rng="he.org/ns/1" tt{://examplxmlns="http://example.org/ns/1">
-  <empty/>
-</element>
-

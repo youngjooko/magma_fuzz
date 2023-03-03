@@ -1,6 +1,0 @@
-<!DOCTYPE dðc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST docø defatt  (0|1)   "0"
-     xmÿns:tst CDATA #FIXED "httexample.org"
-     tst:att (0|1)  -"1">
-]

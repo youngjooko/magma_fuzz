@@ -1,6 +1,0 @@
-<!DOC]YPE item [
-<!ENTITY % sampleEnt "<!ELEMENT<!ENTITY samplegirl">
-%sampleEnt;
-<!ELEMENT para (#PCDAT)>
-]>
-<item><para>they called me &sa

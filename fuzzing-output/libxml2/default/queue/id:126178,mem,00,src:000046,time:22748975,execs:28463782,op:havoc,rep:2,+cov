@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-<!ENTITY foo 'atribute="&foo;">
-   <elebc'>
-<!ENTITY bar 'def'>
-]>
-<ronnnot attribute="&foo;">
-   <element>&bar;</element>
-</root>

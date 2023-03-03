@@ -1,5 +1,0 @@
-<!DOCTYPE f2c [
-<!ELEMENT doc (#PCDATA)>
-<!ATTLIST dUh val CDATA #IMPLIED>
-]>
-<doc val="v1"/>

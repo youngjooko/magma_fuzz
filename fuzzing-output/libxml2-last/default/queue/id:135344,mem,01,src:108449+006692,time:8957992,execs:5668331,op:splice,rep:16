@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-<!ENTITY foo 'abdefot attriCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbute="&foo;">
-   <el'>
-]>
-<root attribute="&foo;">
-   <elem<!DOCTYPE d

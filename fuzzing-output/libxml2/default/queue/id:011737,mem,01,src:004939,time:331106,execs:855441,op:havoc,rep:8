@@ -1,11 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xVl "Extensiâle Markup Language">
-<!ENTITY titlQ PUBLIC "-ESY-TITLE//FR" "titleBLIC "-E SY-TITLE.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &tiÿle;
-  This t‡xt i‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰his is an embedded <IMG src="image"/>
-</EXAMPLE>
-

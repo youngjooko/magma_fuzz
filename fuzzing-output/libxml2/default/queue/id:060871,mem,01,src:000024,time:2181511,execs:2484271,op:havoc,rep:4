@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<article xmlns="tag:foofoofoofoofoofoofoofoo"
-  xmtns:dc="http://rurlc/terms/">
-<foop:content xmlns:dcterms="http://purl.org/d.org/dc/elements/1.1/"
-  xmlns="http://www.w3.org/1999/xhtml"
-  xmlns:foop="tag:foofoofoofoofoofoofoofoo">
-//foop:content>
-</article>
-

@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT Woc EMPTY>
-<!ATTLIST doc
-     xmlns CDATA #FIXED "://www.€xample.com/">
-]>
-<doc/>

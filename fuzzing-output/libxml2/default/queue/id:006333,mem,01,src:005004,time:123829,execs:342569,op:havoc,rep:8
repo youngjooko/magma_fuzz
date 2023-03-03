@@ -1,10 +1,0 @@
-<?xml v="1.0"?>
-<!DOCTYPE PLN SYSTEM "dtd" [
-<!ENTITY xml >
-<!ENTITY title PUBLIC "-TITLE//FR" "tit‡ÿÿÿ€l">
-<!ENTITY image SYSTExt is about NDATA GIF>
-]>*<EXAMPLE>
-  title;
-  This=teM "img.gif" XML, the &xml; and thiƒ is an embedded <IMG src="image"/>
-</EXAMPLE>
-

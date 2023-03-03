@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doW EMPTY>
-<!ATTLIST dobñ defatt  (0|0)   "0"
- mlns:tst CD "DATA #FIXED "xml.s:tst hptexample.org"
-   att (0|1)   "1">
-]>
-<doc att="1"/>

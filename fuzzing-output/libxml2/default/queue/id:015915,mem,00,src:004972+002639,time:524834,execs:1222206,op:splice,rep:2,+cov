@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "<!DOCTYPE doc [NT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELE\ENT c (#PCDATA)>
-<!ELEMENT d (#PCDATïï 

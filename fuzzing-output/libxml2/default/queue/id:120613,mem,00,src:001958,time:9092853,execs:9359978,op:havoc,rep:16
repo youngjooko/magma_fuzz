@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (A)>
-]>
-<doc><b>This</b><c> is a</c><d> vument</d></doc>

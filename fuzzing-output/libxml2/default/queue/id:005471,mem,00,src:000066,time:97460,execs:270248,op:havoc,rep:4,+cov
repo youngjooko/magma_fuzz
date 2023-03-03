@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmATA #FIXED "http://_xample.org"
-     tst:att (0|1)   "1">
-]>   tst:att (
-<doc att="1"/>

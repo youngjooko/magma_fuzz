@@ -1,5 +1,0 @@
-<!DOELEMENT doc (#PC@TYPE doc [
-<!ATTLIST doc a1 N8TOKENS " 1   2       ">
-<!ELEMENT do (#PCDATA)>
-]>
-<doc/>

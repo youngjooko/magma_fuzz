@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Ex Markup Language">
-<!ENTITY title PUBLIC " //M" "title?_ml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text is aboutggggggggggggggggggggggggXA”PLE>

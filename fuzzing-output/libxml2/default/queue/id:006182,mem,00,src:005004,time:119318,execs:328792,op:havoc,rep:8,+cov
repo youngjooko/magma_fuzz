@@ -1,11 +1,0 @@
-<?x’l Ž="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml >
-<!ENTITY title PUBLIC"-&TITLE//FR" "titlÿÿÿ€l">
-<!ECTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text is ybout XML, the#&xml; and thit is an embedded <IMG src="image"/>
-</EXAMPLE>
-

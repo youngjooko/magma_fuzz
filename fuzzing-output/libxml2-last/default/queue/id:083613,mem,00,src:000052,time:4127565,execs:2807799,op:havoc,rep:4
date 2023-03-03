@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (((#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDAGA)>
-<!ELEMENT d (#PCDATA)>
-]> <doc><b>Tc></doc>

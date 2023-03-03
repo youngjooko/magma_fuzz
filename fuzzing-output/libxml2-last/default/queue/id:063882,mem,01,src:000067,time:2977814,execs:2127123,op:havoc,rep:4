@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENTTTTTTTTTT doc EMPTY>
-<ATTLIST doc
- ! //www.s CDATA #FIXED "://www.example.com/">
-]>
-<doc/>

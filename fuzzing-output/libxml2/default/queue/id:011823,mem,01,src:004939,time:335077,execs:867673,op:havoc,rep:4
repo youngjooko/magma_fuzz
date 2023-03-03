@@ -1,11 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY titlQ PUBLIC "//MY-TITLE//FR" "title.xml">
-<!ENTITY image SZSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLº>
-  &title;
-  This t‡xt is about XML, the &xml; and this is an embeddee"/>
-</EXAMPLE>
-

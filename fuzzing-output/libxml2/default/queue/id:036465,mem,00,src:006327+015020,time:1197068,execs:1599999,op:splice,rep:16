@@ -1,7 +1,0 @@
-<?xml v="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml >
-<!ENTITY uitle PUBLIC "--TITLE//FR" "titlÿÿÿ€l">
-<!ENTITY image SYSTEM "#mg.lns:dia="http://www.lyr.li:::e/~alla/dia/">
-  <dia:diagramdata>
-  

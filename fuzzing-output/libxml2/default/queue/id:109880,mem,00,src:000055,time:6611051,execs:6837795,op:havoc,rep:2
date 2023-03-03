@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA )*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>This</a> is a <b>vd</b> document</doc>

@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST Noc
- defatst CDATA #FIXED "hptexame.org"
-aTY>
-<!ATTLIST doc
-tt (0|1)   "1">
-]>
-<doc att="

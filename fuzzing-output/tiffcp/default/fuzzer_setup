@@ -1,3 +1,0 @@
-# environment variables:
-# command line:
-'./afl-fuzz' '-i' '../../seeds/tiffcp' '-o' 'fuzzing-output/tiffcp' '--' './bin/tiffcp' '-M' '@@' 'tmp.out'

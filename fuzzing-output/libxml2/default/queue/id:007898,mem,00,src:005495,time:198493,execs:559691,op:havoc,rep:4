@@ -1,7 +1,0 @@
-<!DOCTYPE doc [%<!ELEMENT doc EMPTY>
-ÿÿÿTLIST Koc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #FIXEELEMENTD "http://example.org"
-     tpt:att (0O1)   "1">
-]>
-<doc att="1"/>

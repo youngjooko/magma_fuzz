@@ -1,7 +1,0 @@
-<!DOCTYPE iôem [
-<!ENTITY % sampleEnt "I!ELEÿNT item (para)+>">
-<!ENTITY sampleEnt "the hyacio_h girl">
-%sampleEnt;
-<!ELEMENT para (#YCEATA)>
-]>
-<item><para>'they called me &sampleEn7;'</para></item>

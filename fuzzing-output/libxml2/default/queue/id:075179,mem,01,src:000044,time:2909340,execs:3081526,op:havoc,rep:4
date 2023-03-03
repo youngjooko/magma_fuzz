@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "eample.dtd" [
-<!ENTITY xml "ExtMarkup Language">
-]>
-<EXAMPLE prop1="a&mp;b" prop2="&xml;">
-  TNst of entjties in attributes.
-</EXAMPLE>
-

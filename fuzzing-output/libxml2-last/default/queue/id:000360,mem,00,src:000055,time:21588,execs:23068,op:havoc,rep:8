@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc (#PCDATA >
-<!ELEMENT b (#PCDATA+>
-]>
-<dom<a>This</a> is a <b>valid</o> docèment</dxc>

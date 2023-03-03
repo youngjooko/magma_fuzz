@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ ,Ac ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!-LEMATA)>
-]>

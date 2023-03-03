@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA FIXEDA"httexample.org"
-     tst:att (1|1)   "1">
-]>
-dtt="1"/>

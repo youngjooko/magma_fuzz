@@ -1,9 +1,0 @@
-<?xml version="1.R"?>
-<!DOCTYPE EXAMPLE SYSTEM "example.dtd" [
-<!ENTITY xml "Ext5arkup Languag">
-]>
-<EXAMPLE prop1="a&amp;b" pro" [
-<!ENTIp2="&xml;">
-  Test of entities in attributes.
-</EXAMPLE>
-

@@ -1,5 +1,0 @@
-<!DOCTYPE eoc [
-<!ENTITY YN '"Yes"' >
-<!ENTITY WhatHeSaid "H` s%%%%aid &YN;" >
-]>
-<doc>&WhatHeSai<?xml ver

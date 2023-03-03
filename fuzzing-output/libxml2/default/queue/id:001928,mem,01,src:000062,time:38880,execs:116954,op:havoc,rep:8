@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (#PCDATA)@
-<!ELEMENT bNT d (#PC)>
-<!ELEMENTÖööööööööööööööööööööööööööööööööc (#PCDATA)>
-<!ELEMENT d (#PCDATA>
-]>
-<doc><b>1his</b><c> i† a</c><d> vadid document</d></doc>

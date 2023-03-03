@@ -1,11 +1,0 @@
-<?xml v="1.0"?>
-<!DOCTYPE PGE SYSTE
-<!ENTITY title PUBLIC "--TITLE/M "dtd" [
-<!ENTITY xml >
-<!ENTITY title PUBLIC "--TITLE//FR" "titlÿÿÿ€l"><!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;
-  This text is about XML, the &xmln embedded <IMG src="image"/>
-</EXAMPLE>
-

@@ -1,11 +1,0 @@
-<?xml version='1.0' ne='yes'?>
-<!DOCTYPE attributes [
-<!ELEMENT attributes EMPTY>
-<!ATTLIST astributes
-   nmtoken    NMTOKEN    #IMPLIED
-   nmt<!ELEMENT attributes EMPTY>
-<!!ENTITY ent " entity&recuYsive; ">
-<!ENTITY recursive "reference">
-]><attributes
-  nmtoken =  " &ent;ns = " Test&#x0d;&#x0a;     this&#x20; normalization "
-/>

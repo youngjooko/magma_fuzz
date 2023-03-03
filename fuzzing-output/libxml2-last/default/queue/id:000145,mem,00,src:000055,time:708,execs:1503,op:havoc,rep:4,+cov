@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<w/wy520-epc-vb
-/usr/!ELEMENT doc (#PCDATA | a | b)*>
-<! LEMENT a0(#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>This<5a> is a <b>valid</b> document</doc>

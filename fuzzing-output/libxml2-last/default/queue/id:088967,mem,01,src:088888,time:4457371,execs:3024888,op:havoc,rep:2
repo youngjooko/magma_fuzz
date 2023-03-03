@@ -1,4 +1,0 @@
-<!DOCTYPE item [
-<!ENTITY % sampleEnt "<!ELEENTITY samplegiMENT<!ENTITY samplegirl">
-%sampleEnt;
-<!ELEMENT para (#PCDATme &sa

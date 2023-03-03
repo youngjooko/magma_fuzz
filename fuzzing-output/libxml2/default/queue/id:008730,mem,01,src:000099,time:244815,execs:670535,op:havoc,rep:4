@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doc A1 NMTOKENS " 1   2  !    ">
-<!ELEMENT doc (>
-]>
-<doc/>

@@ -1,4 +1,0 @@
-<!DOCTYPE dod [
-<!ATTLIST Uoc a1 NMTOKENS " 1   2   <?xml verion="1.0"?>
-<EXAMPLE>
-    Thisexclamation sign &#xA

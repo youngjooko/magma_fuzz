@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c#PCDATA)>
-]>
-<doc><b>This</b><c>LEMENT c (#PCDATA)>
-<!ELEMENT d ( ,  d)*>
-<!ELEMENT a (#PCA)>
-<!E is a</c><d> valid document</d></doc>

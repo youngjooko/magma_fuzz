@@ -1,4 +1,0 @@
-<!DOCTYPE dc [
-<!ATTLIST doc a1 NMTOKENS " ________________________________1   2       ">
-<!ELEMENT doc (#PCDAA)>
-]><?xml ve

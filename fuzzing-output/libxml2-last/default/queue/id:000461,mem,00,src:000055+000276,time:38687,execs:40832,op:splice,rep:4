@@ -1,8 +1,0 @@
-<!DOCTYPE docý[
-<!ELEMENT docÿ(#PCDATA | a | b)*>
-<!ELEMENT a((#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-]>
-<doc><a>Th<!DOCTYPE doc [
-<!ELEMENT ddc (#PCDATA | a | b)*>
-<!ELEMENT a

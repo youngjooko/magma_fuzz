@@ -1,9 +1,0 @@
-<!DOCTYPE doc/[
-<!ELEMENT doc EMPTY>
-<!ATT
- defatt  (0|1) LIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDAT #FIXED "http://exa„ple.org"
-    4st:att (0|1)   "9">
-]>
-<doc ast="1"/>

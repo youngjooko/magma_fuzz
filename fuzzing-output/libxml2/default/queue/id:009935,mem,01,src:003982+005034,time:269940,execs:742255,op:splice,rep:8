@@ -1,7 +1,0 @@
-ÿþ<?xml version="1.0"?NDATA GIFT
-s tex><!DOCTYPE PLE0SYSTEM "dtd" [
-<!ENTITY xmk "Hxtensible Ma\kup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img;gif" NDATA GIFT
-s text is about XML, the &xml; and this is an emledded <IMG src="image"/>
-</EXAMPLE>

@@ -1,4 +1,0 @@
-<root>
-  <foo xmls=!http://abc" />
-  <bar />
-</root>

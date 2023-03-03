@@ -1,7 +1,0 @@
-<?x en<?version="1.0"?>
-<!DOCTYPE EXAMPLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible MarkuP Language">
-<!ENTITY title PUBLIC "-//5Y-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "">
-<!ENTITY iimage SYSTEmage Simg.&title;
-  ThisÌtext is about XML, the &xml; and this is an embeèed <ING src="image"/

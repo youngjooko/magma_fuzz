@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-TOKENS " 1   2      *">
-<!ELEMENT doc (#PCDATA)~
-]>
-<doc
-TOKENS />

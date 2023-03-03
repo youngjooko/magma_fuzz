@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Lt is about XML, the &xle PUBLIC "-//MY-TITLE//FR" "‹itle.xml">
-<!ENTITY image SYSTEM "imÓ.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &title;J  This tekt is about XML, the &xml;and this is an embedded <IMG srcK"imagdÿ/>
-</EXAMPLE>
-

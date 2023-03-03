@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , c ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c
-(#PCDATA)>
-<!ELEMENT d (#PCDATA)>
-]>
-<doc>Fb>TEMENT a (#PCDAa</c><d> valid docmment</d></doc>

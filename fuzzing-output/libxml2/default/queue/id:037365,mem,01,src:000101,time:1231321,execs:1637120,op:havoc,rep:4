@@ -1,8 +1,0 @@
-<!DOCTYPE x [
-<!ELEMENT x (test*)>
-<!ELEMENT test EMPTY>
-<!ATTLIST test att CDATA "atßßßßßßßßßßßßßßßßßßßßßßßßßest/>
-  /€ÿ>
-]>
-<x>
-    <tß "<test  &test.e>

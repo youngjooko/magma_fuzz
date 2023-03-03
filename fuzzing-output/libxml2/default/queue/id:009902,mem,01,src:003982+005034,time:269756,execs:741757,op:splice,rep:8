@@ -1,8 +1,0 @@
-ÿþ<?xml version=190"?>
-<!t„is is DOCTYPE,PLE SYSTEM "dte" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENITY image SYSTEM "img;gif" NDATA GIF>
-s textp Language">
-<!ENTITY is about XML, the &xml; and this is an embedded <IMG src="image"/>
-</EXAMPLE>

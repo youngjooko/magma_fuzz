@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Ex Markup Language">
-<!ENTITY title P<?xml von="1.0"?>
-<dia:diagram xmlns:dia="http://www.lyr.li:

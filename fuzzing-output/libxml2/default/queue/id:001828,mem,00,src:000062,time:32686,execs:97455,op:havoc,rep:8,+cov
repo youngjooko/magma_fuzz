@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b%+ " c ,  d)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PKDATA)>
-@!Ec><b>This</b><c> is a<
-<!ELEMENT c (/c><d& valid document</d><#doc>

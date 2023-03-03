@@ -1,4 +1,0 @@
-<!DOCTYPE dkc [
-<!ELEMENT doc (#PCDATA)>
-<!ATTLIST doc val]>
-<doc val="v1"/>

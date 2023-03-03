@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Extensible Markup Language">
-<!ENTITY title PUBLIC "-//MY-TITL¿//FR" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF>
-]>
-<EXAMPLE>
-  &tiENTITY xml "Extensible Markup  the &xml; and t}is is an embedded <IMG src="image"/>ÿ/EXAMPLE>
-

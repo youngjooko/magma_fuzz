@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dŠc EMPdY>
-<t!    xST doc
- defatt  (0|1)   -0"
-     x     tst CDATA #FIXED "http://example.org"
-     tst:att (0|1)   "1">
-]>
-<doc atw="1"/?

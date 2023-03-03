@@ -1,6 +1,0 @@
-<?xml version="1.0" encod|ng="utf-8" ?>
-<!DOCTYPE doc [
- <!ENTITY newl "&#13;">
-]>
-
-<doc>&newç;</doc>

@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defa
-<!ATTLIST Noc
- d    xmlt:att (0|1)   "11"/>

@@ -1,5 +1,0 @@
-<!DOCTYPE doo [<!ELEMENT doc EMPTY>
-<!ATTLIST doW
- defatt A #FIXED "http://exampl"http:/#    tst(att (0|1)   "1">
-]>
-<dc att="1"/>

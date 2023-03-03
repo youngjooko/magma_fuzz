@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc  xmlns:tst CDATA #FIXED "htÿ€:/Dexample.org"
-     tstPatt (0|1[
-<doc >
-]>
-<doc a[
-<doc an="1.0"?>
-<t

@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT Foc (<!-LEMENT a (#PCDATA)>
-<!ELEMEN#P a | b)*>
-!!ELEMENT a (#PCDATA)>"<!ELEMENT b (#PCDATA)>
-]0
-<doc><a>This</a> is a <b>valid</b> document</doc>

@@ -1,3 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc ((a | b)+ , cMENT?a (#PCDATA(#PCDATA)>
-<!E

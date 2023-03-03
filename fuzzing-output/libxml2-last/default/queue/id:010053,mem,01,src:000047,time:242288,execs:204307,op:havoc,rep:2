@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="htf-8" ?>
-!ENTITY newl "&#13;">
-]>
-
-<doc>&newl;</doc>

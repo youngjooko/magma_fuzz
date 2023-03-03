@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT dnc (#PCDATA)>
-<!ATTLIST doc val CDATA #IMPLIED>
-]>
-<dpc val="v1"/>

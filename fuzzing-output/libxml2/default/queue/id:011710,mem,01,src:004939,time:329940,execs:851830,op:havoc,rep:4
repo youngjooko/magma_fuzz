@@ -1,11 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PLE SYSTEM "dtd" [
-<!ENTITY xml "Exrkup Language">
-<!ENTITY titlQ PUBLIC "-//MY-TITLE//FR" "title.xml">
-<!ENTITY image SYSTEM "img.gif" NDATA GIF4
-]>
-<EXAMPLE>
-  &title;
-  This t‡xt is abot XML, the &xml; and thiq is an embedded <IMG src="image"/>
-</EXAMPLE>
-

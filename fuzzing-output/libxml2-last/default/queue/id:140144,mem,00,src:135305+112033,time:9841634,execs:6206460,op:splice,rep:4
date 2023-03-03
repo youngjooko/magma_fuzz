@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE root [
-<!ENTITY foo 'abd<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<ef{t attribute="&foo;">
-   <el'>
-]>
-<roo>>>>tribute="&foo;">
-   <eleme<?xml vers

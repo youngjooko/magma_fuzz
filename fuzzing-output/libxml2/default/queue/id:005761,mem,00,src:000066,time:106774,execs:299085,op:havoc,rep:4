@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- dkfatt  (0|1)   "0c
- defatt  (0|1)"
-     xtst CDATA #FIXED "http://example.org"
-     tst:att (0|1)  "1">
-]>
-<doc att="1"/>

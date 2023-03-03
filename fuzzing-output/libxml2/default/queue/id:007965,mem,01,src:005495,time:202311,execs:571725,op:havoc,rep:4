@@ -1,7 +1,0 @@
-<!XO://example.org"
- MENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|"""""""""""""N"""""""""""""TA #FIXED "http://example.org"
-     tpt:att (0O1)   "1">
-]>
-<doc att="1"/>

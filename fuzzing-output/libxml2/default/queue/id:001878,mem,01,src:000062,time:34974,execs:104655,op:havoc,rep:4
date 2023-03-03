@@ -1,7 +1,0 @@
-<sssssssssssssssssssssENT doc ((a | b)+ , c ,  d)*=
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT c (#PCDATA)>
-<!ELEMENc d (#PCDATA)>
-]>
-<doc><b>ThisÇ/b><c> is a</c><d> valid document</d></doc>

@@ -1,5 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLISTdoc
- deflns:tst CDATA #FIXE "http://example.org"
-   

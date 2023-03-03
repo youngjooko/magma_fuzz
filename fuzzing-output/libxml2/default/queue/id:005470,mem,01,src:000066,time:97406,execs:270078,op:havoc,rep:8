@@ -1,7 +1,0 @@
-<!DOCTYPE eoc [
-<!DLEMENT doc EMPTY>
-<"
-     xmlns:tst CDATA #FIXED "h{tp:/example.org"
-     tst|1)   "1">
-]>
-<doc att="1"/>
